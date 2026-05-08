@@ -1,0 +1,1690 @@
+[
+  {
+    "requestId": "23636.270",
+    "url": "https://translate-pa.googleapis.com/v1/translateHtml",
+    "method": "POST",
+    "timestamp": "2026-05-08T09:34:31.317Z",
+    "sourceLang": "en",
+    "targetLang": "vi",
+    "engine": "te_lib",
+    "status": 200,
+    "translations": [
+      {
+        "index": 0,
+        "source": "Assign initial reviews to Copilot for greater speed and quality.",
+        "translated": "Giao nhiệm vụ đánh giá ban đầu cho Copilot để đạt tốc độ và chất lượng cao hơn."
+      },
+      {
+        "index": 1,
+        "source": "Explore code review",
+        "translated": "Khám phá quy trình xem xét mã."
+      },
+      {
+        "index": 2,
+        "source": "Fund open source projects",
+        "translated": "Tài trợ cho các dự án mã nguồn mở"
+      },
+      {
+        "index": 3,
+        "source": "Become an open source partner and support the tools and libraries that power your work.",
+        "translated": "Hãy trở thành đối tác mã nguồn mở và hỗ trợ các công cụ và thư viện giúp vận hành công việc của bạn."
+      },
+      {
+        "index": 4,
+        "source": "Explore GitHub Sponsors",
+        "translated": "Khám phá các nhà tài trợ của GitHub"
+      },
+      {
+        "index": 5,
+        "source": "<a i=0>From startups to enterprises, </a><a i=1>GitHub scales with teams of any size in any industry.</a>",
+        "translated": "<a i=0>Từ các công ty khởi nghiệp đến các doanh nghiệp lớn,</a> <a i=1>GitHub có thể mở rộng quy mô phù hợp với các nhóm làm việc thuộc mọi quy mô trong mọi ngành nghề.</a>"
+      },
+      {
+        "index": 6,
+        "source": "By industry",
+        "translated": "Theo ngành"
+      },
+      {
+        "index": 7,
+        "source": "By size",
+        "translated": "Theo kích thước"
+      },
+      {
+        "index": 8,
+        "source": "By use case",
+        "translated": "Theo trường hợp sử dụng"
+      },
+      {
+        "index": 9,
+        "source": "Technology",
+        "translated": "Công nghệ"
+      },
+      {
+        "index": 10,
+        "source": "Figma streamlines development and strengthens security",
+        "translated": "Figma giúp đơn giản hóa quá trình phát triển và tăng cường bảo mật."
+      },
+      {
+        "index": 11,
+        "source": "Read customer story",
+        "translated": "Đọc câu chuyện của khách hàng"
+      },
+      {
+        "index": 12,
+        "source": "Automotive",
+        "translated": "Ô tô"
+      },
+      {
+        "index": 13,
+        "source": "Mercedes-Benz standardizes source code and automates onboarding",
+        "translated": "Mercedes-Benz chuẩn hóa mã nguồn và tự động hóa quy trình tích hợp nhân viên mới."
+      },
+      {
+        "index": 14,
+        "source": "Financial services",
+        "translated": "Dịch vụ tài chính"
+      },
+      {
+        "index": 15,
+        "source": "Mercado Libre cuts coding time by 50%",
+        "translated": "Mercado Libre giúp giảm thời gian lập trình đến 50%."
+      },
+      {
+        "index": 16,
+        "source": "Explore customer stories",
+        "translated": "Khám phá những câu chuyện của khách hàng"
+      },
+      {
+        "index": 17,
+        "source": "View all solutions",
+        "translated": "Xem tất cả các giải pháp"
+      },
+      {
+        "index": 18,
+        "source": "A subtle purple glow fades in as Mona the Octocat, Copilot, and Ducky dramatically fall into place next to one another while gazing optimistically into the distance.",
+        "translated": "Một ánh sáng tím dịu nhẹ dần hiện ra khi Mona chú mèo bạch tuộc, Copilot và Ducky bất ngờ ngồi xuống cạnh nhau, cùng nhau hướng mắt nhìn về phía xa với vẻ lạc quan."
+      },
+      {
+        "index": 19,
+        "source": "Millions of developers and businesses call GitHub home",
+        "translated": "Hàng triệu nhà phát triển và doanh nghiệp coi GitHub là ngôi nhà của họ."
+      },
+      {
+        "index": 20,
+        "source": "Whether you’re scaling your development process or just learning how to code, GitHub is where you belong. Join the world’s most widely adopted developer platform to build the technologies that shape what’s next.",
+        "translated": "Dù bạn đang mở rộng quy mô quy trình phát triển hay chỉ mới học lập trình, GitHub là nơi dành cho bạn. Hãy tham gia nền tảng phát triển phần mềm được sử dụng rộng rãi nhất thế giới để xây dựng những công nghệ định hình tương lai."
+      },
+      {
+        "index": 21,
+        "source": "Enter your email",
+        "translated": "Nhập email của bạn"
+      },
+      {
+        "index": 22,
+        "source": "Sign up for GitHub",
+        "translated": "Đăng ký GitHub"
+      },
+      {
+        "index": 23,
+        "source": "Try GitHub Copilot",
+        "translated": "Hãy thử GitHub Copilot"
+      },
+      {
+        "index": 24,
+        "source": "Footnotes",
+        "translated": "Chú thích cuối trang"
+      },
+      {
+        "index": 25,
+        "source": "GitHub internal customer data, 2025.",
+        "translated": "Dữ liệu khách hàng nội bộ của GitHub, năm 2025."
+      },
+      {
+        "index": 26,
+        "source": "Site-wide Links",
+        "translated": "Liên kết toàn trang web"
+      },
+      {
+        "index": 27,
+        "source": "Subscribe to our developer newsletter",
+        "translated": "Đăng ký nhận bản tin dành cho nhà phát triển của chúng tôi"
+      },
+      {
+        "index": 28,
+        "source": "Get tips, technical guides, and best practices. Twice a month.",
+        "translated": "Nhận các mẹo, hướng dẫn kỹ thuật và kinh nghiệm thực tiễn tốt nhất. Hai lần một tháng."
+      },
+      {
+        "index": 29,
+        "source": "\n  Subscribe\n  \n  \n",
+        "translated": "Đặt mua"
+      },
+      {
+        "index": 30,
+        "source": "\n          Platform\n        ",
+        "translated": "Nền tảng"
+      },
+      {
+        "index": 31,
+        "source": "Features",
+        "translated": "Đặc trưng"
+      },
+      {
+        "index": 32,
+        "source": "Enterprise",
+        "translated": "Doanh nghiệp"
+      },
+      {
+        "index": 33,
+        "source": "Copilot",
+        "translated": "Phi công phụ"
+      },
+      {
+        "index": 34,
+        "source": "AI",
+        "translated": "Trí tuệ nhân tạo"
+      },
+      {
+        "index": 35,
+        "source": "Security",
+        "translated": "Bảo vệ"
+      },
+      {
+        "index": 36,
+        "source": "Pricing",
+        "translated": "Giá cả"
+      },
+      {
+        "index": 37,
+        "source": "Team",
+        "translated": "Đội"
+      },
+      {
+        "index": 38,
+        "source": "Resources",
+        "translated": "Tài nguyên"
+      },
+      {
+        "index": 39,
+        "source": "Roadmap",
+        "translated": "Lộ trình"
+      },
+      {
+        "index": 40,
+        "source": "Compare GitHub",
+        "translated": "So sánh GitHub"
+      },
+      {
+        "index": 41,
+        "source": "\n          Ecosystem\n        ",
+        "translated": "Hệ sinh thái"
+      },
+      {
+        "index": 42,
+        "source": "Developer API",
+        "translated": "API dành cho nhà phát triển"
+      },
+      {
+        "index": 43,
+        "source": "Partners",
+        "translated": "Đối tác"
+      },
+      {
+        "index": 44,
+        "source": "Education",
+        "translated": "Giáo dục"
+      },
+      {
+        "index": 45,
+        "source": "GitHub CLI",
+        "translated": "Công cụ dòng lệnh GitHub"
+      },
+      {
+        "index": 46,
+        "source": "GitHub Desktop",
+        "translated": "GitHub Desktop"
+      },
+      {
+        "index": 47,
+        "source": "GitHub Mobile",
+        "translated": "GitHub Mobile"
+      },
+      {
+        "index": 48,
+        "source": "GitHub Marketplace",
+        "translated": "Chợ GitHub"
+      },
+      {
+        "index": 49,
+        "source": "MCP Registry",
+        "translated": "Sổ đăng ký MCP"
+      },
+      {
+        "index": 50,
+        "source": "\n          Support\n        ",
+        "translated": "Ủng hộ"
+      },
+      {
+        "index": 51,
+        "source": "Docs",
+        "translated": "Bác sĩ"
+      },
+      {
+        "index": 52,
+        "source": "Community Forum",
+        "translated": "Diễn đàn cộng đồng"
+      },
+      {
+        "index": 53,
+        "source": "Professional Services",
+        "translated": "Dịch vụ chuyên nghiệp"
+      },
+      {
+        "index": 54,
+        "source": "Premium Support",
+        "translated": "Hỗ trợ cao cấp"
+      },
+      {
+        "index": 55,
+        "source": "Skills",
+        "translated": "Kỹ năng"
+      },
+      {
+        "index": 56,
+        "source": "Status",
+        "translated": "Trạng thái"
+      },
+      {
+        "index": 57,
+        "source": "Contact GitHub",
+        "translated": "Liên hệ với GitHub"
+      },
+      {
+        "index": 58,
+        "source": "\n          Company\n        ",
+        "translated": "Công ty"
+      },
+      {
+        "index": 59,
+        "source": "About",
+        "translated": "Về"
+      },
+      {
+        "index": 60,
+        "source": "Why GitHub",
+        "translated": "Tại sao lại chọn GitHub?"
+      },
+      {
+        "index": 61,
+        "source": "Customer stories",
+        "translated": "Câu chuyện khách hàng"
+      },
+      {
+        "index": 62,
+        "source": "Blog",
+        "translated": "Blog"
+      },
+      {
+        "index": 63,
+        "source": "The ReadME Project",
+        "translated": "Dự án ReadME"
+      },
+      {
+        "index": 64,
+        "source": "Careers",
+        "translated": "Nghề nghiệp"
+      },
+      {
+        "index": 65,
+        "source": "Newsroom",
+        "translated": "Phòng tin tức"
+      },
+      {
+        "index": 66,
+        "source": "Inclusion",
+        "translated": "Bao gồm"
+      },
+      {
+        "index": 67,
+        "source": "Social Impact",
+        "translated": "Tác động xã hội"
+      },
+      {
+        "index": 68,
+        "source": "Shop",
+        "translated": "Cửa hàng"
+      },
+      {
+        "index": 69,
+        "source": "\n            © ",
+        "translated": "©"
+      },
+      {
+        "index": 70,
+        "source": "2026",
+        "translated": "2026"
+      },
+      {
+        "index": 71,
+        "source": " GitHub, Inc.\n          ",
+        "translated": "GitHub, Inc."
+      },
+      {
+        "index": 72,
+        "source": "Terms",
+        "translated": "Điều khoản"
+      },
+      {
+        "index": 73,
+        "source": "<a i=0>Privacy</a><a i=1>(Updated 02/2024)</a>",
+        "translated": "<a i=0>Chính sách bảo mật</a> <a i=1>(Cập nhật tháng 02/2024)</a>"
+      },
+      {
+        "index": 74,
+        "source": "02/2024",
+        "translated": "02/2024"
+      },
+      {
+        "index": 75,
+        "source": "Sitemap",
+        "translated": "Sơ đồ trang web"
+      },
+      {
+        "index": 76,
+        "source": "What is Git?",
+        "translated": "Git là gì?"
+      },
+      {
+        "index": 77,
+        "source": "\n       Manage cookies\n    ",
+        "translated": "Quản lý cookie"
+      },
+      {
+        "index": 78,
+        "source": "\n      Do not share my personal information\n    ",
+        "translated": "Đừng chia sẻ thông tin cá nhân của tôi"
+      },
+      {
+        "index": 79,
+        "source": "GitHub on LinkedIn",
+        "translated": "GitHub trên LinkedIn"
+      },
+      {
+        "index": 80,
+        "source": "GitHub on Instagram",
+        "translated": "GitHub trên Instagram"
+      },
+      {
+        "index": 81,
+        "source": "GitHub on YouTube",
+        "translated": "GitHub trên YouTube"
+      },
+      {
+        "index": 82,
+        "source": "GitHub on X",
+        "translated": "GitHub trên X"
+      },
+      {
+        "index": 83,
+        "source": "GitHub on TikTok",
+        "translated": "GitHub trên TikTok"
+      },
+      {
+        "index": 84,
+        "source": "GitHub on Twitch",
+        "translated": "GitHub trên Twitch"
+      },
+      {
+        "index": 85,
+        "source": "GitHub’s organization on GitHub",
+        "translated": "Tổ chức của GitHub trên GitHub"
+      },
+      {
+        "index": 86,
+        "source": "English",
+        "translated": "Tiếng Anh"
+      },
+      {
+        "index": 87,
+        "source": "Select language",
+        "translated": "Chọn ngôn ngữ"
+      },
+      {
+        "index": 88,
+        "source": "Homepage",
+        "translated": "Trang chủ"
+      },
+      {
+        "index": 89,
+        "source": "Global",
+        "translated": "Toàn cầu"
+      },
+      {
+        "index": 90,
+        "source": "Search or jump to...",
+        "translated": "Tìm kiếm hoặc chuyển đến..."
+      },
+      {
+        "index": 91,
+        "source": "Search or jump to…",
+        "translated": "Tìm kiếm hoặc chuyển đến…"
+      },
+      {
+        "index": 92,
+        "source": "you@domain.com",
+        "translated": "you@domain.com"
+      },
+      {
+        "index": 93,
+        "source": "Pause",
+        "translated": "Tạm dừng"
+      },
+      {
+        "index": 94,
+        "source": "Pause animation",
+        "translated": "Tạm dừng hoạt ảnh"
+      },
+      {
+        "index": 95,
+        "source": "Pause video",
+        "translated": "Tạm dừng video"
+      },
+      {
+        "index": 96,
+        "source": "Duolingo",
+        "translated": "Duolingo"
+      },
+      {
+        "index": 97,
+        "source": "Gartner",
+        "translated": "Gartner"
+      },
+      {
+        "index": 98,
+        "source": "Copilot Autofix identifies vulnerable code and provides an explanation, together with a secure code suggestion to remediate the vulnerability.",
+        "translated": "Copilot Autofix xác định mã nguồn dễ bị tổn thương và cung cấp lời giải thích, cùng với đề xuất mã an toàn để khắc phục lỗ hổng."
+      },
+      {
+        "index": 99,
+        "source": "A security campaign screen displays the campaign’s progress bar with 97% completed of 701 alerts. A total of 23 alerts are left with 13 in progress, and the campaign started 20 days ago. The status below shows that there are 7 days left in the campaign with a due date of November 15, 2024.",
+        "translated": "Màn hình chiến dịch bảo mật hiển thị thanh tiến độ của chiến dịch với 97% đã hoàn thành trên tổng số 701 cảnh báo. Còn lại 23 cảnh báo, trong đó 13 cảnh báo đang được xử lý, và chiến dịch đã bắt đầu được 20 ngày. Trạng thái bên dưới cho thấy còn 7 ngày nữa là kết thúc chiến dịch với hạn chót là ngày 15 tháng 11 năm 2024."
+      },
+      {
+        "index": 100,
+        "source": "List of dependencies defined in a requirements .txt file.",
+        "translated": "Danh sách các phần phụ thuộc được định nghĩa trong tệp requirements.txt."
+      },
+      {
+        "index": 101,
+        "source": "GitHub push protection confirms and displays an active secret, and blocks the push.",
+        "translated": "Cơ chế bảo vệ push của GitHub xác nhận và hiển thị mã bí mật đang hoạt động, đồng thời chặn thao tác push."
+      },
+      {
+        "index": 102,
+        "source": "Footnote 1",
+        "translated": "Chú thích 1"
+      }
+    ]
+  },
+  {
+    "requestId": "23636.271",
+    "url": "https://translate-pa.googleapis.com/v1/translateHtml",
+    "method": "POST",
+    "timestamp": "2026-05-08T09:34:31.318Z",
+    "sourceLang": "en",
+    "targetLang": "vi",
+    "engine": "te_lib",
+    "status": 200,
+    "translations": [
+      {
+        "index": 0,
+        "source": "A project management dashboard showing tasks for the ‘OctoArcade Invaders’ project, with tasks grouped under project phase categories like ‘Prototype,’ ‘Beta,’ and ‘Launch’ in a table layout. One of the columns displays sub-issue progress bars with percentages for each issue.",
+        "translated": "Bảng điều khiển quản lý dự án hiển thị các nhiệm vụ cho dự án &#39;OctoArcade Invaders&#39;, với các nhiệm vụ được nhóm theo các giai đoạn dự án như &#39;Nguyên mẫu&#39;, &#39;Beta&#39; và &#39;Ra mắt&#39; trong bố cục dạng bảng. Một trong các cột hiển thị thanh tiến độ của các vấn đề phụ với tỷ lệ phần trăm cho mỗi vấn đề."
+      },
+      {
+        "index": 1,
+        "source": "Sign up for GitHub",
+        "translated": "Đăng ký GitHub"
+      },
+      {
+        "index": 2,
+        "source": "you@domain.com",
+        "translated": "you@domain.com"
+      },
+      {
+        "index": 3,
+        "source": "Back to content",
+        "translated": "Trở lại nội dung"
+      },
+      {
+        "index": 4,
+        "source": "Back to top",
+        "translated": "Trở lại đầu trang"
+      },
+      {
+        "index": 5,
+        "source": "Go to GitHub homepage",
+        "translated": "Truy cập trang chủ GitHub"
+      },
+      {
+        "index": 6,
+        "source": "Legal and Resource Links",
+        "translated": "Liên kết pháp lý và tài nguyên"
+      },
+      {
+        "index": 7,
+        "source": "GitHub&#39;s Social Media Links",
+        "translated": "Các liên kết mạng xã hội của GitHub"
+      },
+      {
+        "index": 8,
+        "source": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub",
+        "translated": "GitHub · Thay đổi là điều tất yếu. GitHub giúp bạn luôn dẫn đầu. · GitHub"
+      },
+      {
+        "index": 9,
+        "source": "GitHub",
+        "translated": "GitHub"
+      },
+      {
+        "index": 10,
+        "source": "Toggle navigation",
+        "translated": "Chuyển đổi điều hướng"
+      },
+      {
+        "index": 11,
+        "source": "\n            Sign in\n          ",
+        "translated": "Đăng nhập"
+      },
+      {
+        "index": 12,
+        "source": "Search code, repositories, users, issues, pull requests...",
+        "translated": "Tìm kiếm mã nguồn, kho lưu trữ, người dùng, sự cố, yêu cầu kéo..."
+      },
+      {
+        "index": 13,
+        "source": "\n        Search\n      ",
+        "translated": "Tìm kiếm"
+      },
+      {
+        "index": 14,
+        "source": "Clear",
+        "translated": "Thông thoáng"
+      },
+      {
+        "index": 15,
+        "source": "Explore",
+        "translated": "Khám phá"
+      },
+      {
+        "index": 16,
+        "source": "Enterprise",
+        "translated": "Doanh nghiệp"
+      },
+      {
+        "index": 17,
+        "source": "Learn More",
+        "translated": "Tìm hiểu thêm"
+      },
+      {
+        "index": 18,
+        "source": "Security",
+        "translated": "Bảo vệ"
+      },
+      {
+        "index": 19,
+        "source": "Copilot",
+        "translated": "Phi công phụ"
+      },
+      {
+        "index": 20,
+        "source": "Pricing",
+        "translated": "Giá cả"
+      },
+      {
+        "index": 21,
+        "source": "4 suggestions.",
+        "translated": "4 gợi ý."
+      },
+      {
+        "index": 22,
+        "source": "Search syntax tips",
+        "translated": "Mẹo tìm kiếm cú pháp"
+      },
+      {
+        "index": 23,
+        "source": "Suggestions",
+        "translated": "Gợi ý"
+      },
+      {
+        "index": 24,
+        "source": "Enterprise, jump to this explore page",
+        "translated": "Doanh nghiệp, hãy chuyển đến trang khám phá này"
+      },
+      {
+        "index": 25,
+        "source": "Security, jump to this explore page",
+        "translated": "Bảo mật, hãy chuyển đến trang khám phá này"
+      },
+      {
+        "index": 26,
+        "source": "Copilot, jump to this explore page",
+        "translated": "Phi công phụ, hãy chuyển đến trang khám phá này"
+      },
+      {
+        "index": 27,
+        "source": "Pricing, jump to this explore page",
+        "translated": "Giá cả, hãy chuyển đến trang khám phá này"
+      },
+      {
+        "index": 28,
+        "source": "\n        Provide feedback\n      ",
+        "translated": "Hãy cung cấp phản hồi"
+      },
+      {
+        "index": 29,
+        "source": "We read every piece of feedback, and take your input very seriously.",
+        "translated": "Chúng tôi đọc mọi phản hồi và luôn coi trọng ý kiến ​​đóng góp của các bạn."
+      },
+      {
+        "index": 30,
+        "source": "Include my email address so I can be contacted",
+        "translated": "Vui lòng ghi rõ địa chỉ email của tôi để tôi có thể được liên lạc."
+      },
+      {
+        "index": 31,
+        "source": "    Cancel\n",
+        "translated": "Hủy bỏ"
+      },
+      {
+        "index": 32,
+        "source": "    Submit feedback\n",
+        "translated": "Gửi phản hồi"
+      },
+      {
+        "index": 33,
+        "source": "Close",
+        "translated": "Đóng"
+      },
+      {
+        "index": 34,
+        "source": "\n        Saved searches\n      ",
+        "translated": "Tìm kiếm đã lưu"
+      },
+      {
+        "index": 35,
+        "source": "Use saved searches to filter your results more quickly",
+        "translated": "Sử dụng các tìm kiếm đã lưu để lọc kết quả nhanh hơn."
+      },
+      {
+        "index": 36,
+        "source": "Name",
+        "translated": "Tên"
+      },
+      {
+        "index": 37,
+        "source": "Query",
+        "translated": "Truy vấn"
+      },
+      {
+        "index": 38,
+        "source": "<a i=0>\n            To see all available qualifiers, see our </a><a i=1>documentation</a><a i=2>.\n          </a>",
+        "translated": "<a i=0>Để xem tất cả các tiêu chí đủ điều kiện hiện có, vui lòng xem</a> <a i=1>tài liệu</a> của chúng tôi <a i=2>.</a>"
+      },
+      {
+        "index": 39,
+        "source": "    Create saved search\n",
+        "translated": "Tạo tìm kiếm đã lưu"
+      },
+      {
+        "index": 40,
+        "source": "github-ruby",
+        "translated": "github-ruby"
+      },
+      {
+        "index": 41,
+        "source": "(repo:mona/a OR repo:mona/b) AND lang:python",
+        "translated": "(repo:mona/a HOẶC repo:mona/b) VÀ lang:python"
+      },
+      {
+        "index": 42,
+        "source": "Resetting focus",
+        "translated": "Đặt lại tiêu điểm"
+      },
+      {
+        "index": 43,
+        "source": "<a i=0>You signed in with another tab or window. </a><a i=1>Reload</a><a i=2> to refresh your session.</a>",
+        "translated": "<a i=0>Bạn đã đăng nhập bằng một tab hoặc cửa sổ khác.</a> <a i=1>Vui lòng tải lại trang</a> <a i=2>để làm mới phiên đăng nhập của bạn.</a>"
+      },
+      {
+        "index": 44,
+        "source": "<a i=0>You signed out in another tab or window. </a><a i=1>Reload</a><a i=2> to refresh your session.</a>",
+        "translated": "<a i=0>Bạn đã đăng xuất ở một tab hoặc cửa sổ khác.</a> <a i=1>Hãy tải lại trang</a> <a i=2>để làm mới phiên làm việc của bạn.</a>"
+      },
+      {
+        "index": 45,
+        "source": "<a i=0>You switched accounts on another tab or window. </a><a i=1>Reload</a><a i=2> to refresh your session.</a>",
+        "translated": "<a i=0>Bạn đã chuyển đổi tài khoản sang tab hoặc cửa sổ khác.</a> <a i=1>Hãy tải lại trang</a> <a i=2>để làm mới phiên làm việc của bạn.</a>"
+      },
+      {
+        "index": 46,
+        "source": "Dismiss alert",
+        "translated": "Bỏ qua cảnh báo"
+      },
+      {
+        "index": 47,
+        "source": "Code",
+        "translated": "Mã số"
+      },
+      {
+        "index": 48,
+        "source": "Select a GitHub feature",
+        "translated": "Chọn một tính năng của GitHub"
+      },
+      {
+        "index": 49,
+        "source": "By industry",
+        "translated": "Theo ngành"
+      },
+      {
+        "index": 50,
+        "source": "English",
+        "translated": "Tiếng Anh"
+      },
+      {
+        "index": 51,
+        "source": "Português (Brasil)",
+        "translated": "Português (Brasil)"
+      },
+      {
+        "index": 52,
+        "source": "Español (América Latina)",
+        "translated": "Español (América Latina)"
+      },
+      {
+        "index": 53,
+        "source": "日本語",
+        "translated": "日本語"
+      },
+      {
+        "index": 54,
+        "source": "한국어",
+        "translated": "한국어"
+      },
+      {
+        "index": 55,
+        "source": "Français",
+        "translated": "Tiếng Pháp"
+      },
+      {
+        "index": 56,
+        "source": "Deutsch",
+        "translated": "tiếng Đức"
+      },
+      {
+        "index": 57,
+        "source": "\n    You can’t perform that action at this time.\n  ",
+        "translated": "Bạn không thể thực hiện thao tác đó vào lúc này."
+      },
+      {
+        "index": 58,
+        "source": "Dismiss error",
+        "translated": "Bỏ qua lỗi"
+      }
+    ]
+  },
+  {
+    "requestId": "23636.269",
+    "url": "https://translate-pa.googleapis.com/v1/translateHtml",
+    "method": "POST",
+    "timestamp": "2026-05-08T09:34:31.316Z",
+    "sourceLang": "en",
+    "targetLang": "vi",
+    "engine": "te_lib",
+    "status": 200,
+    "translations": [
+      {
+        "index": 0,
+        "source": "Skip to content",
+        "translated": "Chuyển đến nội dung"
+      },
+      {
+        "index": 1,
+        "source": "Navigation Menu",
+        "translated": "Menu điều hướng"
+      },
+      {
+        "index": 2,
+        "source": "Platform",
+        "translated": "Nền tảng"
+      },
+      {
+        "index": 3,
+        "source": "AI CODE CREATION",
+        "translated": "TẠO MÃ AI"
+      },
+      {
+        "index": 4,
+        "source": "GitHub Copilot",
+        "translated": "GitHub Copilot"
+      },
+      {
+        "index": 5,
+        "source": "Write better code with AI",
+        "translated": "Viết mã tốt hơn với AI"
+      },
+      {
+        "index": 6,
+        "source": "GitHub Spark",
+        "translated": "GitHub Spark"
+      },
+      {
+        "index": 7,
+        "source": "Build and deploy intelligent apps",
+        "translated": "Xây dựng và triển khai các ứng dụng thông minh"
+      },
+      {
+        "index": 8,
+        "source": "GitHub Models",
+        "translated": "Mô hình GitHub"
+      },
+      {
+        "index": 9,
+        "source": "Manage and compare prompts",
+        "translated": "Quản lý và so sánh các lời nhắc"
+      },
+      {
+        "index": 10,
+        "source": "<a i=0>MCP Registry</a><a i=1>New</a>",
+        "translated": "<a i=0>Đăng ký MCP</a> <a i=1>mới</a>"
+      },
+      {
+        "index": 11,
+        "source": "Integrate external tools",
+        "translated": "Tích hợp các công cụ bên ngoài"
+      },
+      {
+        "index": 12,
+        "source": "DEVELOPER WORKFLOWS",
+        "translated": "QUY TRÌNH LÀM VIỆC CỦA NHÀ PHÁT TRIỂN"
+      },
+      {
+        "index": 13,
+        "source": "Actions",
+        "translated": "Hành động"
+      },
+      {
+        "index": 14,
+        "source": "Automate any workflow",
+        "translated": "Tự động hóa mọi quy trình làm việc"
+      },
+      {
+        "index": 15,
+        "source": "Codespaces",
+        "translated": "Không gian mã"
+      },
+      {
+        "index": 16,
+        "source": "Instant dev environments",
+        "translated": "Môi trường phát triển tức thì"
+      },
+      {
+        "index": 17,
+        "source": "Issues",
+        "translated": "Vấn đề"
+      },
+      {
+        "index": 18,
+        "source": "Plan and track work",
+        "translated": "Lập kế hoạch và theo dõi công việc"
+      },
+      {
+        "index": 19,
+        "source": "Code Review",
+        "translated": "Đánh giá mã"
+      },
+      {
+        "index": 20,
+        "source": "Manage code changes",
+        "translated": "Quản lý các thay đổi mã"
+      },
+      {
+        "index": 21,
+        "source": "APPLICATION SECURITY",
+        "translated": "BẢO MẬT ỨNG DỤNG"
+      },
+      {
+        "index": 22,
+        "source": "GitHub Advanced Security",
+        "translated": "Bảo mật nâng cao của GitHub"
+      },
+      {
+        "index": 23,
+        "source": "Find and fix vulnerabilities",
+        "translated": "Tìm và khắc phục các lỗ hổng bảo mật"
+      },
+      {
+        "index": 24,
+        "source": "Code security",
+        "translated": "Bảo mật mã"
+      },
+      {
+        "index": 25,
+        "source": "Secure your code as you build",
+        "translated": "Bảo mật mã của bạn trong quá trình xây dựng"
+      },
+      {
+        "index": 26,
+        "source": "Secret protection",
+        "translated": "Bảo vệ bí mật"
+      },
+      {
+        "index": 27,
+        "source": "Stop leaks before they start",
+        "translated": "Ngăn chặn rò rỉ trước khi chúng xảy ra"
+      },
+      {
+        "index": 28,
+        "source": "EXPLORE",
+        "translated": "KHÁM PHÁ"
+      },
+      {
+        "index": 29,
+        "source": "Why GitHub",
+        "translated": "Tại sao lại chọn GitHub?"
+      },
+      {
+        "index": 30,
+        "source": "Documentation",
+        "translated": "Tài liệu"
+      },
+      {
+        "index": 31,
+        "source": "Blog",
+        "translated": "Blog"
+      },
+      {
+        "index": 32,
+        "source": "Changelog",
+        "translated": "Nhật ký thay đổi"
+      },
+      {
+        "index": 33,
+        "source": "Marketplace",
+        "translated": "Chợ"
+      },
+      {
+        "index": 34,
+        "source": "View all features",
+        "translated": "Xem tất cả các tính năng"
+      },
+      {
+        "index": 35,
+        "source": "Solutions",
+        "translated": "Giải pháp"
+      },
+      {
+        "index": 36,
+        "source": "BY COMPANY SIZE",
+        "translated": "THEO QUY MÔ CÔNG TY"
+      },
+      {
+        "index": 37,
+        "source": "Enterprises",
+        "translated": "Doanh nghiệp"
+      },
+      {
+        "index": 38,
+        "source": "Small and medium teams",
+        "translated": "Các đội nhỏ và vừa"
+      },
+      {
+        "index": 39,
+        "source": "Startups",
+        "translated": "Công ty khởi nghiệp"
+      },
+      {
+        "index": 40,
+        "source": "Nonprofits",
+        "translated": "Các tổ chức phi lợi nhuận"
+      },
+      {
+        "index": 41,
+        "source": "BY USE CASE",
+        "translated": "THEO TRƯỜNG HỢP SỬ DỤNG"
+      },
+      {
+        "index": 42,
+        "source": "App Modernization",
+        "translated": "Hiện đại hóa ứng dụng"
+      },
+      {
+        "index": 43,
+        "source": "DevSecOps",
+        "translated": "DevSecOps"
+      },
+      {
+        "index": 44,
+        "source": "DevOps",
+        "translated": "DevOps"
+      },
+      {
+        "index": 45,
+        "source": "CI/CD",
+        "translated": "CI/CD"
+      },
+      {
+        "index": 46,
+        "source": "View all use cases",
+        "translated": "Xem tất cả các trường hợp sử dụng"
+      },
+      {
+        "index": 47,
+        "source": "BY INDUSTRY",
+        "translated": "THEO NGÀNH CÔNG NGHIỆP"
+      },
+      {
+        "index": 48,
+        "source": "Healthcare",
+        "translated": "Chăm sóc sức khỏe"
+      },
+      {
+        "index": 49,
+        "source": "Financial services",
+        "translated": "Dịch vụ tài chính"
+      },
+      {
+        "index": 50,
+        "source": "Manufacturing",
+        "translated": "Chế tạo"
+      },
+      {
+        "index": 51,
+        "source": "Government",
+        "translated": "Chính phủ"
+      },
+      {
+        "index": 52,
+        "source": "View all industries",
+        "translated": "Xem tất cả các ngành"
+      },
+      {
+        "index": 53,
+        "source": "View all solutions",
+        "translated": "Xem tất cả các giải pháp"
+      },
+      {
+        "index": 54,
+        "source": "Resources",
+        "translated": "Tài nguyên"
+      },
+      {
+        "index": 55,
+        "source": "EXPLORE BY TOPIC",
+        "translated": "KHÁM PHÁ THEO CHỦ ĐỀ"
+      },
+      {
+        "index": 56,
+        "source": "AI",
+        "translated": "Trí tuệ nhân tạo"
+      },
+      {
+        "index": 57,
+        "source": "Software Development",
+        "translated": "Phát triển phần mềm"
+      },
+      {
+        "index": 58,
+        "source": "Security",
+        "translated": "Bảo vệ"
+      },
+      {
+        "index": 59,
+        "source": "View all topics",
+        "translated": "Xem tất cả các chủ đề"
+      },
+      {
+        "index": 60,
+        "source": "EXPLORE BY TYPE",
+        "translated": "KHÁM PHÁ THEO LOẠI"
+      },
+      {
+        "index": 61,
+        "source": "Customer stories",
+        "translated": "Câu chuyện khách hàng"
+      },
+      {
+        "index": 62,
+        "source": "Events &amp; webinars",
+        "translated": "Sự kiện &amp; hội thảo trực tuyến"
+      },
+      {
+        "index": 63,
+        "source": "Ebooks &amp; reports",
+        "translated": "Sách điện tử &amp; báo cáo"
+      },
+      {
+        "index": 64,
+        "source": "Business insights",
+        "translated": "Thông tin chi tiết về kinh doanh"
+      },
+      {
+        "index": 65,
+        "source": "GitHub Skills",
+        "translated": "Kỹ năng GitHub"
+      },
+      {
+        "index": 66,
+        "source": "SUPPORT &amp; SERVICES",
+        "translated": "HỖ TRỢ &amp; DỊCH VỤ"
+      },
+      {
+        "index": 67,
+        "source": "Customer support",
+        "translated": "Hỗ trợ khách hàng"
+      },
+      {
+        "index": 68,
+        "source": "Community forum",
+        "translated": "Diễn đàn cộng đồng"
+      },
+      {
+        "index": 69,
+        "source": "Trust center",
+        "translated": "Trung tâm tin cậy"
+      },
+      {
+        "index": 70,
+        "source": "Partners",
+        "translated": "Đối tác"
+      },
+      {
+        "index": 71,
+        "source": "View all resources",
+        "translated": "Xem tất cả tài nguyên"
+      },
+      {
+        "index": 72,
+        "source": "Open Source",
+        "translated": "Mã nguồn mở"
+      },
+      {
+        "index": 73,
+        "source": "COMMUNITY",
+        "translated": "CỘNG ĐỒNG"
+      },
+      {
+        "index": 74,
+        "source": "GitHub Sponsors",
+        "translated": "Nhà tài trợ của GitHub"
+      },
+      {
+        "index": 75,
+        "source": "Fund open source developers",
+        "translated": "Hãy tài trợ cho các nhà phát triển mã nguồn mở."
+      },
+      {
+        "index": 76,
+        "source": "PROGRAMS",
+        "translated": "CHƯƠNG TRÌNH"
+      },
+      {
+        "index": 77,
+        "source": "Security Lab",
+        "translated": "Phòng thí nghiệm an ninh"
+      },
+      {
+        "index": 78,
+        "source": "Maintainer Community",
+        "translated": "Cộng đồng người bảo trì"
+      },
+      {
+        "index": 79,
+        "source": "Accelerator",
+        "translated": "Máy gia tốc"
+      },
+      {
+        "index": 80,
+        "source": "GitHub Stars",
+        "translated": "Sao trên GitHub"
+      },
+      {
+        "index": 81,
+        "source": "Archive Program",
+        "translated": "Chương trình Lưu trữ"
+      },
+      {
+        "index": 82,
+        "source": "REPOSITORIES",
+        "translated": "KHO LƯU TRỮ"
+      },
+      {
+        "index": 83,
+        "source": "Topics",
+        "translated": "Chủ đề"
+      },
+      {
+        "index": 84,
+        "source": "Trending",
+        "translated": "Xu hướng"
+      },
+      {
+        "index": 85,
+        "source": "Collections",
+        "translated": "Bộ sưu tập"
+      },
+      {
+        "index": 86,
+        "source": "Enterprise",
+        "translated": "Doanh nghiệp"
+      },
+      {
+        "index": 87,
+        "source": "ENTERPRISE SOLUTIONS",
+        "translated": "GIẢI PHÁP DOANH NGHIỆP"
+      },
+      {
+        "index": 88,
+        "source": "Enterprise platform",
+        "translated": "Nền tảng doanh nghiệp"
+      },
+      {
+        "index": 89,
+        "source": "AI-powered developer platform",
+        "translated": "Nền tảng phát triển được hỗ trợ bởi AI"
+      },
+      {
+        "index": 90,
+        "source": "AVAILABLE ADD-ONS",
+        "translated": "CÁC TÙY CHỌN BỔ SUNG CÓ SẴN"
+      },
+      {
+        "index": 91,
+        "source": "Enterprise-grade security features",
+        "translated": "Các tính năng bảo mật cấp doanh nghiệp"
+      },
+      {
+        "index": 92,
+        "source": "Copilot for Business",
+        "translated": "Copilot dành cho doanh nghiệp"
+      },
+      {
+        "index": 93,
+        "source": "Enterprise-grade AI features",
+        "translated": "Các tính năng AI cấp doanh nghiệp"
+      },
+      {
+        "index": 94,
+        "source": "Premium Support",
+        "translated": "Hỗ trợ cao cấp"
+      },
+      {
+        "index": 95,
+        "source": "Enterprise-grade 24/7 support",
+        "translated": "Hỗ trợ 24/7 cấp doanh nghiệp"
+      },
+      {
+        "index": 96,
+        "source": "Pricing",
+        "translated": "Giá cả"
+      },
+      {
+        "index": 97,
+        "source": "Search or jump to...",
+        "translated": "Tìm kiếm hoặc chuyển đến..."
+      },
+      {
+        "index": 98,
+        "source": "\n                Sign in\n              ",
+        "translated": "Đăng nhập"
+      },
+      {
+        "index": 99,
+        "source": "\n                Sign up\n              ",
+        "translated": "Đăng ký"
+      },
+      {
+        "index": 100,
+        "source": "Mona the Octocat, Copilot, and Ducky float jubilantly upward from behind the GitHub product demo accompanied by a purple glow and a scattering of stars.",
+        "translated": "Mona chú mèo bạch tuộc, Copilot và Ducky hân hoan bay lên từ phía sau bản demo sản phẩm của GitHub, kèm theo ánh sáng tím và những vì sao lấp lánh."
+      },
+      {
+        "index": 101,
+        "source": "The future of building happens together",
+        "translated": "Tương lai của ngành xây dựng được tạo nên bởi sự hợp tác."
+      },
+      {
+        "index": 102,
+        "source": "Tools and trends evolve, but collaboration endures. With GitHub, developers, agents, and code come together on one platform.",
+        "translated": "Các công cụ và xu hướng luôn thay đổi, nhưng sự hợp tác thì không bao giờ lỗi thời. Với GitHub, các nhà phát triển, các chuyên gia và mã nguồn cùng hội tụ trên một nền tảng duy nhất."
+      },
+      {
+        "index": 103,
+        "source": "Enter your email",
+        "translated": "Nhập email của bạn"
+      },
+      {
+        "index": 104,
+        "source": "Sign up for GitHub",
+        "translated": "Đăng ký GitHub"
+      },
+      {
+        "index": 105,
+        "source": "Try GitHub Copilot",
+        "translated": "Hãy thử GitHub Copilot"
+      },
+      {
+        "index": 106,
+        "source": "GitHub features",
+        "translated": "Các tính năng của GitHub"
+      },
+      {
+        "index": 107,
+        "source": "A demonstration animation of a code editor using GitHub Copilot Chat, where the user requests GitHub Copilot to refactor duplicated logic and extract it into a reusable function for a given code snippet.",
+        "translated": "Đây là hình ảnh động minh họa trình soạn thảo mã sử dụng GitHub Copilot Chat, trong đó người dùng yêu cầu GitHub Copilot tái cấu trúc logic trùng lặp và trích xuất nó thành một hàm có thể tái sử dụng cho một đoạn mã nhất định."
+      },
+      {
+        "index": 108,
+        "source": "Code",
+        "translated": "Mã số"
+      },
+      {
+        "index": 109,
+        "source": "Plan",
+        "translated": "Kế hoạch"
+      },
+      {
+        "index": 110,
+        "source": "Collaborate",
+        "translated": "Hợp tác"
+      },
+      {
+        "index": 111,
+        "source": "Automate",
+        "translated": "Tự động hóa"
+      },
+      {
+        "index": 112,
+        "source": "Secure",
+        "translated": "Chắc chắn"
+      },
+      {
+        "index": 113,
+        "source": "Write, test, and fix code quickly with GitHub Copilot, from simple boilerplate to complex features.",
+        "translated": "Với GitHub Copilot, bạn có thể viết, kiểm thử và sửa lỗi mã một cách nhanh chóng, từ những đoạn mã mẫu đơn giản đến các tính năng phức tạp."
+      },
+      {
+        "index": 114,
+        "source": "GitHub customers",
+        "translated": "Khách hàng của GitHub"
+      },
+      {
+        "index": 115,
+        "source": "Accelerate your entire workflow",
+        "translated": "Tăng tốc toàn bộ quy trình làm việc của bạn"
+      },
+      {
+        "index": 116,
+        "source": "From your first line of code to final deployment, GitHub provides AI and automation tools to help you build and ship better software faster.",
+        "translated": "Từ dòng mã đầu tiên đến khi triển khai cuối cùng, GitHub cung cấp các công cụ trí tuệ nhân tạo và tự động hóa giúp bạn xây dựng và phát hành phần mềm tốt hơn một cách nhanh chóng hơn."
+      }
+    ]
+  },
+  {
+    "requestId": "23636.284",
+    "url": "https://translate-pa.googleapis.com/v1/translateHtml",
+    "method": "POST",
+    "timestamp": "2026-05-08T09:34:36.303Z",
+    "sourceLang": "en",
+    "targetLang": "vi",
+    "engine": "te_lib",
+    "status": 200,
+    "translations": [
+      {
+        "index": 0,
+        "source": "A Copilot chat window with the &#39;Ask&#39; mode enabled. The user switches from &#39;Ask&#39; mode to &#39;Agent&#39; mode from a dropdown menu, then sends the prompt &#39;Update the website to allow searching for running races by name.&#39; Copilot analyzes the codebase, then explains the required edits for three files before generating them. Copilot then confirms completion and summarizes the implemented changes for the new functionality allowing users to search races by name and view paginated, filtered results.",
+        "translated": "Cửa sổ trò chuyện Copilot với chế độ &#39;Hỏi&#39; ​​được kích hoạt. Người dùng chuyển từ chế độ &#39;Hỏi&#39; ​​sang chế độ &#39;Nhân viên hỗ trợ&#39; từ menu thả xuống, sau đó gửi yêu cầu &#39;Cập nhật trang web để cho phép tìm kiếm các cuộc đua chạy bộ theo tên.&#39; Copilot phân tích mã nguồn, sau đó giải thích các chỉnh sửa cần thiết cho ba tệp trước khi tạo chúng. Sau đó, Copilot xác nhận hoàn thành và tóm tắt các thay đổi đã được thực hiện cho chức năng mới cho phép người dùng tìm kiếm các cuộc đua theo tên và xem kết quả được phân trang và lọc."
+      },
+      {
+        "index": 1,
+        "source": "<a i=0>Your AI partner everywhere.</a><a i=1> Copilot is ready to work with you at each step of the software development lifecycle.</a>",
+        "translated": "<a i=0>Đối tác AI của bạn mọi lúc mọi nơi.</a> <a i=1>Copilot sẵn sàng hợp tác với bạn ở mọi giai đoạn của vòng đời phát triển phần mềm.</a>"
+      },
+      {
+        "index": 2,
+        "source": "Explore GitHub Copilot",
+        "translated": "Khám phá GitHub Copilot"
+      },
+      {
+        "index": 3,
+        "source": "Duolingo boosts developer speed by 25% with GitHub Copilot",
+        "translated": "Duolingo tăng tốc độ phát triển phần mềm lên 25% nhờ GitHub Copilot."
+      },
+      {
+        "index": 4,
+        "source": "Read customer story",
+        "translated": "Đọc câu chuyện của khách hàng"
+      },
+      {
+        "index": 5,
+        "source": "2025 Gartner® Magic Quadrant™ for AI Code Assistants",
+        "translated": "Bảng xếp hạng Gartner® Magic Quadrant™ năm 2025 dành cho Trợ lý lập trình AI"
+      },
+      {
+        "index": 6,
+        "source": "Read industry report",
+        "translated": "Đọc báo cáo ngành"
+      },
+      {
+        "index": 7,
+        "source": "Automate your path to production",
+        "translated": "Tự động hóa quy trình đưa sản phẩm vào sản xuất."
+      },
+      {
+        "index": 8,
+        "source": "Ship faster with secure, reliable CI/CD.",
+        "translated": "Vận chuyển nhanh hơn với CI/CD an toàn và đáng tin cậy."
+      },
+      {
+        "index": 9,
+        "source": "Explore GitHub Actions",
+        "translated": "Khám phá GitHub Actions"
+      },
+      {
+        "index": 10,
+        "source": "Code instantly from anywhere",
+        "translated": "Viết mã tức thì từ bất cứ đâu"
+      },
+      {
+        "index": 11,
+        "source": "Launch a full, cloud-based development environment in seconds.",
+        "translated": "Khởi tạo môi trường phát triển hoàn chỉnh dựa trên điện toán đám mây chỉ trong vài giây."
+      },
+      {
+        "index": 12,
+        "source": "Explore GitHub Codespaces",
+        "translated": "Khám phá GitHub Codespaces"
+      },
+      {
+        "index": 13,
+        "source": "Keep momentum on the go",
+        "translated": "Tiếp tục duy trì đà tiến lên"
+      },
+      {
+        "index": 14,
+        "source": "Manage projects and assign tasks to Copilot, all from your mobile device.",
+        "translated": "Quản lý dự án và giao nhiệm vụ cho Copilot, tất cả đều từ thiết bị di động của bạn."
+      },
+      {
+        "index": 15,
+        "source": "Explore GitHub Mobile",
+        "translated": "Khám phá GitHub Mobile"
+      },
+      {
+        "index": 16,
+        "source": "Shape your toolchain",
+        "translated": "Định hình chuỗi công cụ của bạn"
+      },
+      {
+        "index": 17,
+        "source": "Extend your stack with apps, actions, and AI models.",
+        "translated": "Mở rộng hệ sinh thái của bạn với các ứng dụng, hành động và mô hình AI."
+      },
+      {
+        "index": 18,
+        "source": "Explore GitHub Marketplace",
+        "translated": "Khám phá GitHub Marketplace"
+      },
+      {
+        "index": 19,
+        "source": "Built-in application security where found means fixed",
+        "translated": "Bảo mật ứng dụng tích hợp sẵn (nếu có) nghĩa là đã được khắc phục."
+      },
+      {
+        "index": 20,
+        "source": "Use AI to find and fix vulnerabilities so your team can ship more secure software faster.",
+        "translated": "Sử dụng trí tuệ nhân tạo để tìm và khắc phục các lỗ hổng bảo mật, giúp nhóm của bạn nhanh chóng phát hành phần mềm an toàn hơn."
+      },
+      {
+        "index": 21,
+        "source": "<a i=0>Apply fixes in seconds. </a><a i=1>Spend less time debugging and more time building features with Copilot Autofix.</a>",
+        "translated": "<a i=0>Khắc phục sự cố chỉ trong vài giây.</a> <a i=1>Dành ít thời gian hơn cho việc gỡ lỗi và nhiều thời gian hơn cho việc phát triển tính năng với Copilot Autofix.</a>"
+      },
+      {
+        "index": 22,
+        "source": "Explore GitHub Advanced Security",
+        "translated": "Khám phá Bảo mật Nâng cao của GitHub"
+      },
+      {
+        "index": 23,
+        "source": "<a i=0>Security debt, solved.</a><a i=1> Leverage security campaigns and Copilot Autofix to reduce application vulnerabilities.</a>",
+        "translated": "<a i=0>Vấn đề bảo mật đã được giải quyết.</a> <a i=1>Tận dụng các chiến dịch bảo mật và Copilot Autofix để giảm thiểu các lỗ hổng bảo mật ứng dụng.</a>"
+      },
+      {
+        "index": 24,
+        "source": "Learn about GitHub Code Security",
+        "translated": "Tìm hiểu về bảo mật mã nguồn GitHub"
+      },
+      {
+        "index": 25,
+        "source": "<a i=0>Dependencies you can depend on.</a><a i=1> Update vulnerable dependencies with supported fixes for breaking changes.</a>",
+        "translated": "<a i=0>Các thư viện phụ thuộc mà bạn có thể tin cậy.</a> <a i=1>Cập nhật các thư viện phụ thuộc dễ bị tổn thương bằng các bản vá được hỗ trợ để khắc phục các thay đổi gây lỗi.</a>"
+      },
+      {
+        "index": 26,
+        "source": "Learn about Dependabot",
+        "translated": "Tìm hiểu về Dependabot"
+      },
+      {
+        "index": 27,
+        "source": "<a i=0>Your secrets, your business.</a><a i=1> Detect, prevent, and remediate leaked secrets across your organization.</a>",
+        "translated": "<a i=0>Bí mật của bạn, việc kinh doanh của bạn.</a> <a i=1>Phát hiện, ngăn chặn và khắc phục tình trạng rò rỉ bí mật trong toàn bộ tổ chức của bạn.</a>"
+      },
+      {
+        "index": 28,
+        "source": "Learn about GitHub Secret Protection",
+        "translated": "Tìm hiểu về tính năng Bảo vệ Bí mật của GitHub."
+      },
+      {
+        "index": 29,
+        "source": "70% MTTR reduction",
+        "translated": "Giảm 70% MTTR"
+      },
+      {
+        "index": 30,
+        "source": "with Copilot Autofix",
+        "translated": "với Copilot Autofix"
+      },
+      {
+        "index": 31,
+        "source": "1",
+        "translated": "1"
+      },
+      {
+        "index": 32,
+        "source": "8.3M secret leaks stopped",
+        "translated": "8,3 triệu vụ rò rỉ thông tin bí mật đã được ngăn chặn."
+      },
+      {
+        "index": 33,
+        "source": "in the past 12 months with push protection",
+        "translated": "trong 12 tháng qua với tính năng bảo vệ đẩy"
+      },
+      {
+        "index": 34,
+        "source": "Work together, achieve more",
+        "translated": "Cùng nhau hợp tác, đạt được nhiều thành quả hơn."
+      },
+      {
+        "index": 35,
+        "source": "From planning and discussion to code review, GitHub keeps your team’s conversation and context next to your code.",
+        "translated": "Từ khâu lập kế hoạch và thảo luận đến đánh giá mã, GitHub giúp bạn luôn theo dõi cuộc trò chuyện và bối cảnh của nhóm ngay bên cạnh mã nguồn."
+      },
+      {
+        "index": 36,
+        "source": "<a i=0>Plan with clarity.</a><a i=1> Organize everything from high-level roadmaps to everyday tasks.</a>",
+        "translated": "<a i=0>Lập kế hoạch rõ ràng.</a> <a i=1>Tổ chức mọi thứ, từ lộ trình tổng thể đến các nhiệm vụ hàng ngày.</a>"
+      },
+      {
+        "index": 37,
+        "source": "Explore GitHub Projects",
+        "translated": "Khám phá các dự án GitHub"
+      },
+      {
+        "index": 38,
+        "source": "“",
+        "translated": "“"
+      },
+      {
+        "index": 39,
+        "source": "It helps us onboard new software engineers and get them productive right away. We have all our source code, issues, and pull requests in one place... GitHub is a complete platform that frees us from menial tasks and enables us to do our best work.",
+        "translated": "Nó giúp chúng tôi đào tạo các kỹ sư phần mềm mới và giúp họ làm việc hiệu quả ngay lập tức. Chúng tôi có tất cả mã nguồn, vấn đề và yêu cầu kéo (pull request) ở cùng một nơi... GitHub là một nền tảng hoàn chỉnh giúp chúng tôi thoát khỏi những công việc nhàm chán và cho phép chúng tôi làm việc hiệu quả nhất."
+      },
+      {
+        "index": 40,
+        "source": "Fabian Faulhaber",
+        "translated": "Fabian Faulhaber"
+      },
+      {
+        "index": 41,
+        "source": "Application manager at Mercedes-Benz",
+        "translated": "Quản lý ứng dụng tại Mercedes-Benz"
+      },
+      {
+        "index": 42,
+        "source": "Keep track of your tasks",
+        "translated": "Theo dõi các nhiệm vụ của bạn"
+      },
+      {
+        "index": 43,
+        "source": "Create issues and manage projects with tools that adapt to your code.",
+        "translated": "Tạo vấn đề và quản lý dự án bằng các công cụ thích ứng với mã nguồn của bạn."
+      },
+      {
+        "index": 44,
+        "source": "Explore GitHub Issues",
+        "translated": "Khám phá các vấn đề trên GitHub"
+      },
+      {
+        "index": 45,
+        "source": "Share ideas and ask questions",
+        "translated": "Chia sẻ ý tưởng và đặt câu hỏi"
+      },
+      {
+        "index": 46,
+        "source": "Create space for open-ended conversations alongside your project.",
+        "translated": "Hãy tạo không gian cho những cuộc trò chuyện cởi mở bên cạnh dự án của bạn."
+      },
+      {
+        "index": 47,
+        "source": "Explore GitHub Discussions",
+        "translated": "Khám phá các cuộc thảo luận trên GitHub"
+      },
+      {
+        "index": 48,
+        "source": "Review code changes together",
+        "translated": "Cùng nhau xem xét các thay đổi mã."
+      }
+    ]
+  }
+]
