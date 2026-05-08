@@ -1,4 +1,37 @@
 const fs = require("fs");
+const cheerio = require("cheerio");
+const he = require("he");
+
+function stripChromeTranslateTags(input) {
+  if (typeof input !== "string") return input;
+
+  // Bọc vào root để parse như HTML fragment
+  const $ = cheerio.load(`<root>${input}</root>`, {
+    decodeEntities: true,
+    xmlMode: false,
+  });
+
+  const text = $("root")
+    .contents()
+    .map((_, node) => {
+      if (node.type === "text") {
+        return node.data;
+      }
+
+      if (node.type === "tag") {
+        return $(node).text();
+      }
+
+      return "";
+    })
+    .get()
+    .join(" ");
+
+  return he
+    .decode(text)
+    .replace(/\s+/g, " ")
+    .trim();
+}
 
 function formatTranslateRecord(raw) {
   const requestPayload =
@@ -26,11 +59,24 @@ function formatTranslateRecord(raw) {
     targetLang,
     engine,
     status: raw.status,
-    translations: sourceTexts.map((source, index) => ({
-      index,
-      source,
-      translated: translatedTexts[index] || null,
-    })),
+
+    translations: sourceTexts.map((source, index) => {
+      const translated = translatedTexts[index] || null;
+
+      return {
+        index,
+
+        sourceRaw: source,
+        translatedRaw: translated,
+
+        sourceText: stripChromeTranslateTags(source),
+        translatedText: stripChromeTranslateTags(translated),
+
+        hasHtmlTag:
+          /<\/?[a-z][\s\S]*>/i.test(source) ||
+          /<\/?[a-z][\s\S]*>/i.test(translated || ""),
+      };
+    }),
   };
 }
 

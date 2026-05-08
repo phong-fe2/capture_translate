@@ -11,518 +11,827 @@
     "translations": [
       {
         "index": 0,
-        "source": "Assign initial reviews to Copilot for greater speed and quality.",
-        "translated": "Giao nhiệm vụ đánh giá ban đầu cho Copilot để đạt tốc độ và chất lượng cao hơn."
+        "sourceRaw": "Assign initial reviews to Copilot for greater speed and quality.",
+        "translatedRaw": "Giao nhiệm vụ đánh giá ban đầu cho Copilot để đạt tốc độ và chất lượng cao hơn.",
+        "sourceText": "Assign initial reviews to Copilot for greater speed and quality.",
+        "translatedText": "Giao nhiệm vụ đánh giá ban đầu cho Copilot để đạt tốc độ và chất lượng cao hơn.",
+        "hasHtmlTag": false
       },
       {
         "index": 1,
-        "source": "Explore code review",
-        "translated": "Khám phá quy trình xem xét mã."
+        "sourceRaw": "Explore code review",
+        "translatedRaw": "Khám phá quy trình xem xét mã.",
+        "sourceText": "Explore code review",
+        "translatedText": "Khám phá quy trình xem xét mã.",
+        "hasHtmlTag": false
       },
       {
         "index": 2,
-        "source": "Fund open source projects",
-        "translated": "Tài trợ cho các dự án mã nguồn mở"
+        "sourceRaw": "Fund open source projects",
+        "translatedRaw": "Tài trợ cho các dự án mã nguồn mở",
+        "sourceText": "Fund open source projects",
+        "translatedText": "Tài trợ cho các dự án mã nguồn mở",
+        "hasHtmlTag": false
       },
       {
         "index": 3,
-        "source": "Become an open source partner and support the tools and libraries that power your work.",
-        "translated": "Hãy trở thành đối tác mã nguồn mở và hỗ trợ các công cụ và thư viện giúp vận hành công việc của bạn."
+        "sourceRaw": "Become an open source partner and support the tools and libraries that power your work.",
+        "translatedRaw": "Hãy trở thành đối tác mã nguồn mở và hỗ trợ các công cụ và thư viện giúp vận hành công việc của bạn.",
+        "sourceText": "Become an open source partner and support the tools and libraries that power your work.",
+        "translatedText": "Hãy trở thành đối tác mã nguồn mở và hỗ trợ các công cụ và thư viện giúp vận hành công việc của bạn.",
+        "hasHtmlTag": false
       },
       {
         "index": 4,
-        "source": "Explore GitHub Sponsors",
-        "translated": "Khám phá các nhà tài trợ của GitHub"
+        "sourceRaw": "Explore GitHub Sponsors",
+        "translatedRaw": "Khám phá các nhà tài trợ của GitHub",
+        "sourceText": "Explore GitHub Sponsors",
+        "translatedText": "Khám phá các nhà tài trợ của GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 5,
-        "source": "<a i=0>From startups to enterprises, </a><a i=1>GitHub scales with teams of any size in any industry.</a>",
-        "translated": "<a i=0>Từ các công ty khởi nghiệp đến các doanh nghiệp lớn,</a> <a i=1>GitHub có thể mở rộng quy mô phù hợp với các nhóm làm việc thuộc mọi quy mô trong mọi ngành nghề.</a>"
+        "sourceRaw": "<a i=0>From startups to enterprises, </a><a i=1>GitHub scales with teams of any size in any industry.</a>",
+        "translatedRaw": "<a i=0>Từ các công ty khởi nghiệp đến các doanh nghiệp lớn,</a> <a i=1>GitHub có thể mở rộng quy mô phù hợp với các nhóm làm việc thuộc mọi quy mô trong mọi ngành nghề.</a>",
+        "sourceText": "From startups to enterprises, GitHub scales with teams of any size in any industry.",
+        "translatedText": "Từ các công ty khởi nghiệp đến các doanh nghiệp lớn, GitHub có thể mở rộng quy mô phù hợp với các nhóm làm việc thuộc mọi quy mô trong mọi ngành nghề.",
+        "hasHtmlTag": true
       },
       {
         "index": 6,
-        "source": "By industry",
-        "translated": "Theo ngành"
+        "sourceRaw": "By industry",
+        "translatedRaw": "Theo ngành",
+        "sourceText": "By industry",
+        "translatedText": "Theo ngành",
+        "hasHtmlTag": false
       },
       {
         "index": 7,
-        "source": "By size",
-        "translated": "Theo kích thước"
+        "sourceRaw": "By size",
+        "translatedRaw": "Theo kích thước",
+        "sourceText": "By size",
+        "translatedText": "Theo kích thước",
+        "hasHtmlTag": false
       },
       {
         "index": 8,
-        "source": "By use case",
-        "translated": "Theo trường hợp sử dụng"
+        "sourceRaw": "By use case",
+        "translatedRaw": "Theo trường hợp sử dụng",
+        "sourceText": "By use case",
+        "translatedText": "Theo trường hợp sử dụng",
+        "hasHtmlTag": false
       },
       {
         "index": 9,
-        "source": "Technology",
-        "translated": "Công nghệ"
+        "sourceRaw": "Technology",
+        "translatedRaw": "Công nghệ",
+        "sourceText": "Technology",
+        "translatedText": "Công nghệ",
+        "hasHtmlTag": false
       },
       {
         "index": 10,
-        "source": "Figma streamlines development and strengthens security",
-        "translated": "Figma giúp đơn giản hóa quá trình phát triển và tăng cường bảo mật."
+        "sourceRaw": "Figma streamlines development and strengthens security",
+        "translatedRaw": "Figma giúp đơn giản hóa quá trình phát triển và tăng cường bảo mật.",
+        "sourceText": "Figma streamlines development and strengthens security",
+        "translatedText": "Figma giúp đơn giản hóa quá trình phát triển và tăng cường bảo mật.",
+        "hasHtmlTag": false
       },
       {
         "index": 11,
-        "source": "Read customer story",
-        "translated": "Đọc câu chuyện của khách hàng"
+        "sourceRaw": "Read customer story",
+        "translatedRaw": "Đọc câu chuyện của khách hàng",
+        "sourceText": "Read customer story",
+        "translatedText": "Đọc câu chuyện của khách hàng",
+        "hasHtmlTag": false
       },
       {
         "index": 12,
-        "source": "Automotive",
-        "translated": "Ô tô"
+        "sourceRaw": "Automotive",
+        "translatedRaw": "Ô tô",
+        "sourceText": "Automotive",
+        "translatedText": "Ô tô",
+        "hasHtmlTag": false
       },
       {
         "index": 13,
-        "source": "Mercedes-Benz standardizes source code and automates onboarding",
-        "translated": "Mercedes-Benz chuẩn hóa mã nguồn và tự động hóa quy trình tích hợp nhân viên mới."
+        "sourceRaw": "Mercedes-Benz standardizes source code and automates onboarding",
+        "translatedRaw": "Mercedes-Benz chuẩn hóa mã nguồn và tự động hóa quy trình tích hợp nhân viên mới.",
+        "sourceText": "Mercedes-Benz standardizes source code and automates onboarding",
+        "translatedText": "Mercedes-Benz chuẩn hóa mã nguồn và tự động hóa quy trình tích hợp nhân viên mới.",
+        "hasHtmlTag": false
       },
       {
         "index": 14,
-        "source": "Financial services",
-        "translated": "Dịch vụ tài chính"
+        "sourceRaw": "Financial services",
+        "translatedRaw": "Dịch vụ tài chính",
+        "sourceText": "Financial services",
+        "translatedText": "Dịch vụ tài chính",
+        "hasHtmlTag": false
       },
       {
         "index": 15,
-        "source": "Mercado Libre cuts coding time by 50%",
-        "translated": "Mercado Libre giúp giảm thời gian lập trình đến 50%."
+        "sourceRaw": "Mercado Libre cuts coding time by 50%",
+        "translatedRaw": "Mercado Libre giúp giảm thời gian lập trình đến 50%.",
+        "sourceText": "Mercado Libre cuts coding time by 50%",
+        "translatedText": "Mercado Libre giúp giảm thời gian lập trình đến 50%.",
+        "hasHtmlTag": false
       },
       {
         "index": 16,
-        "source": "Explore customer stories",
-        "translated": "Khám phá những câu chuyện của khách hàng"
+        "sourceRaw": "Explore customer stories",
+        "translatedRaw": "Khám phá những câu chuyện của khách hàng",
+        "sourceText": "Explore customer stories",
+        "translatedText": "Khám phá những câu chuyện của khách hàng",
+        "hasHtmlTag": false
       },
       {
         "index": 17,
-        "source": "View all solutions",
-        "translated": "Xem tất cả các giải pháp"
+        "sourceRaw": "View all solutions",
+        "translatedRaw": "Xem tất cả các giải pháp",
+        "sourceText": "View all solutions",
+        "translatedText": "Xem tất cả các giải pháp",
+        "hasHtmlTag": false
       },
       {
         "index": 18,
-        "source": "A subtle purple glow fades in as Mona the Octocat, Copilot, and Ducky dramatically fall into place next to one another while gazing optimistically into the distance.",
-        "translated": "Một ánh sáng tím dịu nhẹ dần hiện ra khi Mona chú mèo bạch tuộc, Copilot và Ducky bất ngờ ngồi xuống cạnh nhau, cùng nhau hướng mắt nhìn về phía xa với vẻ lạc quan."
+        "sourceRaw": "A subtle purple glow fades in as Mona the Octocat, Copilot, and Ducky dramatically fall into place next to one another while gazing optimistically into the distance.",
+        "translatedRaw": "Một ánh sáng tím dịu nhẹ dần hiện ra khi Mona chú mèo bạch tuộc, Copilot và Ducky bất ngờ ngồi xuống cạnh nhau, cùng nhau hướng mắt nhìn về phía xa với vẻ lạc quan.",
+        "sourceText": "A subtle purple glow fades in as Mona the Octocat, Copilot, and Ducky dramatically fall into place next to one another while gazing optimistically into the distance.",
+        "translatedText": "Một ánh sáng tím dịu nhẹ dần hiện ra khi Mona chú mèo bạch tuộc, Copilot và Ducky bất ngờ ngồi xuống cạnh nhau, cùng nhau hướng mắt nhìn về phía xa với vẻ lạc quan.",
+        "hasHtmlTag": false
       },
       {
         "index": 19,
-        "source": "Millions of developers and businesses call GitHub home",
-        "translated": "Hàng triệu nhà phát triển và doanh nghiệp coi GitHub là ngôi nhà của họ."
+        "sourceRaw": "Millions of developers and businesses call GitHub home",
+        "translatedRaw": "Hàng triệu nhà phát triển và doanh nghiệp coi GitHub là ngôi nhà của họ.",
+        "sourceText": "Millions of developers and businesses call GitHub home",
+        "translatedText": "Hàng triệu nhà phát triển và doanh nghiệp coi GitHub là ngôi nhà của họ.",
+        "hasHtmlTag": false
       },
       {
         "index": 20,
-        "source": "Whether you’re scaling your development process or just learning how to code, GitHub is where you belong. Join the world’s most widely adopted developer platform to build the technologies that shape what’s next.",
-        "translated": "Dù bạn đang mở rộng quy mô quy trình phát triển hay chỉ mới học lập trình, GitHub là nơi dành cho bạn. Hãy tham gia nền tảng phát triển phần mềm được sử dụng rộng rãi nhất thế giới để xây dựng những công nghệ định hình tương lai."
+        "sourceRaw": "Whether you’re scaling your development process or just learning how to code, GitHub is where you belong. Join the world’s most widely adopted developer platform to build the technologies that shape what’s next.",
+        "translatedRaw": "Dù bạn đang mở rộng quy mô quy trình phát triển hay chỉ mới học lập trình, GitHub là nơi dành cho bạn. Hãy tham gia nền tảng phát triển phần mềm được sử dụng rộng rãi nhất thế giới để xây dựng những công nghệ định hình tương lai.",
+        "sourceText": "Whether you’re scaling your development process or just learning how to code, GitHub is where you belong. Join the world’s most widely adopted developer platform to build the technologies that shape what’s next.",
+        "translatedText": "Dù bạn đang mở rộng quy mô quy trình phát triển hay chỉ mới học lập trình, GitHub là nơi dành cho bạn. Hãy tham gia nền tảng phát triển phần mềm được sử dụng rộng rãi nhất thế giới để xây dựng những công nghệ định hình tương lai.",
+        "hasHtmlTag": false
       },
       {
         "index": 21,
-        "source": "Enter your email",
-        "translated": "Nhập email của bạn"
+        "sourceRaw": "Enter your email",
+        "translatedRaw": "Nhập email của bạn",
+        "sourceText": "Enter your email",
+        "translatedText": "Nhập email của bạn",
+        "hasHtmlTag": false
       },
       {
         "index": 22,
-        "source": "Sign up for GitHub",
-        "translated": "Đăng ký GitHub"
+        "sourceRaw": "Sign up for GitHub",
+        "translatedRaw": "Đăng ký GitHub",
+        "sourceText": "Sign up for GitHub",
+        "translatedText": "Đăng ký GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 23,
-        "source": "Try GitHub Copilot",
-        "translated": "Hãy thử GitHub Copilot"
+        "sourceRaw": "Try GitHub Copilot",
+        "translatedRaw": "Hãy thử GitHub Copilot",
+        "sourceText": "Try GitHub Copilot",
+        "translatedText": "Hãy thử GitHub Copilot",
+        "hasHtmlTag": false
       },
       {
         "index": 24,
-        "source": "Footnotes",
-        "translated": "Chú thích cuối trang"
+        "sourceRaw": "Footnotes",
+        "translatedRaw": "Chú thích cuối trang",
+        "sourceText": "Footnotes",
+        "translatedText": "Chú thích cuối trang",
+        "hasHtmlTag": false
       },
       {
         "index": 25,
-        "source": "GitHub internal customer data, 2025.",
-        "translated": "Dữ liệu khách hàng nội bộ của GitHub, năm 2025."
+        "sourceRaw": "GitHub internal customer data, 2025.",
+        "translatedRaw": "Dữ liệu khách hàng nội bộ của GitHub, năm 2025.",
+        "sourceText": "GitHub internal customer data, 2025.",
+        "translatedText": "Dữ liệu khách hàng nội bộ của GitHub, năm 2025.",
+        "hasHtmlTag": false
       },
       {
         "index": 26,
-        "source": "Site-wide Links",
-        "translated": "Liên kết toàn trang web"
+        "sourceRaw": "Site-wide Links",
+        "translatedRaw": "Liên kết toàn trang web",
+        "sourceText": "Site-wide Links",
+        "translatedText": "Liên kết toàn trang web",
+        "hasHtmlTag": false
       },
       {
         "index": 27,
-        "source": "Subscribe to our developer newsletter",
-        "translated": "Đăng ký nhận bản tin dành cho nhà phát triển của chúng tôi"
+        "sourceRaw": "Subscribe to our developer newsletter",
+        "translatedRaw": "Đăng ký nhận bản tin dành cho nhà phát triển của chúng tôi",
+        "sourceText": "Subscribe to our developer newsletter",
+        "translatedText": "Đăng ký nhận bản tin dành cho nhà phát triển của chúng tôi",
+        "hasHtmlTag": false
       },
       {
         "index": 28,
-        "source": "Get tips, technical guides, and best practices. Twice a month.",
-        "translated": "Nhận các mẹo, hướng dẫn kỹ thuật và kinh nghiệm thực tiễn tốt nhất. Hai lần một tháng."
+        "sourceRaw": "Get tips, technical guides, and best practices. Twice a month.",
+        "translatedRaw": "Nhận các mẹo, hướng dẫn kỹ thuật và kinh nghiệm thực tiễn tốt nhất. Hai lần một tháng.",
+        "sourceText": "Get tips, technical guides, and best practices. Twice a month.",
+        "translatedText": "Nhận các mẹo, hướng dẫn kỹ thuật và kinh nghiệm thực tiễn tốt nhất. Hai lần một tháng.",
+        "hasHtmlTag": false
       },
       {
         "index": 29,
-        "source": "\n  Subscribe\n  \n  \n",
-        "translated": "Đặt mua"
+        "sourceRaw": "\n  Subscribe\n  \n  \n",
+        "translatedRaw": "Đặt mua",
+        "sourceText": "Subscribe",
+        "translatedText": "Đặt mua",
+        "hasHtmlTag": false
       },
       {
         "index": 30,
-        "source": "\n          Platform\n        ",
-        "translated": "Nền tảng"
+        "sourceRaw": "\n          Platform\n        ",
+        "translatedRaw": "Nền tảng",
+        "sourceText": "Platform",
+        "translatedText": "Nền tảng",
+        "hasHtmlTag": false
       },
       {
         "index": 31,
-        "source": "Features",
-        "translated": "Đặc trưng"
+        "sourceRaw": "Features",
+        "translatedRaw": "Đặc trưng",
+        "sourceText": "Features",
+        "translatedText": "Đặc trưng",
+        "hasHtmlTag": false
       },
       {
         "index": 32,
-        "source": "Enterprise",
-        "translated": "Doanh nghiệp"
+        "sourceRaw": "Enterprise",
+        "translatedRaw": "Doanh nghiệp",
+        "sourceText": "Enterprise",
+        "translatedText": "Doanh nghiệp",
+        "hasHtmlTag": false
       },
       {
         "index": 33,
-        "source": "Copilot",
-        "translated": "Phi công phụ"
+        "sourceRaw": "Copilot",
+        "translatedRaw": "Phi công phụ",
+        "sourceText": "Copilot",
+        "translatedText": "Phi công phụ",
+        "hasHtmlTag": false
       },
       {
         "index": 34,
-        "source": "AI",
-        "translated": "Trí tuệ nhân tạo"
+        "sourceRaw": "AI",
+        "translatedRaw": "Trí tuệ nhân tạo",
+        "sourceText": "AI",
+        "translatedText": "Trí tuệ nhân tạo",
+        "hasHtmlTag": false
       },
       {
         "index": 35,
-        "source": "Security",
-        "translated": "Bảo vệ"
+        "sourceRaw": "Security",
+        "translatedRaw": "Bảo vệ",
+        "sourceText": "Security",
+        "translatedText": "Bảo vệ",
+        "hasHtmlTag": false
       },
       {
         "index": 36,
-        "source": "Pricing",
-        "translated": "Giá cả"
+        "sourceRaw": "Pricing",
+        "translatedRaw": "Giá cả",
+        "sourceText": "Pricing",
+        "translatedText": "Giá cả",
+        "hasHtmlTag": false
       },
       {
         "index": 37,
-        "source": "Team",
-        "translated": "Đội"
+        "sourceRaw": "Team",
+        "translatedRaw": "Đội",
+        "sourceText": "Team",
+        "translatedText": "Đội",
+        "hasHtmlTag": false
       },
       {
         "index": 38,
-        "source": "Resources",
-        "translated": "Tài nguyên"
+        "sourceRaw": "Resources",
+        "translatedRaw": "Tài nguyên",
+        "sourceText": "Resources",
+        "translatedText": "Tài nguyên",
+        "hasHtmlTag": false
       },
       {
         "index": 39,
-        "source": "Roadmap",
-        "translated": "Lộ trình"
+        "sourceRaw": "Roadmap",
+        "translatedRaw": "Lộ trình",
+        "sourceText": "Roadmap",
+        "translatedText": "Lộ trình",
+        "hasHtmlTag": false
       },
       {
         "index": 40,
-        "source": "Compare GitHub",
-        "translated": "So sánh GitHub"
+        "sourceRaw": "Compare GitHub",
+        "translatedRaw": "So sánh GitHub",
+        "sourceText": "Compare GitHub",
+        "translatedText": "So sánh GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 41,
-        "source": "\n          Ecosystem\n        ",
-        "translated": "Hệ sinh thái"
+        "sourceRaw": "\n          Ecosystem\n        ",
+        "translatedRaw": "Hệ sinh thái",
+        "sourceText": "Ecosystem",
+        "translatedText": "Hệ sinh thái",
+        "hasHtmlTag": false
       },
       {
         "index": 42,
-        "source": "Developer API",
-        "translated": "API dành cho nhà phát triển"
+        "sourceRaw": "Developer API",
+        "translatedRaw": "API dành cho nhà phát triển",
+        "sourceText": "Developer API",
+        "translatedText": "API dành cho nhà phát triển",
+        "hasHtmlTag": false
       },
       {
         "index": 43,
-        "source": "Partners",
-        "translated": "Đối tác"
+        "sourceRaw": "Partners",
+        "translatedRaw": "Đối tác",
+        "sourceText": "Partners",
+        "translatedText": "Đối tác",
+        "hasHtmlTag": false
       },
       {
         "index": 44,
-        "source": "Education",
-        "translated": "Giáo dục"
+        "sourceRaw": "Education",
+        "translatedRaw": "Giáo dục",
+        "sourceText": "Education",
+        "translatedText": "Giáo dục",
+        "hasHtmlTag": false
       },
       {
         "index": 45,
-        "source": "GitHub CLI",
-        "translated": "Công cụ dòng lệnh GitHub"
+        "sourceRaw": "GitHub CLI",
+        "translatedRaw": "Công cụ dòng lệnh GitHub",
+        "sourceText": "GitHub CLI",
+        "translatedText": "Công cụ dòng lệnh GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 46,
-        "source": "GitHub Desktop",
-        "translated": "GitHub Desktop"
+        "sourceRaw": "GitHub Desktop",
+        "translatedRaw": "GitHub Desktop",
+        "sourceText": "GitHub Desktop",
+        "translatedText": "GitHub Desktop",
+        "hasHtmlTag": false
       },
       {
         "index": 47,
-        "source": "GitHub Mobile",
-        "translated": "GitHub Mobile"
+        "sourceRaw": "GitHub Mobile",
+        "translatedRaw": "GitHub Mobile",
+        "sourceText": "GitHub Mobile",
+        "translatedText": "GitHub Mobile",
+        "hasHtmlTag": false
       },
       {
         "index": 48,
-        "source": "GitHub Marketplace",
-        "translated": "Chợ GitHub"
+        "sourceRaw": "GitHub Marketplace",
+        "translatedRaw": "Chợ GitHub",
+        "sourceText": "GitHub Marketplace",
+        "translatedText": "Chợ GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 49,
-        "source": "MCP Registry",
-        "translated": "Sổ đăng ký MCP"
+        "sourceRaw": "MCP Registry",
+        "translatedRaw": "Sổ đăng ký MCP",
+        "sourceText": "MCP Registry",
+        "translatedText": "Sổ đăng ký MCP",
+        "hasHtmlTag": false
       },
       {
         "index": 50,
-        "source": "\n          Support\n        ",
-        "translated": "Ủng hộ"
+        "sourceRaw": "\n          Support\n        ",
+        "translatedRaw": "Ủng hộ",
+        "sourceText": "Support",
+        "translatedText": "Ủng hộ",
+        "hasHtmlTag": false
       },
       {
         "index": 51,
-        "source": "Docs",
-        "translated": "Bác sĩ"
+        "sourceRaw": "Docs",
+        "translatedRaw": "Bác sĩ",
+        "sourceText": "Docs",
+        "translatedText": "Bác sĩ",
+        "hasHtmlTag": false
       },
       {
         "index": 52,
-        "source": "Community Forum",
-        "translated": "Diễn đàn cộng đồng"
+        "sourceRaw": "Community Forum",
+        "translatedRaw": "Diễn đàn cộng đồng",
+        "sourceText": "Community Forum",
+        "translatedText": "Diễn đàn cộng đồng",
+        "hasHtmlTag": false
       },
       {
         "index": 53,
-        "source": "Professional Services",
-        "translated": "Dịch vụ chuyên nghiệp"
+        "sourceRaw": "Professional Services",
+        "translatedRaw": "Dịch vụ chuyên nghiệp",
+        "sourceText": "Professional Services",
+        "translatedText": "Dịch vụ chuyên nghiệp",
+        "hasHtmlTag": false
       },
       {
         "index": 54,
-        "source": "Premium Support",
-        "translated": "Hỗ trợ cao cấp"
+        "sourceRaw": "Premium Support",
+        "translatedRaw": "Hỗ trợ cao cấp",
+        "sourceText": "Premium Support",
+        "translatedText": "Hỗ trợ cao cấp",
+        "hasHtmlTag": false
       },
       {
         "index": 55,
-        "source": "Skills",
-        "translated": "Kỹ năng"
+        "sourceRaw": "Skills",
+        "translatedRaw": "Kỹ năng",
+        "sourceText": "Skills",
+        "translatedText": "Kỹ năng",
+        "hasHtmlTag": false
       },
       {
         "index": 56,
-        "source": "Status",
-        "translated": "Trạng thái"
+        "sourceRaw": "Status",
+        "translatedRaw": "Trạng thái",
+        "sourceText": "Status",
+        "translatedText": "Trạng thái",
+        "hasHtmlTag": false
       },
       {
         "index": 57,
-        "source": "Contact GitHub",
-        "translated": "Liên hệ với GitHub"
+        "sourceRaw": "Contact GitHub",
+        "translatedRaw": "Liên hệ với GitHub",
+        "sourceText": "Contact GitHub",
+        "translatedText": "Liên hệ với GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 58,
-        "source": "\n          Company\n        ",
-        "translated": "Công ty"
+        "sourceRaw": "\n          Company\n        ",
+        "translatedRaw": "Công ty",
+        "sourceText": "Company",
+        "translatedText": "Công ty",
+        "hasHtmlTag": false
       },
       {
         "index": 59,
-        "source": "About",
-        "translated": "Về"
+        "sourceRaw": "About",
+        "translatedRaw": "Về",
+        "sourceText": "About",
+        "translatedText": "Về",
+        "hasHtmlTag": false
       },
       {
         "index": 60,
-        "source": "Why GitHub",
-        "translated": "Tại sao lại chọn GitHub?"
+        "sourceRaw": "Why GitHub",
+        "translatedRaw": "Tại sao lại chọn GitHub?",
+        "sourceText": "Why GitHub",
+        "translatedText": "Tại sao lại chọn GitHub?",
+        "hasHtmlTag": false
       },
       {
         "index": 61,
-        "source": "Customer stories",
-        "translated": "Câu chuyện khách hàng"
+        "sourceRaw": "Customer stories",
+        "translatedRaw": "Câu chuyện khách hàng",
+        "sourceText": "Customer stories",
+        "translatedText": "Câu chuyện khách hàng",
+        "hasHtmlTag": false
       },
       {
         "index": 62,
-        "source": "Blog",
-        "translated": "Blog"
+        "sourceRaw": "Blog",
+        "translatedRaw": "Blog",
+        "sourceText": "Blog",
+        "translatedText": "Blog",
+        "hasHtmlTag": false
       },
       {
         "index": 63,
-        "source": "The ReadME Project",
-        "translated": "Dự án ReadME"
+        "sourceRaw": "The ReadME Project",
+        "translatedRaw": "Dự án ReadME",
+        "sourceText": "The ReadME Project",
+        "translatedText": "Dự án ReadME",
+        "hasHtmlTag": false
       },
       {
         "index": 64,
-        "source": "Careers",
-        "translated": "Nghề nghiệp"
+        "sourceRaw": "Careers",
+        "translatedRaw": "Nghề nghiệp",
+        "sourceText": "Careers",
+        "translatedText": "Nghề nghiệp",
+        "hasHtmlTag": false
       },
       {
         "index": 65,
-        "source": "Newsroom",
-        "translated": "Phòng tin tức"
+        "sourceRaw": "Newsroom",
+        "translatedRaw": "Phòng tin tức",
+        "sourceText": "Newsroom",
+        "translatedText": "Phòng tin tức",
+        "hasHtmlTag": false
       },
       {
         "index": 66,
-        "source": "Inclusion",
-        "translated": "Bao gồm"
+        "sourceRaw": "Inclusion",
+        "translatedRaw": "Bao gồm",
+        "sourceText": "Inclusion",
+        "translatedText": "Bao gồm",
+        "hasHtmlTag": false
       },
       {
         "index": 67,
-        "source": "Social Impact",
-        "translated": "Tác động xã hội"
+        "sourceRaw": "Social Impact",
+        "translatedRaw": "Tác động xã hội",
+        "sourceText": "Social Impact",
+        "translatedText": "Tác động xã hội",
+        "hasHtmlTag": false
       },
       {
         "index": 68,
-        "source": "Shop",
-        "translated": "Cửa hàng"
+        "sourceRaw": "Shop",
+        "translatedRaw": "Cửa hàng",
+        "sourceText": "Shop",
+        "translatedText": "Cửa hàng",
+        "hasHtmlTag": false
       },
       {
         "index": 69,
-        "source": "\n            © ",
-        "translated": "©"
+        "sourceRaw": "\n            © ",
+        "translatedRaw": "©",
+        "sourceText": "©",
+        "translatedText": "©",
+        "hasHtmlTag": false
       },
       {
         "index": 70,
-        "source": "2026",
-        "translated": "2026"
+        "sourceRaw": "2026",
+        "translatedRaw": "2026",
+        "sourceText": "2026",
+        "translatedText": "2026",
+        "hasHtmlTag": false
       },
       {
         "index": 71,
-        "source": " GitHub, Inc.\n          ",
-        "translated": "GitHub, Inc."
+        "sourceRaw": " GitHub, Inc.\n          ",
+        "translatedRaw": "GitHub, Inc.",
+        "sourceText": "GitHub, Inc.",
+        "translatedText": "GitHub, Inc.",
+        "hasHtmlTag": false
       },
       {
         "index": 72,
-        "source": "Terms",
-        "translated": "Điều khoản"
+        "sourceRaw": "Terms",
+        "translatedRaw": "Điều khoản",
+        "sourceText": "Terms",
+        "translatedText": "Điều khoản",
+        "hasHtmlTag": false
       },
       {
         "index": 73,
-        "source": "<a i=0>Privacy</a><a i=1>(Updated 02/2024)</a>",
-        "translated": "<a i=0>Chính sách bảo mật</a> <a i=1>(Cập nhật tháng 02/2024)</a>"
+        "sourceRaw": "<a i=0>Privacy</a><a i=1>(Updated 02/2024)</a>",
+        "translatedRaw": "<a i=0>Chính sách bảo mật</a> <a i=1>(Cập nhật tháng 02/2024)</a>",
+        "sourceText": "Privacy (Updated 02/2024)",
+        "translatedText": "Chính sách bảo mật (Cập nhật tháng 02/2024)",
+        "hasHtmlTag": true
       },
       {
         "index": 74,
-        "source": "02/2024",
-        "translated": "02/2024"
+        "sourceRaw": "02/2024",
+        "translatedRaw": "02/2024",
+        "sourceText": "02/2024",
+        "translatedText": "02/2024",
+        "hasHtmlTag": false
       },
       {
         "index": 75,
-        "source": "Sitemap",
-        "translated": "Sơ đồ trang web"
+        "sourceRaw": "Sitemap",
+        "translatedRaw": "Sơ đồ trang web",
+        "sourceText": "Sitemap",
+        "translatedText": "Sơ đồ trang web",
+        "hasHtmlTag": false
       },
       {
         "index": 76,
-        "source": "What is Git?",
-        "translated": "Git là gì?"
+        "sourceRaw": "What is Git?",
+        "translatedRaw": "Git là gì?",
+        "sourceText": "What is Git?",
+        "translatedText": "Git là gì?",
+        "hasHtmlTag": false
       },
       {
         "index": 77,
-        "source": "\n       Manage cookies\n    ",
-        "translated": "Quản lý cookie"
+        "sourceRaw": "\n       Manage cookies\n    ",
+        "translatedRaw": "Quản lý cookie",
+        "sourceText": "Manage cookies",
+        "translatedText": "Quản lý cookie",
+        "hasHtmlTag": false
       },
       {
         "index": 78,
-        "source": "\n      Do not share my personal information\n    ",
-        "translated": "Đừng chia sẻ thông tin cá nhân của tôi"
+        "sourceRaw": "\n      Do not share my personal information\n    ",
+        "translatedRaw": "Đừng chia sẻ thông tin cá nhân của tôi",
+        "sourceText": "Do not share my personal information",
+        "translatedText": "Đừng chia sẻ thông tin cá nhân của tôi",
+        "hasHtmlTag": false
       },
       {
         "index": 79,
-        "source": "GitHub on LinkedIn",
-        "translated": "GitHub trên LinkedIn"
+        "sourceRaw": "GitHub on LinkedIn",
+        "translatedRaw": "GitHub trên LinkedIn",
+        "sourceText": "GitHub on LinkedIn",
+        "translatedText": "GitHub trên LinkedIn",
+        "hasHtmlTag": false
       },
       {
         "index": 80,
-        "source": "GitHub on Instagram",
-        "translated": "GitHub trên Instagram"
+        "sourceRaw": "GitHub on Instagram",
+        "translatedRaw": "GitHub trên Instagram",
+        "sourceText": "GitHub on Instagram",
+        "translatedText": "GitHub trên Instagram",
+        "hasHtmlTag": false
       },
       {
         "index": 81,
-        "source": "GitHub on YouTube",
-        "translated": "GitHub trên YouTube"
+        "sourceRaw": "GitHub on YouTube",
+        "translatedRaw": "GitHub trên YouTube",
+        "sourceText": "GitHub on YouTube",
+        "translatedText": "GitHub trên YouTube",
+        "hasHtmlTag": false
       },
       {
         "index": 82,
-        "source": "GitHub on X",
-        "translated": "GitHub trên X"
+        "sourceRaw": "GitHub on X",
+        "translatedRaw": "GitHub trên X",
+        "sourceText": "GitHub on X",
+        "translatedText": "GitHub trên X",
+        "hasHtmlTag": false
       },
       {
         "index": 83,
-        "source": "GitHub on TikTok",
-        "translated": "GitHub trên TikTok"
+        "sourceRaw": "GitHub on TikTok",
+        "translatedRaw": "GitHub trên TikTok",
+        "sourceText": "GitHub on TikTok",
+        "translatedText": "GitHub trên TikTok",
+        "hasHtmlTag": false
       },
       {
         "index": 84,
-        "source": "GitHub on Twitch",
-        "translated": "GitHub trên Twitch"
+        "sourceRaw": "GitHub on Twitch",
+        "translatedRaw": "GitHub trên Twitch",
+        "sourceText": "GitHub on Twitch",
+        "translatedText": "GitHub trên Twitch",
+        "hasHtmlTag": false
       },
       {
         "index": 85,
-        "source": "GitHub’s organization on GitHub",
-        "translated": "Tổ chức của GitHub trên GitHub"
+        "sourceRaw": "GitHub’s organization on GitHub",
+        "translatedRaw": "Tổ chức của GitHub trên GitHub",
+        "sourceText": "GitHub’s organization on GitHub",
+        "translatedText": "Tổ chức của GitHub trên GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 86,
-        "source": "English",
-        "translated": "Tiếng Anh"
+        "sourceRaw": "English",
+        "translatedRaw": "Tiếng Anh",
+        "sourceText": "English",
+        "translatedText": "Tiếng Anh",
+        "hasHtmlTag": false
       },
       {
         "index": 87,
-        "source": "Select language",
-        "translated": "Chọn ngôn ngữ"
+        "sourceRaw": "Select language",
+        "translatedRaw": "Chọn ngôn ngữ",
+        "sourceText": "Select language",
+        "translatedText": "Chọn ngôn ngữ",
+        "hasHtmlTag": false
       },
       {
         "index": 88,
-        "source": "Homepage",
-        "translated": "Trang chủ"
+        "sourceRaw": "Homepage",
+        "translatedRaw": "Trang chủ",
+        "sourceText": "Homepage",
+        "translatedText": "Trang chủ",
+        "hasHtmlTag": false
       },
       {
         "index": 89,
-        "source": "Global",
-        "translated": "Toàn cầu"
+        "sourceRaw": "Global",
+        "translatedRaw": "Toàn cầu",
+        "sourceText": "Global",
+        "translatedText": "Toàn cầu",
+        "hasHtmlTag": false
       },
       {
         "index": 90,
-        "source": "Search or jump to...",
-        "translated": "Tìm kiếm hoặc chuyển đến..."
+        "sourceRaw": "Search or jump to...",
+        "translatedRaw": "Tìm kiếm hoặc chuyển đến...",
+        "sourceText": "Search or jump to...",
+        "translatedText": "Tìm kiếm hoặc chuyển đến...",
+        "hasHtmlTag": false
       },
       {
         "index": 91,
-        "source": "Search or jump to…",
-        "translated": "Tìm kiếm hoặc chuyển đến…"
+        "sourceRaw": "Search or jump to…",
+        "translatedRaw": "Tìm kiếm hoặc chuyển đến…",
+        "sourceText": "Search or jump to…",
+        "translatedText": "Tìm kiếm hoặc chuyển đến…",
+        "hasHtmlTag": false
       },
       {
         "index": 92,
-        "source": "you@domain.com",
-        "translated": "you@domain.com"
+        "sourceRaw": "you@domain.com",
+        "translatedRaw": "you@domain.com",
+        "sourceText": "you@domain.com",
+        "translatedText": "you@domain.com",
+        "hasHtmlTag": false
       },
       {
         "index": 93,
-        "source": "Pause",
-        "translated": "Tạm dừng"
+        "sourceRaw": "Pause",
+        "translatedRaw": "Tạm dừng",
+        "sourceText": "Pause",
+        "translatedText": "Tạm dừng",
+        "hasHtmlTag": false
       },
       {
         "index": 94,
-        "source": "Pause animation",
-        "translated": "Tạm dừng hoạt ảnh"
+        "sourceRaw": "Pause animation",
+        "translatedRaw": "Tạm dừng hoạt ảnh",
+        "sourceText": "Pause animation",
+        "translatedText": "Tạm dừng hoạt ảnh",
+        "hasHtmlTag": false
       },
       {
         "index": 95,
-        "source": "Pause video",
-        "translated": "Tạm dừng video"
+        "sourceRaw": "Pause video",
+        "translatedRaw": "Tạm dừng video",
+        "sourceText": "Pause video",
+        "translatedText": "Tạm dừng video",
+        "hasHtmlTag": false
       },
       {
         "index": 96,
-        "source": "Duolingo",
-        "translated": "Duolingo"
+        "sourceRaw": "Duolingo",
+        "translatedRaw": "Duolingo",
+        "sourceText": "Duolingo",
+        "translatedText": "Duolingo",
+        "hasHtmlTag": false
       },
       {
         "index": 97,
-        "source": "Gartner",
-        "translated": "Gartner"
+        "sourceRaw": "Gartner",
+        "translatedRaw": "Gartner",
+        "sourceText": "Gartner",
+        "translatedText": "Gartner",
+        "hasHtmlTag": false
       },
       {
         "index": 98,
-        "source": "Copilot Autofix identifies vulnerable code and provides an explanation, together with a secure code suggestion to remediate the vulnerability.",
-        "translated": "Copilot Autofix xác định mã nguồn dễ bị tổn thương và cung cấp lời giải thích, cùng với đề xuất mã an toàn để khắc phục lỗ hổng."
+        "sourceRaw": "Copilot Autofix identifies vulnerable code and provides an explanation, together with a secure code suggestion to remediate the vulnerability.",
+        "translatedRaw": "Copilot Autofix xác định mã nguồn dễ bị tổn thương và cung cấp lời giải thích, cùng với đề xuất mã an toàn để khắc phục lỗ hổng.",
+        "sourceText": "Copilot Autofix identifies vulnerable code and provides an explanation, together with a secure code suggestion to remediate the vulnerability.",
+        "translatedText": "Copilot Autofix xác định mã nguồn dễ bị tổn thương và cung cấp lời giải thích, cùng với đề xuất mã an toàn để khắc phục lỗ hổng.",
+        "hasHtmlTag": false
       },
       {
         "index": 99,
-        "source": "A security campaign screen displays the campaign’s progress bar with 97% completed of 701 alerts. A total of 23 alerts are left with 13 in progress, and the campaign started 20 days ago. The status below shows that there are 7 days left in the campaign with a due date of November 15, 2024.",
-        "translated": "Màn hình chiến dịch bảo mật hiển thị thanh tiến độ của chiến dịch với 97% đã hoàn thành trên tổng số 701 cảnh báo. Còn lại 23 cảnh báo, trong đó 13 cảnh báo đang được xử lý, và chiến dịch đã bắt đầu được 20 ngày. Trạng thái bên dưới cho thấy còn 7 ngày nữa là kết thúc chiến dịch với hạn chót là ngày 15 tháng 11 năm 2024."
+        "sourceRaw": "A security campaign screen displays the campaign’s progress bar with 97% completed of 701 alerts. A total of 23 alerts are left with 13 in progress, and the campaign started 20 days ago. The status below shows that there are 7 days left in the campaign with a due date of November 15, 2024.",
+        "translatedRaw": "Màn hình chiến dịch bảo mật hiển thị thanh tiến độ của chiến dịch với 97% đã hoàn thành trên tổng số 701 cảnh báo. Còn lại 23 cảnh báo, trong đó 13 cảnh báo đang được xử lý, và chiến dịch đã bắt đầu được 20 ngày. Trạng thái bên dưới cho thấy còn 7 ngày nữa là kết thúc chiến dịch với hạn chót là ngày 15 tháng 11 năm 2024.",
+        "sourceText": "A security campaign screen displays the campaign’s progress bar with 97% completed of 701 alerts. A total of 23 alerts are left with 13 in progress, and the campaign started 20 days ago. The status below shows that there are 7 days left in the campaign with a due date of November 15, 2024.",
+        "translatedText": "Màn hình chiến dịch bảo mật hiển thị thanh tiến độ của chiến dịch với 97% đã hoàn thành trên tổng số 701 cảnh báo. Còn lại 23 cảnh báo, trong đó 13 cảnh báo đang được xử lý, và chiến dịch đã bắt đầu được 20 ngày. Trạng thái bên dưới cho thấy còn 7 ngày nữa là kết thúc chiến dịch với hạn chót là ngày 15 tháng 11 năm 2024.",
+        "hasHtmlTag": false
       },
       {
         "index": 100,
-        "source": "List of dependencies defined in a requirements .txt file.",
-        "translated": "Danh sách các phần phụ thuộc được định nghĩa trong tệp requirements.txt."
+        "sourceRaw": "List of dependencies defined in a requirements .txt file.",
+        "translatedRaw": "Danh sách các phần phụ thuộc được định nghĩa trong tệp requirements.txt.",
+        "sourceText": "List of dependencies defined in a requirements .txt file.",
+        "translatedText": "Danh sách các phần phụ thuộc được định nghĩa trong tệp requirements.txt.",
+        "hasHtmlTag": false
       },
       {
         "index": 101,
-        "source": "GitHub push protection confirms and displays an active secret, and blocks the push.",
-        "translated": "Cơ chế bảo vệ push của GitHub xác nhận và hiển thị mã bí mật đang hoạt động, đồng thời chặn thao tác push."
+        "sourceRaw": "GitHub push protection confirms and displays an active secret, and blocks the push.",
+        "translatedRaw": "Cơ chế bảo vệ push của GitHub xác nhận và hiển thị mã bí mật đang hoạt động, đồng thời chặn thao tác push.",
+        "sourceText": "GitHub push protection confirms and displays an active secret, and blocks the push.",
+        "translatedText": "Cơ chế bảo vệ push của GitHub xác nhận và hiển thị mã bí mật đang hoạt động, đồng thời chặn thao tác push.",
+        "hasHtmlTag": false
       },
       {
         "index": 102,
-        "source": "Footnote 1",
-        "translated": "Chú thích 1"
+        "sourceRaw": "Footnote 1",
+        "translatedRaw": "Chú thích 1",
+        "sourceText": "Footnote 1",
+        "translatedText": "Chú thích 1",
+        "hasHtmlTag": false
       }
     ]
   },
@@ -538,298 +847,475 @@
     "translations": [
       {
         "index": 0,
-        "source": "A project management dashboard showing tasks for the ‘OctoArcade Invaders’ project, with tasks grouped under project phase categories like ‘Prototype,’ ‘Beta,’ and ‘Launch’ in a table layout. One of the columns displays sub-issue progress bars with percentages for each issue.",
-        "translated": "Bảng điều khiển quản lý dự án hiển thị các nhiệm vụ cho dự án &#39;OctoArcade Invaders&#39;, với các nhiệm vụ được nhóm theo các giai đoạn dự án như &#39;Nguyên mẫu&#39;, &#39;Beta&#39; và &#39;Ra mắt&#39; trong bố cục dạng bảng. Một trong các cột hiển thị thanh tiến độ của các vấn đề phụ với tỷ lệ phần trăm cho mỗi vấn đề."
+        "sourceRaw": "A project management dashboard showing tasks for the ‘OctoArcade Invaders’ project, with tasks grouped under project phase categories like ‘Prototype,’ ‘Beta,’ and ‘Launch’ in a table layout. One of the columns displays sub-issue progress bars with percentages for each issue.",
+        "translatedRaw": "Bảng điều khiển quản lý dự án hiển thị các nhiệm vụ cho dự án &#39;OctoArcade Invaders&#39;, với các nhiệm vụ được nhóm theo các giai đoạn dự án như &#39;Nguyên mẫu&#39;, &#39;Beta&#39; và &#39;Ra mắt&#39; trong bố cục dạng bảng. Một trong các cột hiển thị thanh tiến độ của các vấn đề phụ với tỷ lệ phần trăm cho mỗi vấn đề.",
+        "sourceText": "A project management dashboard showing tasks for the ‘OctoArcade Invaders’ project, with tasks grouped under project phase categories like ‘Prototype,’ ‘Beta,’ and ‘Launch’ in a table layout. One of the columns displays sub-issue progress bars with percentages for each issue.",
+        "translatedText": "Bảng điều khiển quản lý dự án hiển thị các nhiệm vụ cho dự án 'OctoArcade Invaders', với các nhiệm vụ được nhóm theo các giai đoạn dự án như 'Nguyên mẫu', 'Beta' và 'Ra mắt' trong bố cục dạng bảng. Một trong các cột hiển thị thanh tiến độ của các vấn đề phụ với tỷ lệ phần trăm cho mỗi vấn đề.",
+        "hasHtmlTag": false
       },
       {
         "index": 1,
-        "source": "Sign up for GitHub",
-        "translated": "Đăng ký GitHub"
+        "sourceRaw": "Sign up for GitHub",
+        "translatedRaw": "Đăng ký GitHub",
+        "sourceText": "Sign up for GitHub",
+        "translatedText": "Đăng ký GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 2,
-        "source": "you@domain.com",
-        "translated": "you@domain.com"
+        "sourceRaw": "you@domain.com",
+        "translatedRaw": "you@domain.com",
+        "sourceText": "you@domain.com",
+        "translatedText": "you@domain.com",
+        "hasHtmlTag": false
       },
       {
         "index": 3,
-        "source": "Back to content",
-        "translated": "Trở lại nội dung"
+        "sourceRaw": "Back to content",
+        "translatedRaw": "Trở lại nội dung",
+        "sourceText": "Back to content",
+        "translatedText": "Trở lại nội dung",
+        "hasHtmlTag": false
       },
       {
         "index": 4,
-        "source": "Back to top",
-        "translated": "Trở lại đầu trang"
+        "sourceRaw": "Back to top",
+        "translatedRaw": "Trở lại đầu trang",
+        "sourceText": "Back to top",
+        "translatedText": "Trở lại đầu trang",
+        "hasHtmlTag": false
       },
       {
         "index": 5,
-        "source": "Go to GitHub homepage",
-        "translated": "Truy cập trang chủ GitHub"
+        "sourceRaw": "Go to GitHub homepage",
+        "translatedRaw": "Truy cập trang chủ GitHub",
+        "sourceText": "Go to GitHub homepage",
+        "translatedText": "Truy cập trang chủ GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 6,
-        "source": "Legal and Resource Links",
-        "translated": "Liên kết pháp lý và tài nguyên"
+        "sourceRaw": "Legal and Resource Links",
+        "translatedRaw": "Liên kết pháp lý và tài nguyên",
+        "sourceText": "Legal and Resource Links",
+        "translatedText": "Liên kết pháp lý và tài nguyên",
+        "hasHtmlTag": false
       },
       {
         "index": 7,
-        "source": "GitHub&#39;s Social Media Links",
-        "translated": "Các liên kết mạng xã hội của GitHub"
+        "sourceRaw": "GitHub&#39;s Social Media Links",
+        "translatedRaw": "Các liên kết mạng xã hội của GitHub",
+        "sourceText": "GitHub's Social Media Links",
+        "translatedText": "Các liên kết mạng xã hội của GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 8,
-        "source": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub",
-        "translated": "GitHub · Thay đổi là điều tất yếu. GitHub giúp bạn luôn dẫn đầu. · GitHub"
+        "sourceRaw": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub",
+        "translatedRaw": "GitHub · Thay đổi là điều tất yếu. GitHub giúp bạn luôn dẫn đầu. · GitHub",
+        "sourceText": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub",
+        "translatedText": "GitHub · Thay đổi là điều tất yếu. GitHub giúp bạn luôn dẫn đầu. · GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 9,
-        "source": "GitHub",
-        "translated": "GitHub"
+        "sourceRaw": "GitHub",
+        "translatedRaw": "GitHub",
+        "sourceText": "GitHub",
+        "translatedText": "GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 10,
-        "source": "Toggle navigation",
-        "translated": "Chuyển đổi điều hướng"
+        "sourceRaw": "Toggle navigation",
+        "translatedRaw": "Chuyển đổi điều hướng",
+        "sourceText": "Toggle navigation",
+        "translatedText": "Chuyển đổi điều hướng",
+        "hasHtmlTag": false
       },
       {
         "index": 11,
-        "source": "\n            Sign in\n          ",
-        "translated": "Đăng nhập"
+        "sourceRaw": "\n            Sign in\n          ",
+        "translatedRaw": "Đăng nhập",
+        "sourceText": "Sign in",
+        "translatedText": "Đăng nhập",
+        "hasHtmlTag": false
       },
       {
         "index": 12,
-        "source": "Search code, repositories, users, issues, pull requests...",
-        "translated": "Tìm kiếm mã nguồn, kho lưu trữ, người dùng, sự cố, yêu cầu kéo..."
+        "sourceRaw": "Search code, repositories, users, issues, pull requests...",
+        "translatedRaw": "Tìm kiếm mã nguồn, kho lưu trữ, người dùng, sự cố, yêu cầu kéo...",
+        "sourceText": "Search code, repositories, users, issues, pull requests...",
+        "translatedText": "Tìm kiếm mã nguồn, kho lưu trữ, người dùng, sự cố, yêu cầu kéo...",
+        "hasHtmlTag": false
       },
       {
         "index": 13,
-        "source": "\n        Search\n      ",
-        "translated": "Tìm kiếm"
+        "sourceRaw": "\n        Search\n      ",
+        "translatedRaw": "Tìm kiếm",
+        "sourceText": "Search",
+        "translatedText": "Tìm kiếm",
+        "hasHtmlTag": false
       },
       {
         "index": 14,
-        "source": "Clear",
-        "translated": "Thông thoáng"
+        "sourceRaw": "Clear",
+        "translatedRaw": "Thông thoáng",
+        "sourceText": "Clear",
+        "translatedText": "Thông thoáng",
+        "hasHtmlTag": false
       },
       {
         "index": 15,
-        "source": "Explore",
-        "translated": "Khám phá"
+        "sourceRaw": "Explore",
+        "translatedRaw": "Khám phá",
+        "sourceText": "Explore",
+        "translatedText": "Khám phá",
+        "hasHtmlTag": false
       },
       {
         "index": 16,
-        "source": "Enterprise",
-        "translated": "Doanh nghiệp"
+        "sourceRaw": "Enterprise",
+        "translatedRaw": "Doanh nghiệp",
+        "sourceText": "Enterprise",
+        "translatedText": "Doanh nghiệp",
+        "hasHtmlTag": false
       },
       {
         "index": 17,
-        "source": "Learn More",
-        "translated": "Tìm hiểu thêm"
+        "sourceRaw": "Learn More",
+        "translatedRaw": "Tìm hiểu thêm",
+        "sourceText": "Learn More",
+        "translatedText": "Tìm hiểu thêm",
+        "hasHtmlTag": false
       },
       {
         "index": 18,
-        "source": "Security",
-        "translated": "Bảo vệ"
+        "sourceRaw": "Security",
+        "translatedRaw": "Bảo vệ",
+        "sourceText": "Security",
+        "translatedText": "Bảo vệ",
+        "hasHtmlTag": false
       },
       {
         "index": 19,
-        "source": "Copilot",
-        "translated": "Phi công phụ"
+        "sourceRaw": "Copilot",
+        "translatedRaw": "Phi công phụ",
+        "sourceText": "Copilot",
+        "translatedText": "Phi công phụ",
+        "hasHtmlTag": false
       },
       {
         "index": 20,
-        "source": "Pricing",
-        "translated": "Giá cả"
+        "sourceRaw": "Pricing",
+        "translatedRaw": "Giá cả",
+        "sourceText": "Pricing",
+        "translatedText": "Giá cả",
+        "hasHtmlTag": false
       },
       {
         "index": 21,
-        "source": "4 suggestions.",
-        "translated": "4 gợi ý."
+        "sourceRaw": "4 suggestions.",
+        "translatedRaw": "4 gợi ý.",
+        "sourceText": "4 suggestions.",
+        "translatedText": "4 gợi ý.",
+        "hasHtmlTag": false
       },
       {
         "index": 22,
-        "source": "Search syntax tips",
-        "translated": "Mẹo tìm kiếm cú pháp"
+        "sourceRaw": "Search syntax tips",
+        "translatedRaw": "Mẹo tìm kiếm cú pháp",
+        "sourceText": "Search syntax tips",
+        "translatedText": "Mẹo tìm kiếm cú pháp",
+        "hasHtmlTag": false
       },
       {
         "index": 23,
-        "source": "Suggestions",
-        "translated": "Gợi ý"
+        "sourceRaw": "Suggestions",
+        "translatedRaw": "Gợi ý",
+        "sourceText": "Suggestions",
+        "translatedText": "Gợi ý",
+        "hasHtmlTag": false
       },
       {
         "index": 24,
-        "source": "Enterprise, jump to this explore page",
-        "translated": "Doanh nghiệp, hãy chuyển đến trang khám phá này"
+        "sourceRaw": "Enterprise, jump to this explore page",
+        "translatedRaw": "Doanh nghiệp, hãy chuyển đến trang khám phá này",
+        "sourceText": "Enterprise, jump to this explore page",
+        "translatedText": "Doanh nghiệp, hãy chuyển đến trang khám phá này",
+        "hasHtmlTag": false
       },
       {
         "index": 25,
-        "source": "Security, jump to this explore page",
-        "translated": "Bảo mật, hãy chuyển đến trang khám phá này"
+        "sourceRaw": "Security, jump to this explore page",
+        "translatedRaw": "Bảo mật, hãy chuyển đến trang khám phá này",
+        "sourceText": "Security, jump to this explore page",
+        "translatedText": "Bảo mật, hãy chuyển đến trang khám phá này",
+        "hasHtmlTag": false
       },
       {
         "index": 26,
-        "source": "Copilot, jump to this explore page",
-        "translated": "Phi công phụ, hãy chuyển đến trang khám phá này"
+        "sourceRaw": "Copilot, jump to this explore page",
+        "translatedRaw": "Phi công phụ, hãy chuyển đến trang khám phá này",
+        "sourceText": "Copilot, jump to this explore page",
+        "translatedText": "Phi công phụ, hãy chuyển đến trang khám phá này",
+        "hasHtmlTag": false
       },
       {
         "index": 27,
-        "source": "Pricing, jump to this explore page",
-        "translated": "Giá cả, hãy chuyển đến trang khám phá này"
+        "sourceRaw": "Pricing, jump to this explore page",
+        "translatedRaw": "Giá cả, hãy chuyển đến trang khám phá này",
+        "sourceText": "Pricing, jump to this explore page",
+        "translatedText": "Giá cả, hãy chuyển đến trang khám phá này",
+        "hasHtmlTag": false
       },
       {
         "index": 28,
-        "source": "\n        Provide feedback\n      ",
-        "translated": "Hãy cung cấp phản hồi"
+        "sourceRaw": "\n        Provide feedback\n      ",
+        "translatedRaw": "Hãy cung cấp phản hồi",
+        "sourceText": "Provide feedback",
+        "translatedText": "Hãy cung cấp phản hồi",
+        "hasHtmlTag": false
       },
       {
         "index": 29,
-        "source": "We read every piece of feedback, and take your input very seriously.",
-        "translated": "Chúng tôi đọc mọi phản hồi và luôn coi trọng ý kiến ​​đóng góp của các bạn."
+        "sourceRaw": "We read every piece of feedback, and take your input very seriously.",
+        "translatedRaw": "Chúng tôi đọc mọi phản hồi và luôn coi trọng ý kiến ​​đóng góp của các bạn.",
+        "sourceText": "We read every piece of feedback, and take your input very seriously.",
+        "translatedText": "Chúng tôi đọc mọi phản hồi và luôn coi trọng ý kiến ​​đóng góp của các bạn.",
+        "hasHtmlTag": false
       },
       {
         "index": 30,
-        "source": "Include my email address so I can be contacted",
-        "translated": "Vui lòng ghi rõ địa chỉ email của tôi để tôi có thể được liên lạc."
+        "sourceRaw": "Include my email address so I can be contacted",
+        "translatedRaw": "Vui lòng ghi rõ địa chỉ email của tôi để tôi có thể được liên lạc.",
+        "sourceText": "Include my email address so I can be contacted",
+        "translatedText": "Vui lòng ghi rõ địa chỉ email của tôi để tôi có thể được liên lạc.",
+        "hasHtmlTag": false
       },
       {
         "index": 31,
-        "source": "    Cancel\n",
-        "translated": "Hủy bỏ"
+        "sourceRaw": "    Cancel\n",
+        "translatedRaw": "Hủy bỏ",
+        "sourceText": "Cancel",
+        "translatedText": "Hủy bỏ",
+        "hasHtmlTag": false
       },
       {
         "index": 32,
-        "source": "    Submit feedback\n",
-        "translated": "Gửi phản hồi"
+        "sourceRaw": "    Submit feedback\n",
+        "translatedRaw": "Gửi phản hồi",
+        "sourceText": "Submit feedback",
+        "translatedText": "Gửi phản hồi",
+        "hasHtmlTag": false
       },
       {
         "index": 33,
-        "source": "Close",
-        "translated": "Đóng"
+        "sourceRaw": "Close",
+        "translatedRaw": "Đóng",
+        "sourceText": "Close",
+        "translatedText": "Đóng",
+        "hasHtmlTag": false
       },
       {
         "index": 34,
-        "source": "\n        Saved searches\n      ",
-        "translated": "Tìm kiếm đã lưu"
+        "sourceRaw": "\n        Saved searches\n      ",
+        "translatedRaw": "Tìm kiếm đã lưu",
+        "sourceText": "Saved searches",
+        "translatedText": "Tìm kiếm đã lưu",
+        "hasHtmlTag": false
       },
       {
         "index": 35,
-        "source": "Use saved searches to filter your results more quickly",
-        "translated": "Sử dụng các tìm kiếm đã lưu để lọc kết quả nhanh hơn."
+        "sourceRaw": "Use saved searches to filter your results more quickly",
+        "translatedRaw": "Sử dụng các tìm kiếm đã lưu để lọc kết quả nhanh hơn.",
+        "sourceText": "Use saved searches to filter your results more quickly",
+        "translatedText": "Sử dụng các tìm kiếm đã lưu để lọc kết quả nhanh hơn.",
+        "hasHtmlTag": false
       },
       {
         "index": 36,
-        "source": "Name",
-        "translated": "Tên"
+        "sourceRaw": "Name",
+        "translatedRaw": "Tên",
+        "sourceText": "Name",
+        "translatedText": "Tên",
+        "hasHtmlTag": false
       },
       {
         "index": 37,
-        "source": "Query",
-        "translated": "Truy vấn"
+        "sourceRaw": "Query",
+        "translatedRaw": "Truy vấn",
+        "sourceText": "Query",
+        "translatedText": "Truy vấn",
+        "hasHtmlTag": false
       },
       {
         "index": 38,
-        "source": "<a i=0>\n            To see all available qualifiers, see our </a><a i=1>documentation</a><a i=2>.\n          </a>",
-        "translated": "<a i=0>Để xem tất cả các tiêu chí đủ điều kiện hiện có, vui lòng xem</a> <a i=1>tài liệu</a> của chúng tôi <a i=2>.</a>"
+        "sourceRaw": "<a i=0>\n            To see all available qualifiers, see our </a><a i=1>documentation</a><a i=2>.\n          </a>",
+        "translatedRaw": "<a i=0>Để xem tất cả các tiêu chí đủ điều kiện hiện có, vui lòng xem</a> <a i=1>tài liệu</a> của chúng tôi <a i=2>.</a>",
+        "sourceText": "To see all available qualifiers, see our documentation .",
+        "translatedText": "Để xem tất cả các tiêu chí đủ điều kiện hiện có, vui lòng xem tài liệu của chúng tôi .",
+        "hasHtmlTag": true
       },
       {
         "index": 39,
-        "source": "    Create saved search\n",
-        "translated": "Tạo tìm kiếm đã lưu"
+        "sourceRaw": "    Create saved search\n",
+        "translatedRaw": "Tạo tìm kiếm đã lưu",
+        "sourceText": "Create saved search",
+        "translatedText": "Tạo tìm kiếm đã lưu",
+        "hasHtmlTag": false
       },
       {
         "index": 40,
-        "source": "github-ruby",
-        "translated": "github-ruby"
+        "sourceRaw": "github-ruby",
+        "translatedRaw": "github-ruby",
+        "sourceText": "github-ruby",
+        "translatedText": "github-ruby",
+        "hasHtmlTag": false
       },
       {
         "index": 41,
-        "source": "(repo:mona/a OR repo:mona/b) AND lang:python",
-        "translated": "(repo:mona/a HOẶC repo:mona/b) VÀ lang:python"
+        "sourceRaw": "(repo:mona/a OR repo:mona/b) AND lang:python",
+        "translatedRaw": "(repo:mona/a HOẶC repo:mona/b) VÀ lang:python",
+        "sourceText": "(repo:mona/a OR repo:mona/b) AND lang:python",
+        "translatedText": "(repo:mona/a HOẶC repo:mona/b) VÀ lang:python",
+        "hasHtmlTag": false
       },
       {
         "index": 42,
-        "source": "Resetting focus",
-        "translated": "Đặt lại tiêu điểm"
+        "sourceRaw": "Resetting focus",
+        "translatedRaw": "Đặt lại tiêu điểm",
+        "sourceText": "Resetting focus",
+        "translatedText": "Đặt lại tiêu điểm",
+        "hasHtmlTag": false
       },
       {
         "index": 43,
-        "source": "<a i=0>You signed in with another tab or window. </a><a i=1>Reload</a><a i=2> to refresh your session.</a>",
-        "translated": "<a i=0>Bạn đã đăng nhập bằng một tab hoặc cửa sổ khác.</a> <a i=1>Vui lòng tải lại trang</a> <a i=2>để làm mới phiên đăng nhập của bạn.</a>"
+        "sourceRaw": "<a i=0>You signed in with another tab or window. </a><a i=1>Reload</a><a i=2> to refresh your session.</a>",
+        "translatedRaw": "<a i=0>Bạn đã đăng nhập bằng một tab hoặc cửa sổ khác.</a> <a i=1>Vui lòng tải lại trang</a> <a i=2>để làm mới phiên đăng nhập của bạn.</a>",
+        "sourceText": "You signed in with another tab or window. Reload to refresh your session.",
+        "translatedText": "Bạn đã đăng nhập bằng một tab hoặc cửa sổ khác. Vui lòng tải lại trang để làm mới phiên đăng nhập của bạn.",
+        "hasHtmlTag": true
       },
       {
         "index": 44,
-        "source": "<a i=0>You signed out in another tab or window. </a><a i=1>Reload</a><a i=2> to refresh your session.</a>",
-        "translated": "<a i=0>Bạn đã đăng xuất ở một tab hoặc cửa sổ khác.</a> <a i=1>Hãy tải lại trang</a> <a i=2>để làm mới phiên làm việc của bạn.</a>"
+        "sourceRaw": "<a i=0>You signed out in another tab or window. </a><a i=1>Reload</a><a i=2> to refresh your session.</a>",
+        "translatedRaw": "<a i=0>Bạn đã đăng xuất ở một tab hoặc cửa sổ khác.</a> <a i=1>Hãy tải lại trang</a> <a i=2>để làm mới phiên làm việc của bạn.</a>",
+        "sourceText": "You signed out in another tab or window. Reload to refresh your session.",
+        "translatedText": "Bạn đã đăng xuất ở một tab hoặc cửa sổ khác. Hãy tải lại trang để làm mới phiên làm việc của bạn.",
+        "hasHtmlTag": true
       },
       {
         "index": 45,
-        "source": "<a i=0>You switched accounts on another tab or window. </a><a i=1>Reload</a><a i=2> to refresh your session.</a>",
-        "translated": "<a i=0>Bạn đã chuyển đổi tài khoản sang tab hoặc cửa sổ khác.</a> <a i=1>Hãy tải lại trang</a> <a i=2>để làm mới phiên làm việc của bạn.</a>"
+        "sourceRaw": "<a i=0>You switched accounts on another tab or window. </a><a i=1>Reload</a><a i=2> to refresh your session.</a>",
+        "translatedRaw": "<a i=0>Bạn đã chuyển đổi tài khoản sang tab hoặc cửa sổ khác.</a> <a i=1>Hãy tải lại trang</a> <a i=2>để làm mới phiên làm việc của bạn.</a>",
+        "sourceText": "You switched accounts on another tab or window. Reload to refresh your session.",
+        "translatedText": "Bạn đã chuyển đổi tài khoản sang tab hoặc cửa sổ khác. Hãy tải lại trang để làm mới phiên làm việc của bạn.",
+        "hasHtmlTag": true
       },
       {
         "index": 46,
-        "source": "Dismiss alert",
-        "translated": "Bỏ qua cảnh báo"
+        "sourceRaw": "Dismiss alert",
+        "translatedRaw": "Bỏ qua cảnh báo",
+        "sourceText": "Dismiss alert",
+        "translatedText": "Bỏ qua cảnh báo",
+        "hasHtmlTag": false
       },
       {
         "index": 47,
-        "source": "Code",
-        "translated": "Mã số"
+        "sourceRaw": "Code",
+        "translatedRaw": "Mã số",
+        "sourceText": "Code",
+        "translatedText": "Mã số",
+        "hasHtmlTag": false
       },
       {
         "index": 48,
-        "source": "Select a GitHub feature",
-        "translated": "Chọn một tính năng của GitHub"
+        "sourceRaw": "Select a GitHub feature",
+        "translatedRaw": "Chọn một tính năng của GitHub",
+        "sourceText": "Select a GitHub feature",
+        "translatedText": "Chọn một tính năng của GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 49,
-        "source": "By industry",
-        "translated": "Theo ngành"
+        "sourceRaw": "By industry",
+        "translatedRaw": "Theo ngành",
+        "sourceText": "By industry",
+        "translatedText": "Theo ngành",
+        "hasHtmlTag": false
       },
       {
         "index": 50,
-        "source": "English",
-        "translated": "Tiếng Anh"
+        "sourceRaw": "English",
+        "translatedRaw": "Tiếng Anh",
+        "sourceText": "English",
+        "translatedText": "Tiếng Anh",
+        "hasHtmlTag": false
       },
       {
         "index": 51,
-        "source": "Português (Brasil)",
-        "translated": "Português (Brasil)"
+        "sourceRaw": "Português (Brasil)",
+        "translatedRaw": "Português (Brasil)",
+        "sourceText": "Português (Brasil)",
+        "translatedText": "Português (Brasil)",
+        "hasHtmlTag": false
       },
       {
         "index": 52,
-        "source": "Español (América Latina)",
-        "translated": "Español (América Latina)"
+        "sourceRaw": "Español (América Latina)",
+        "translatedRaw": "Español (América Latina)",
+        "sourceText": "Español (América Latina)",
+        "translatedText": "Español (América Latina)",
+        "hasHtmlTag": false
       },
       {
         "index": 53,
-        "source": "日本語",
-        "translated": "日本語"
+        "sourceRaw": "日本語",
+        "translatedRaw": "日本語",
+        "sourceText": "日本語",
+        "translatedText": "日本語",
+        "hasHtmlTag": false
       },
       {
         "index": 54,
-        "source": "한국어",
-        "translated": "한국어"
+        "sourceRaw": "한국어",
+        "translatedRaw": "한국어",
+        "sourceText": "한국어",
+        "translatedText": "한국어",
+        "hasHtmlTag": false
       },
       {
         "index": 55,
-        "source": "Français",
-        "translated": "Tiếng Pháp"
+        "sourceRaw": "Français",
+        "translatedRaw": "Tiếng Pháp",
+        "sourceText": "Français",
+        "translatedText": "Tiếng Pháp",
+        "hasHtmlTag": false
       },
       {
         "index": 56,
-        "source": "Deutsch",
-        "translated": "tiếng Đức"
+        "sourceRaw": "Deutsch",
+        "translatedRaw": "tiếng Đức",
+        "sourceText": "Deutsch",
+        "translatedText": "tiếng Đức",
+        "hasHtmlTag": false
       },
       {
         "index": 57,
-        "source": "\n    You can’t perform that action at this time.\n  ",
-        "translated": "Bạn không thể thực hiện thao tác đó vào lúc này."
+        "sourceRaw": "\n    You can’t perform that action at this time.\n  ",
+        "translatedRaw": "Bạn không thể thực hiện thao tác đó vào lúc này.",
+        "sourceText": "You can’t perform that action at this time.",
+        "translatedText": "Bạn không thể thực hiện thao tác đó vào lúc này.",
+        "hasHtmlTag": false
       },
       {
         "index": 58,
-        "source": "Dismiss error",
-        "translated": "Bỏ qua lỗi"
+        "sourceRaw": "Dismiss error",
+        "translatedRaw": "Bỏ qua lỗi",
+        "sourceText": "Dismiss error",
+        "translatedText": "Bỏ qua lỗi",
+        "hasHtmlTag": false
       }
     ]
   },
@@ -845,588 +1331,939 @@
     "translations": [
       {
         "index": 0,
-        "source": "Skip to content",
-        "translated": "Chuyển đến nội dung"
+        "sourceRaw": "Skip to content",
+        "translatedRaw": "Chuyển đến nội dung",
+        "sourceText": "Skip to content",
+        "translatedText": "Chuyển đến nội dung",
+        "hasHtmlTag": false
       },
       {
         "index": 1,
-        "source": "Navigation Menu",
-        "translated": "Menu điều hướng"
+        "sourceRaw": "Navigation Menu",
+        "translatedRaw": "Menu điều hướng",
+        "sourceText": "Navigation Menu",
+        "translatedText": "Menu điều hướng",
+        "hasHtmlTag": false
       },
       {
         "index": 2,
-        "source": "Platform",
-        "translated": "Nền tảng"
+        "sourceRaw": "Platform",
+        "translatedRaw": "Nền tảng",
+        "sourceText": "Platform",
+        "translatedText": "Nền tảng",
+        "hasHtmlTag": false
       },
       {
         "index": 3,
-        "source": "AI CODE CREATION",
-        "translated": "TẠO MÃ AI"
+        "sourceRaw": "AI CODE CREATION",
+        "translatedRaw": "TẠO MÃ AI",
+        "sourceText": "AI CODE CREATION",
+        "translatedText": "TẠO MÃ AI",
+        "hasHtmlTag": false
       },
       {
         "index": 4,
-        "source": "GitHub Copilot",
-        "translated": "GitHub Copilot"
+        "sourceRaw": "GitHub Copilot",
+        "translatedRaw": "GitHub Copilot",
+        "sourceText": "GitHub Copilot",
+        "translatedText": "GitHub Copilot",
+        "hasHtmlTag": false
       },
       {
         "index": 5,
-        "source": "Write better code with AI",
-        "translated": "Viết mã tốt hơn với AI"
+        "sourceRaw": "Write better code with AI",
+        "translatedRaw": "Viết mã tốt hơn với AI",
+        "sourceText": "Write better code with AI",
+        "translatedText": "Viết mã tốt hơn với AI",
+        "hasHtmlTag": false
       },
       {
         "index": 6,
-        "source": "GitHub Spark",
-        "translated": "GitHub Spark"
+        "sourceRaw": "GitHub Spark",
+        "translatedRaw": "GitHub Spark",
+        "sourceText": "GitHub Spark",
+        "translatedText": "GitHub Spark",
+        "hasHtmlTag": false
       },
       {
         "index": 7,
-        "source": "Build and deploy intelligent apps",
-        "translated": "Xây dựng và triển khai các ứng dụng thông minh"
+        "sourceRaw": "Build and deploy intelligent apps",
+        "translatedRaw": "Xây dựng và triển khai các ứng dụng thông minh",
+        "sourceText": "Build and deploy intelligent apps",
+        "translatedText": "Xây dựng và triển khai các ứng dụng thông minh",
+        "hasHtmlTag": false
       },
       {
         "index": 8,
-        "source": "GitHub Models",
-        "translated": "Mô hình GitHub"
+        "sourceRaw": "GitHub Models",
+        "translatedRaw": "Mô hình GitHub",
+        "sourceText": "GitHub Models",
+        "translatedText": "Mô hình GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 9,
-        "source": "Manage and compare prompts",
-        "translated": "Quản lý và so sánh các lời nhắc"
+        "sourceRaw": "Manage and compare prompts",
+        "translatedRaw": "Quản lý và so sánh các lời nhắc",
+        "sourceText": "Manage and compare prompts",
+        "translatedText": "Quản lý và so sánh các lời nhắc",
+        "hasHtmlTag": false
       },
       {
         "index": 10,
-        "source": "<a i=0>MCP Registry</a><a i=1>New</a>",
-        "translated": "<a i=0>Đăng ký MCP</a> <a i=1>mới</a>"
+        "sourceRaw": "<a i=0>MCP Registry</a><a i=1>New</a>",
+        "translatedRaw": "<a i=0>Đăng ký MCP</a> <a i=1>mới</a>",
+        "sourceText": "MCP Registry New",
+        "translatedText": "Đăng ký MCP mới",
+        "hasHtmlTag": true
       },
       {
         "index": 11,
-        "source": "Integrate external tools",
-        "translated": "Tích hợp các công cụ bên ngoài"
+        "sourceRaw": "Integrate external tools",
+        "translatedRaw": "Tích hợp các công cụ bên ngoài",
+        "sourceText": "Integrate external tools",
+        "translatedText": "Tích hợp các công cụ bên ngoài",
+        "hasHtmlTag": false
       },
       {
         "index": 12,
-        "source": "DEVELOPER WORKFLOWS",
-        "translated": "QUY TRÌNH LÀM VIỆC CỦA NHÀ PHÁT TRIỂN"
+        "sourceRaw": "DEVELOPER WORKFLOWS",
+        "translatedRaw": "QUY TRÌNH LÀM VIỆC CỦA NHÀ PHÁT TRIỂN",
+        "sourceText": "DEVELOPER WORKFLOWS",
+        "translatedText": "QUY TRÌNH LÀM VIỆC CỦA NHÀ PHÁT TRIỂN",
+        "hasHtmlTag": false
       },
       {
         "index": 13,
-        "source": "Actions",
-        "translated": "Hành động"
+        "sourceRaw": "Actions",
+        "translatedRaw": "Hành động",
+        "sourceText": "Actions",
+        "translatedText": "Hành động",
+        "hasHtmlTag": false
       },
       {
         "index": 14,
-        "source": "Automate any workflow",
-        "translated": "Tự động hóa mọi quy trình làm việc"
+        "sourceRaw": "Automate any workflow",
+        "translatedRaw": "Tự động hóa mọi quy trình làm việc",
+        "sourceText": "Automate any workflow",
+        "translatedText": "Tự động hóa mọi quy trình làm việc",
+        "hasHtmlTag": false
       },
       {
         "index": 15,
-        "source": "Codespaces",
-        "translated": "Không gian mã"
+        "sourceRaw": "Codespaces",
+        "translatedRaw": "Không gian mã",
+        "sourceText": "Codespaces",
+        "translatedText": "Không gian mã",
+        "hasHtmlTag": false
       },
       {
         "index": 16,
-        "source": "Instant dev environments",
-        "translated": "Môi trường phát triển tức thì"
+        "sourceRaw": "Instant dev environments",
+        "translatedRaw": "Môi trường phát triển tức thì",
+        "sourceText": "Instant dev environments",
+        "translatedText": "Môi trường phát triển tức thì",
+        "hasHtmlTag": false
       },
       {
         "index": 17,
-        "source": "Issues",
-        "translated": "Vấn đề"
+        "sourceRaw": "Issues",
+        "translatedRaw": "Vấn đề",
+        "sourceText": "Issues",
+        "translatedText": "Vấn đề",
+        "hasHtmlTag": false
       },
       {
         "index": 18,
-        "source": "Plan and track work",
-        "translated": "Lập kế hoạch và theo dõi công việc"
+        "sourceRaw": "Plan and track work",
+        "translatedRaw": "Lập kế hoạch và theo dõi công việc",
+        "sourceText": "Plan and track work",
+        "translatedText": "Lập kế hoạch và theo dõi công việc",
+        "hasHtmlTag": false
       },
       {
         "index": 19,
-        "source": "Code Review",
-        "translated": "Đánh giá mã"
+        "sourceRaw": "Code Review",
+        "translatedRaw": "Đánh giá mã",
+        "sourceText": "Code Review",
+        "translatedText": "Đánh giá mã",
+        "hasHtmlTag": false
       },
       {
         "index": 20,
-        "source": "Manage code changes",
-        "translated": "Quản lý các thay đổi mã"
+        "sourceRaw": "Manage code changes",
+        "translatedRaw": "Quản lý các thay đổi mã",
+        "sourceText": "Manage code changes",
+        "translatedText": "Quản lý các thay đổi mã",
+        "hasHtmlTag": false
       },
       {
         "index": 21,
-        "source": "APPLICATION SECURITY",
-        "translated": "BẢO MẬT ỨNG DỤNG"
+        "sourceRaw": "APPLICATION SECURITY",
+        "translatedRaw": "BẢO MẬT ỨNG DỤNG",
+        "sourceText": "APPLICATION SECURITY",
+        "translatedText": "BẢO MẬT ỨNG DỤNG",
+        "hasHtmlTag": false
       },
       {
         "index": 22,
-        "source": "GitHub Advanced Security",
-        "translated": "Bảo mật nâng cao của GitHub"
+        "sourceRaw": "GitHub Advanced Security",
+        "translatedRaw": "Bảo mật nâng cao của GitHub",
+        "sourceText": "GitHub Advanced Security",
+        "translatedText": "Bảo mật nâng cao của GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 23,
-        "source": "Find and fix vulnerabilities",
-        "translated": "Tìm và khắc phục các lỗ hổng bảo mật"
+        "sourceRaw": "Find and fix vulnerabilities",
+        "translatedRaw": "Tìm và khắc phục các lỗ hổng bảo mật",
+        "sourceText": "Find and fix vulnerabilities",
+        "translatedText": "Tìm và khắc phục các lỗ hổng bảo mật",
+        "hasHtmlTag": false
       },
       {
         "index": 24,
-        "source": "Code security",
-        "translated": "Bảo mật mã"
+        "sourceRaw": "Code security",
+        "translatedRaw": "Bảo mật mã",
+        "sourceText": "Code security",
+        "translatedText": "Bảo mật mã",
+        "hasHtmlTag": false
       },
       {
         "index": 25,
-        "source": "Secure your code as you build",
-        "translated": "Bảo mật mã của bạn trong quá trình xây dựng"
+        "sourceRaw": "Secure your code as you build",
+        "translatedRaw": "Bảo mật mã của bạn trong quá trình xây dựng",
+        "sourceText": "Secure your code as you build",
+        "translatedText": "Bảo mật mã của bạn trong quá trình xây dựng",
+        "hasHtmlTag": false
       },
       {
         "index": 26,
-        "source": "Secret protection",
-        "translated": "Bảo vệ bí mật"
+        "sourceRaw": "Secret protection",
+        "translatedRaw": "Bảo vệ bí mật",
+        "sourceText": "Secret protection",
+        "translatedText": "Bảo vệ bí mật",
+        "hasHtmlTag": false
       },
       {
         "index": 27,
-        "source": "Stop leaks before they start",
-        "translated": "Ngăn chặn rò rỉ trước khi chúng xảy ra"
+        "sourceRaw": "Stop leaks before they start",
+        "translatedRaw": "Ngăn chặn rò rỉ trước khi chúng xảy ra",
+        "sourceText": "Stop leaks before they start",
+        "translatedText": "Ngăn chặn rò rỉ trước khi chúng xảy ra",
+        "hasHtmlTag": false
       },
       {
         "index": 28,
-        "source": "EXPLORE",
-        "translated": "KHÁM PHÁ"
+        "sourceRaw": "EXPLORE",
+        "translatedRaw": "KHÁM PHÁ",
+        "sourceText": "EXPLORE",
+        "translatedText": "KHÁM PHÁ",
+        "hasHtmlTag": false
       },
       {
         "index": 29,
-        "source": "Why GitHub",
-        "translated": "Tại sao lại chọn GitHub?"
+        "sourceRaw": "Why GitHub",
+        "translatedRaw": "Tại sao lại chọn GitHub?",
+        "sourceText": "Why GitHub",
+        "translatedText": "Tại sao lại chọn GitHub?",
+        "hasHtmlTag": false
       },
       {
         "index": 30,
-        "source": "Documentation",
-        "translated": "Tài liệu"
+        "sourceRaw": "Documentation",
+        "translatedRaw": "Tài liệu",
+        "sourceText": "Documentation",
+        "translatedText": "Tài liệu",
+        "hasHtmlTag": false
       },
       {
         "index": 31,
-        "source": "Blog",
-        "translated": "Blog"
+        "sourceRaw": "Blog",
+        "translatedRaw": "Blog",
+        "sourceText": "Blog",
+        "translatedText": "Blog",
+        "hasHtmlTag": false
       },
       {
         "index": 32,
-        "source": "Changelog",
-        "translated": "Nhật ký thay đổi"
+        "sourceRaw": "Changelog",
+        "translatedRaw": "Nhật ký thay đổi",
+        "sourceText": "Changelog",
+        "translatedText": "Nhật ký thay đổi",
+        "hasHtmlTag": false
       },
       {
         "index": 33,
-        "source": "Marketplace",
-        "translated": "Chợ"
+        "sourceRaw": "Marketplace",
+        "translatedRaw": "Chợ",
+        "sourceText": "Marketplace",
+        "translatedText": "Chợ",
+        "hasHtmlTag": false
       },
       {
         "index": 34,
-        "source": "View all features",
-        "translated": "Xem tất cả các tính năng"
+        "sourceRaw": "View all features",
+        "translatedRaw": "Xem tất cả các tính năng",
+        "sourceText": "View all features",
+        "translatedText": "Xem tất cả các tính năng",
+        "hasHtmlTag": false
       },
       {
         "index": 35,
-        "source": "Solutions",
-        "translated": "Giải pháp"
+        "sourceRaw": "Solutions",
+        "translatedRaw": "Giải pháp",
+        "sourceText": "Solutions",
+        "translatedText": "Giải pháp",
+        "hasHtmlTag": false
       },
       {
         "index": 36,
-        "source": "BY COMPANY SIZE",
-        "translated": "THEO QUY MÔ CÔNG TY"
+        "sourceRaw": "BY COMPANY SIZE",
+        "translatedRaw": "THEO QUY MÔ CÔNG TY",
+        "sourceText": "BY COMPANY SIZE",
+        "translatedText": "THEO QUY MÔ CÔNG TY",
+        "hasHtmlTag": false
       },
       {
         "index": 37,
-        "source": "Enterprises",
-        "translated": "Doanh nghiệp"
+        "sourceRaw": "Enterprises",
+        "translatedRaw": "Doanh nghiệp",
+        "sourceText": "Enterprises",
+        "translatedText": "Doanh nghiệp",
+        "hasHtmlTag": false
       },
       {
         "index": 38,
-        "source": "Small and medium teams",
-        "translated": "Các đội nhỏ và vừa"
+        "sourceRaw": "Small and medium teams",
+        "translatedRaw": "Các đội nhỏ và vừa",
+        "sourceText": "Small and medium teams",
+        "translatedText": "Các đội nhỏ và vừa",
+        "hasHtmlTag": false
       },
       {
         "index": 39,
-        "source": "Startups",
-        "translated": "Công ty khởi nghiệp"
+        "sourceRaw": "Startups",
+        "translatedRaw": "Công ty khởi nghiệp",
+        "sourceText": "Startups",
+        "translatedText": "Công ty khởi nghiệp",
+        "hasHtmlTag": false
       },
       {
         "index": 40,
-        "source": "Nonprofits",
-        "translated": "Các tổ chức phi lợi nhuận"
+        "sourceRaw": "Nonprofits",
+        "translatedRaw": "Các tổ chức phi lợi nhuận",
+        "sourceText": "Nonprofits",
+        "translatedText": "Các tổ chức phi lợi nhuận",
+        "hasHtmlTag": false
       },
       {
         "index": 41,
-        "source": "BY USE CASE",
-        "translated": "THEO TRƯỜNG HỢP SỬ DỤNG"
+        "sourceRaw": "BY USE CASE",
+        "translatedRaw": "THEO TRƯỜNG HỢP SỬ DỤNG",
+        "sourceText": "BY USE CASE",
+        "translatedText": "THEO TRƯỜNG HỢP SỬ DỤNG",
+        "hasHtmlTag": false
       },
       {
         "index": 42,
-        "source": "App Modernization",
-        "translated": "Hiện đại hóa ứng dụng"
+        "sourceRaw": "App Modernization",
+        "translatedRaw": "Hiện đại hóa ứng dụng",
+        "sourceText": "App Modernization",
+        "translatedText": "Hiện đại hóa ứng dụng",
+        "hasHtmlTag": false
       },
       {
         "index": 43,
-        "source": "DevSecOps",
-        "translated": "DevSecOps"
+        "sourceRaw": "DevSecOps",
+        "translatedRaw": "DevSecOps",
+        "sourceText": "DevSecOps",
+        "translatedText": "DevSecOps",
+        "hasHtmlTag": false
       },
       {
         "index": 44,
-        "source": "DevOps",
-        "translated": "DevOps"
+        "sourceRaw": "DevOps",
+        "translatedRaw": "DevOps",
+        "sourceText": "DevOps",
+        "translatedText": "DevOps",
+        "hasHtmlTag": false
       },
       {
         "index": 45,
-        "source": "CI/CD",
-        "translated": "CI/CD"
+        "sourceRaw": "CI/CD",
+        "translatedRaw": "CI/CD",
+        "sourceText": "CI/CD",
+        "translatedText": "CI/CD",
+        "hasHtmlTag": false
       },
       {
         "index": 46,
-        "source": "View all use cases",
-        "translated": "Xem tất cả các trường hợp sử dụng"
+        "sourceRaw": "View all use cases",
+        "translatedRaw": "Xem tất cả các trường hợp sử dụng",
+        "sourceText": "View all use cases",
+        "translatedText": "Xem tất cả các trường hợp sử dụng",
+        "hasHtmlTag": false
       },
       {
         "index": 47,
-        "source": "BY INDUSTRY",
-        "translated": "THEO NGÀNH CÔNG NGHIỆP"
+        "sourceRaw": "BY INDUSTRY",
+        "translatedRaw": "THEO NGÀNH CÔNG NGHIỆP",
+        "sourceText": "BY INDUSTRY",
+        "translatedText": "THEO NGÀNH CÔNG NGHIỆP",
+        "hasHtmlTag": false
       },
       {
         "index": 48,
-        "source": "Healthcare",
-        "translated": "Chăm sóc sức khỏe"
+        "sourceRaw": "Healthcare",
+        "translatedRaw": "Chăm sóc sức khỏe",
+        "sourceText": "Healthcare",
+        "translatedText": "Chăm sóc sức khỏe",
+        "hasHtmlTag": false
       },
       {
         "index": 49,
-        "source": "Financial services",
-        "translated": "Dịch vụ tài chính"
+        "sourceRaw": "Financial services",
+        "translatedRaw": "Dịch vụ tài chính",
+        "sourceText": "Financial services",
+        "translatedText": "Dịch vụ tài chính",
+        "hasHtmlTag": false
       },
       {
         "index": 50,
-        "source": "Manufacturing",
-        "translated": "Chế tạo"
+        "sourceRaw": "Manufacturing",
+        "translatedRaw": "Chế tạo",
+        "sourceText": "Manufacturing",
+        "translatedText": "Chế tạo",
+        "hasHtmlTag": false
       },
       {
         "index": 51,
-        "source": "Government",
-        "translated": "Chính phủ"
+        "sourceRaw": "Government",
+        "translatedRaw": "Chính phủ",
+        "sourceText": "Government",
+        "translatedText": "Chính phủ",
+        "hasHtmlTag": false
       },
       {
         "index": 52,
-        "source": "View all industries",
-        "translated": "Xem tất cả các ngành"
+        "sourceRaw": "View all industries",
+        "translatedRaw": "Xem tất cả các ngành",
+        "sourceText": "View all industries",
+        "translatedText": "Xem tất cả các ngành",
+        "hasHtmlTag": false
       },
       {
         "index": 53,
-        "source": "View all solutions",
-        "translated": "Xem tất cả các giải pháp"
+        "sourceRaw": "View all solutions",
+        "translatedRaw": "Xem tất cả các giải pháp",
+        "sourceText": "View all solutions",
+        "translatedText": "Xem tất cả các giải pháp",
+        "hasHtmlTag": false
       },
       {
         "index": 54,
-        "source": "Resources",
-        "translated": "Tài nguyên"
+        "sourceRaw": "Resources",
+        "translatedRaw": "Tài nguyên",
+        "sourceText": "Resources",
+        "translatedText": "Tài nguyên",
+        "hasHtmlTag": false
       },
       {
         "index": 55,
-        "source": "EXPLORE BY TOPIC",
-        "translated": "KHÁM PHÁ THEO CHỦ ĐỀ"
+        "sourceRaw": "EXPLORE BY TOPIC",
+        "translatedRaw": "KHÁM PHÁ THEO CHỦ ĐỀ",
+        "sourceText": "EXPLORE BY TOPIC",
+        "translatedText": "KHÁM PHÁ THEO CHỦ ĐỀ",
+        "hasHtmlTag": false
       },
       {
         "index": 56,
-        "source": "AI",
-        "translated": "Trí tuệ nhân tạo"
+        "sourceRaw": "AI",
+        "translatedRaw": "Trí tuệ nhân tạo",
+        "sourceText": "AI",
+        "translatedText": "Trí tuệ nhân tạo",
+        "hasHtmlTag": false
       },
       {
         "index": 57,
-        "source": "Software Development",
-        "translated": "Phát triển phần mềm"
+        "sourceRaw": "Software Development",
+        "translatedRaw": "Phát triển phần mềm",
+        "sourceText": "Software Development",
+        "translatedText": "Phát triển phần mềm",
+        "hasHtmlTag": false
       },
       {
         "index": 58,
-        "source": "Security",
-        "translated": "Bảo vệ"
+        "sourceRaw": "Security",
+        "translatedRaw": "Bảo vệ",
+        "sourceText": "Security",
+        "translatedText": "Bảo vệ",
+        "hasHtmlTag": false
       },
       {
         "index": 59,
-        "source": "View all topics",
-        "translated": "Xem tất cả các chủ đề"
+        "sourceRaw": "View all topics",
+        "translatedRaw": "Xem tất cả các chủ đề",
+        "sourceText": "View all topics",
+        "translatedText": "Xem tất cả các chủ đề",
+        "hasHtmlTag": false
       },
       {
         "index": 60,
-        "source": "EXPLORE BY TYPE",
-        "translated": "KHÁM PHÁ THEO LOẠI"
+        "sourceRaw": "EXPLORE BY TYPE",
+        "translatedRaw": "KHÁM PHÁ THEO LOẠI",
+        "sourceText": "EXPLORE BY TYPE",
+        "translatedText": "KHÁM PHÁ THEO LOẠI",
+        "hasHtmlTag": false
       },
       {
         "index": 61,
-        "source": "Customer stories",
-        "translated": "Câu chuyện khách hàng"
+        "sourceRaw": "Customer stories",
+        "translatedRaw": "Câu chuyện khách hàng",
+        "sourceText": "Customer stories",
+        "translatedText": "Câu chuyện khách hàng",
+        "hasHtmlTag": false
       },
       {
         "index": 62,
-        "source": "Events &amp; webinars",
-        "translated": "Sự kiện &amp; hội thảo trực tuyến"
+        "sourceRaw": "Events &amp; webinars",
+        "translatedRaw": "Sự kiện &amp; hội thảo trực tuyến",
+        "sourceText": "Events & webinars",
+        "translatedText": "Sự kiện & hội thảo trực tuyến",
+        "hasHtmlTag": false
       },
       {
         "index": 63,
-        "source": "Ebooks &amp; reports",
-        "translated": "Sách điện tử &amp; báo cáo"
+        "sourceRaw": "Ebooks &amp; reports",
+        "translatedRaw": "Sách điện tử &amp; báo cáo",
+        "sourceText": "Ebooks & reports",
+        "translatedText": "Sách điện tử & báo cáo",
+        "hasHtmlTag": false
       },
       {
         "index": 64,
-        "source": "Business insights",
-        "translated": "Thông tin chi tiết về kinh doanh"
+        "sourceRaw": "Business insights",
+        "translatedRaw": "Thông tin chi tiết về kinh doanh",
+        "sourceText": "Business insights",
+        "translatedText": "Thông tin chi tiết về kinh doanh",
+        "hasHtmlTag": false
       },
       {
         "index": 65,
-        "source": "GitHub Skills",
-        "translated": "Kỹ năng GitHub"
+        "sourceRaw": "GitHub Skills",
+        "translatedRaw": "Kỹ năng GitHub",
+        "sourceText": "GitHub Skills",
+        "translatedText": "Kỹ năng GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 66,
-        "source": "SUPPORT &amp; SERVICES",
-        "translated": "HỖ TRỢ &amp; DỊCH VỤ"
+        "sourceRaw": "SUPPORT &amp; SERVICES",
+        "translatedRaw": "HỖ TRỢ &amp; DỊCH VỤ",
+        "sourceText": "SUPPORT & SERVICES",
+        "translatedText": "HỖ TRỢ & DỊCH VỤ",
+        "hasHtmlTag": false
       },
       {
         "index": 67,
-        "source": "Customer support",
-        "translated": "Hỗ trợ khách hàng"
+        "sourceRaw": "Customer support",
+        "translatedRaw": "Hỗ trợ khách hàng",
+        "sourceText": "Customer support",
+        "translatedText": "Hỗ trợ khách hàng",
+        "hasHtmlTag": false
       },
       {
         "index": 68,
-        "source": "Community forum",
-        "translated": "Diễn đàn cộng đồng"
+        "sourceRaw": "Community forum",
+        "translatedRaw": "Diễn đàn cộng đồng",
+        "sourceText": "Community forum",
+        "translatedText": "Diễn đàn cộng đồng",
+        "hasHtmlTag": false
       },
       {
         "index": 69,
-        "source": "Trust center",
-        "translated": "Trung tâm tin cậy"
+        "sourceRaw": "Trust center",
+        "translatedRaw": "Trung tâm tin cậy",
+        "sourceText": "Trust center",
+        "translatedText": "Trung tâm tin cậy",
+        "hasHtmlTag": false
       },
       {
         "index": 70,
-        "source": "Partners",
-        "translated": "Đối tác"
+        "sourceRaw": "Partners",
+        "translatedRaw": "Đối tác",
+        "sourceText": "Partners",
+        "translatedText": "Đối tác",
+        "hasHtmlTag": false
       },
       {
         "index": 71,
-        "source": "View all resources",
-        "translated": "Xem tất cả tài nguyên"
+        "sourceRaw": "View all resources",
+        "translatedRaw": "Xem tất cả tài nguyên",
+        "sourceText": "View all resources",
+        "translatedText": "Xem tất cả tài nguyên",
+        "hasHtmlTag": false
       },
       {
         "index": 72,
-        "source": "Open Source",
-        "translated": "Mã nguồn mở"
+        "sourceRaw": "Open Source",
+        "translatedRaw": "Mã nguồn mở",
+        "sourceText": "Open Source",
+        "translatedText": "Mã nguồn mở",
+        "hasHtmlTag": false
       },
       {
         "index": 73,
-        "source": "COMMUNITY",
-        "translated": "CỘNG ĐỒNG"
+        "sourceRaw": "COMMUNITY",
+        "translatedRaw": "CỘNG ĐỒNG",
+        "sourceText": "COMMUNITY",
+        "translatedText": "CỘNG ĐỒNG",
+        "hasHtmlTag": false
       },
       {
         "index": 74,
-        "source": "GitHub Sponsors",
-        "translated": "Nhà tài trợ của GitHub"
+        "sourceRaw": "GitHub Sponsors",
+        "translatedRaw": "Nhà tài trợ của GitHub",
+        "sourceText": "GitHub Sponsors",
+        "translatedText": "Nhà tài trợ của GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 75,
-        "source": "Fund open source developers",
-        "translated": "Hãy tài trợ cho các nhà phát triển mã nguồn mở."
+        "sourceRaw": "Fund open source developers",
+        "translatedRaw": "Hãy tài trợ cho các nhà phát triển mã nguồn mở.",
+        "sourceText": "Fund open source developers",
+        "translatedText": "Hãy tài trợ cho các nhà phát triển mã nguồn mở.",
+        "hasHtmlTag": false
       },
       {
         "index": 76,
-        "source": "PROGRAMS",
-        "translated": "CHƯƠNG TRÌNH"
+        "sourceRaw": "PROGRAMS",
+        "translatedRaw": "CHƯƠNG TRÌNH",
+        "sourceText": "PROGRAMS",
+        "translatedText": "CHƯƠNG TRÌNH",
+        "hasHtmlTag": false
       },
       {
         "index": 77,
-        "source": "Security Lab",
-        "translated": "Phòng thí nghiệm an ninh"
+        "sourceRaw": "Security Lab",
+        "translatedRaw": "Phòng thí nghiệm an ninh",
+        "sourceText": "Security Lab",
+        "translatedText": "Phòng thí nghiệm an ninh",
+        "hasHtmlTag": false
       },
       {
         "index": 78,
-        "source": "Maintainer Community",
-        "translated": "Cộng đồng người bảo trì"
+        "sourceRaw": "Maintainer Community",
+        "translatedRaw": "Cộng đồng người bảo trì",
+        "sourceText": "Maintainer Community",
+        "translatedText": "Cộng đồng người bảo trì",
+        "hasHtmlTag": false
       },
       {
         "index": 79,
-        "source": "Accelerator",
-        "translated": "Máy gia tốc"
+        "sourceRaw": "Accelerator",
+        "translatedRaw": "Máy gia tốc",
+        "sourceText": "Accelerator",
+        "translatedText": "Máy gia tốc",
+        "hasHtmlTag": false
       },
       {
         "index": 80,
-        "source": "GitHub Stars",
-        "translated": "Sao trên GitHub"
+        "sourceRaw": "GitHub Stars",
+        "translatedRaw": "Sao trên GitHub",
+        "sourceText": "GitHub Stars",
+        "translatedText": "Sao trên GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 81,
-        "source": "Archive Program",
-        "translated": "Chương trình Lưu trữ"
+        "sourceRaw": "Archive Program",
+        "translatedRaw": "Chương trình Lưu trữ",
+        "sourceText": "Archive Program",
+        "translatedText": "Chương trình Lưu trữ",
+        "hasHtmlTag": false
       },
       {
         "index": 82,
-        "source": "REPOSITORIES",
-        "translated": "KHO LƯU TRỮ"
+        "sourceRaw": "REPOSITORIES",
+        "translatedRaw": "KHO LƯU TRỮ",
+        "sourceText": "REPOSITORIES",
+        "translatedText": "KHO LƯU TRỮ",
+        "hasHtmlTag": false
       },
       {
         "index": 83,
-        "source": "Topics",
-        "translated": "Chủ đề"
+        "sourceRaw": "Topics",
+        "translatedRaw": "Chủ đề",
+        "sourceText": "Topics",
+        "translatedText": "Chủ đề",
+        "hasHtmlTag": false
       },
       {
         "index": 84,
-        "source": "Trending",
-        "translated": "Xu hướng"
+        "sourceRaw": "Trending",
+        "translatedRaw": "Xu hướng",
+        "sourceText": "Trending",
+        "translatedText": "Xu hướng",
+        "hasHtmlTag": false
       },
       {
         "index": 85,
-        "source": "Collections",
-        "translated": "Bộ sưu tập"
+        "sourceRaw": "Collections",
+        "translatedRaw": "Bộ sưu tập",
+        "sourceText": "Collections",
+        "translatedText": "Bộ sưu tập",
+        "hasHtmlTag": false
       },
       {
         "index": 86,
-        "source": "Enterprise",
-        "translated": "Doanh nghiệp"
+        "sourceRaw": "Enterprise",
+        "translatedRaw": "Doanh nghiệp",
+        "sourceText": "Enterprise",
+        "translatedText": "Doanh nghiệp",
+        "hasHtmlTag": false
       },
       {
         "index": 87,
-        "source": "ENTERPRISE SOLUTIONS",
-        "translated": "GIẢI PHÁP DOANH NGHIỆP"
+        "sourceRaw": "ENTERPRISE SOLUTIONS",
+        "translatedRaw": "GIẢI PHÁP DOANH NGHIỆP",
+        "sourceText": "ENTERPRISE SOLUTIONS",
+        "translatedText": "GIẢI PHÁP DOANH NGHIỆP",
+        "hasHtmlTag": false
       },
       {
         "index": 88,
-        "source": "Enterprise platform",
-        "translated": "Nền tảng doanh nghiệp"
+        "sourceRaw": "Enterprise platform",
+        "translatedRaw": "Nền tảng doanh nghiệp",
+        "sourceText": "Enterprise platform",
+        "translatedText": "Nền tảng doanh nghiệp",
+        "hasHtmlTag": false
       },
       {
         "index": 89,
-        "source": "AI-powered developer platform",
-        "translated": "Nền tảng phát triển được hỗ trợ bởi AI"
+        "sourceRaw": "AI-powered developer platform",
+        "translatedRaw": "Nền tảng phát triển được hỗ trợ bởi AI",
+        "sourceText": "AI-powered developer platform",
+        "translatedText": "Nền tảng phát triển được hỗ trợ bởi AI",
+        "hasHtmlTag": false
       },
       {
         "index": 90,
-        "source": "AVAILABLE ADD-ONS",
-        "translated": "CÁC TÙY CHỌN BỔ SUNG CÓ SẴN"
+        "sourceRaw": "AVAILABLE ADD-ONS",
+        "translatedRaw": "CÁC TÙY CHỌN BỔ SUNG CÓ SẴN",
+        "sourceText": "AVAILABLE ADD-ONS",
+        "translatedText": "CÁC TÙY CHỌN BỔ SUNG CÓ SẴN",
+        "hasHtmlTag": false
       },
       {
         "index": 91,
-        "source": "Enterprise-grade security features",
-        "translated": "Các tính năng bảo mật cấp doanh nghiệp"
+        "sourceRaw": "Enterprise-grade security features",
+        "translatedRaw": "Các tính năng bảo mật cấp doanh nghiệp",
+        "sourceText": "Enterprise-grade security features",
+        "translatedText": "Các tính năng bảo mật cấp doanh nghiệp",
+        "hasHtmlTag": false
       },
       {
         "index": 92,
-        "source": "Copilot for Business",
-        "translated": "Copilot dành cho doanh nghiệp"
+        "sourceRaw": "Copilot for Business",
+        "translatedRaw": "Copilot dành cho doanh nghiệp",
+        "sourceText": "Copilot for Business",
+        "translatedText": "Copilot dành cho doanh nghiệp",
+        "hasHtmlTag": false
       },
       {
         "index": 93,
-        "source": "Enterprise-grade AI features",
-        "translated": "Các tính năng AI cấp doanh nghiệp"
+        "sourceRaw": "Enterprise-grade AI features",
+        "translatedRaw": "Các tính năng AI cấp doanh nghiệp",
+        "sourceText": "Enterprise-grade AI features",
+        "translatedText": "Các tính năng AI cấp doanh nghiệp",
+        "hasHtmlTag": false
       },
       {
         "index": 94,
-        "source": "Premium Support",
-        "translated": "Hỗ trợ cao cấp"
+        "sourceRaw": "Premium Support",
+        "translatedRaw": "Hỗ trợ cao cấp",
+        "sourceText": "Premium Support",
+        "translatedText": "Hỗ trợ cao cấp",
+        "hasHtmlTag": false
       },
       {
         "index": 95,
-        "source": "Enterprise-grade 24/7 support",
-        "translated": "Hỗ trợ 24/7 cấp doanh nghiệp"
+        "sourceRaw": "Enterprise-grade 24/7 support",
+        "translatedRaw": "Hỗ trợ 24/7 cấp doanh nghiệp",
+        "sourceText": "Enterprise-grade 24/7 support",
+        "translatedText": "Hỗ trợ 24/7 cấp doanh nghiệp",
+        "hasHtmlTag": false
       },
       {
         "index": 96,
-        "source": "Pricing",
-        "translated": "Giá cả"
+        "sourceRaw": "Pricing",
+        "translatedRaw": "Giá cả",
+        "sourceText": "Pricing",
+        "translatedText": "Giá cả",
+        "hasHtmlTag": false
       },
       {
         "index": 97,
-        "source": "Search or jump to...",
-        "translated": "Tìm kiếm hoặc chuyển đến..."
+        "sourceRaw": "Search or jump to...",
+        "translatedRaw": "Tìm kiếm hoặc chuyển đến...",
+        "sourceText": "Search or jump to...",
+        "translatedText": "Tìm kiếm hoặc chuyển đến...",
+        "hasHtmlTag": false
       },
       {
         "index": 98,
-        "source": "\n                Sign in\n              ",
-        "translated": "Đăng nhập"
+        "sourceRaw": "\n                Sign in\n              ",
+        "translatedRaw": "Đăng nhập",
+        "sourceText": "Sign in",
+        "translatedText": "Đăng nhập",
+        "hasHtmlTag": false
       },
       {
         "index": 99,
-        "source": "\n                Sign up\n              ",
-        "translated": "Đăng ký"
+        "sourceRaw": "\n                Sign up\n              ",
+        "translatedRaw": "Đăng ký",
+        "sourceText": "Sign up",
+        "translatedText": "Đăng ký",
+        "hasHtmlTag": false
       },
       {
         "index": 100,
-        "source": "Mona the Octocat, Copilot, and Ducky float jubilantly upward from behind the GitHub product demo accompanied by a purple glow and a scattering of stars.",
-        "translated": "Mona chú mèo bạch tuộc, Copilot và Ducky hân hoan bay lên từ phía sau bản demo sản phẩm của GitHub, kèm theo ánh sáng tím và những vì sao lấp lánh."
+        "sourceRaw": "Mona the Octocat, Copilot, and Ducky float jubilantly upward from behind the GitHub product demo accompanied by a purple glow and a scattering of stars.",
+        "translatedRaw": "Mona chú mèo bạch tuộc, Copilot và Ducky hân hoan bay lên từ phía sau bản demo sản phẩm của GitHub, kèm theo ánh sáng tím và những vì sao lấp lánh.",
+        "sourceText": "Mona the Octocat, Copilot, and Ducky float jubilantly upward from behind the GitHub product demo accompanied by a purple glow and a scattering of stars.",
+        "translatedText": "Mona chú mèo bạch tuộc, Copilot và Ducky hân hoan bay lên từ phía sau bản demo sản phẩm của GitHub, kèm theo ánh sáng tím và những vì sao lấp lánh.",
+        "hasHtmlTag": false
       },
       {
         "index": 101,
-        "source": "The future of building happens together",
-        "translated": "Tương lai của ngành xây dựng được tạo nên bởi sự hợp tác."
+        "sourceRaw": "The future of building happens together",
+        "translatedRaw": "Tương lai của ngành xây dựng được tạo nên bởi sự hợp tác.",
+        "sourceText": "The future of building happens together",
+        "translatedText": "Tương lai của ngành xây dựng được tạo nên bởi sự hợp tác.",
+        "hasHtmlTag": false
       },
       {
         "index": 102,
-        "source": "Tools and trends evolve, but collaboration endures. With GitHub, developers, agents, and code come together on one platform.",
-        "translated": "Các công cụ và xu hướng luôn thay đổi, nhưng sự hợp tác thì không bao giờ lỗi thời. Với GitHub, các nhà phát triển, các chuyên gia và mã nguồn cùng hội tụ trên một nền tảng duy nhất."
+        "sourceRaw": "Tools and trends evolve, but collaboration endures. With GitHub, developers, agents, and code come together on one platform.",
+        "translatedRaw": "Các công cụ và xu hướng luôn thay đổi, nhưng sự hợp tác thì không bao giờ lỗi thời. Với GitHub, các nhà phát triển, các chuyên gia và mã nguồn cùng hội tụ trên một nền tảng duy nhất.",
+        "sourceText": "Tools and trends evolve, but collaboration endures. With GitHub, developers, agents, and code come together on one platform.",
+        "translatedText": "Các công cụ và xu hướng luôn thay đổi, nhưng sự hợp tác thì không bao giờ lỗi thời. Với GitHub, các nhà phát triển, các chuyên gia và mã nguồn cùng hội tụ trên một nền tảng duy nhất.",
+        "hasHtmlTag": false
       },
       {
         "index": 103,
-        "source": "Enter your email",
-        "translated": "Nhập email của bạn"
+        "sourceRaw": "Enter your email",
+        "translatedRaw": "Nhập email của bạn",
+        "sourceText": "Enter your email",
+        "translatedText": "Nhập email của bạn",
+        "hasHtmlTag": false
       },
       {
         "index": 104,
-        "source": "Sign up for GitHub",
-        "translated": "Đăng ký GitHub"
+        "sourceRaw": "Sign up for GitHub",
+        "translatedRaw": "Đăng ký GitHub",
+        "sourceText": "Sign up for GitHub",
+        "translatedText": "Đăng ký GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 105,
-        "source": "Try GitHub Copilot",
-        "translated": "Hãy thử GitHub Copilot"
+        "sourceRaw": "Try GitHub Copilot",
+        "translatedRaw": "Hãy thử GitHub Copilot",
+        "sourceText": "Try GitHub Copilot",
+        "translatedText": "Hãy thử GitHub Copilot",
+        "hasHtmlTag": false
       },
       {
         "index": 106,
-        "source": "GitHub features",
-        "translated": "Các tính năng của GitHub"
+        "sourceRaw": "GitHub features",
+        "translatedRaw": "Các tính năng của GitHub",
+        "sourceText": "GitHub features",
+        "translatedText": "Các tính năng của GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 107,
-        "source": "A demonstration animation of a code editor using GitHub Copilot Chat, where the user requests GitHub Copilot to refactor duplicated logic and extract it into a reusable function for a given code snippet.",
-        "translated": "Đây là hình ảnh động minh họa trình soạn thảo mã sử dụng GitHub Copilot Chat, trong đó người dùng yêu cầu GitHub Copilot tái cấu trúc logic trùng lặp và trích xuất nó thành một hàm có thể tái sử dụng cho một đoạn mã nhất định."
+        "sourceRaw": "A demonstration animation of a code editor using GitHub Copilot Chat, where the user requests GitHub Copilot to refactor duplicated logic and extract it into a reusable function for a given code snippet.",
+        "translatedRaw": "Đây là hình ảnh động minh họa trình soạn thảo mã sử dụng GitHub Copilot Chat, trong đó người dùng yêu cầu GitHub Copilot tái cấu trúc logic trùng lặp và trích xuất nó thành một hàm có thể tái sử dụng cho một đoạn mã nhất định.",
+        "sourceText": "A demonstration animation of a code editor using GitHub Copilot Chat, where the user requests GitHub Copilot to refactor duplicated logic and extract it into a reusable function for a given code snippet.",
+        "translatedText": "Đây là hình ảnh động minh họa trình soạn thảo mã sử dụng GitHub Copilot Chat, trong đó người dùng yêu cầu GitHub Copilot tái cấu trúc logic trùng lặp và trích xuất nó thành một hàm có thể tái sử dụng cho một đoạn mã nhất định.",
+        "hasHtmlTag": false
       },
       {
         "index": 108,
-        "source": "Code",
-        "translated": "Mã số"
+        "sourceRaw": "Code",
+        "translatedRaw": "Mã số",
+        "sourceText": "Code",
+        "translatedText": "Mã số",
+        "hasHtmlTag": false
       },
       {
         "index": 109,
-        "source": "Plan",
-        "translated": "Kế hoạch"
+        "sourceRaw": "Plan",
+        "translatedRaw": "Kế hoạch",
+        "sourceText": "Plan",
+        "translatedText": "Kế hoạch",
+        "hasHtmlTag": false
       },
       {
         "index": 110,
-        "source": "Collaborate",
-        "translated": "Hợp tác"
+        "sourceRaw": "Collaborate",
+        "translatedRaw": "Hợp tác",
+        "sourceText": "Collaborate",
+        "translatedText": "Hợp tác",
+        "hasHtmlTag": false
       },
       {
         "index": 111,
-        "source": "Automate",
-        "translated": "Tự động hóa"
+        "sourceRaw": "Automate",
+        "translatedRaw": "Tự động hóa",
+        "sourceText": "Automate",
+        "translatedText": "Tự động hóa",
+        "hasHtmlTag": false
       },
       {
         "index": 112,
-        "source": "Secure",
-        "translated": "Chắc chắn"
+        "sourceRaw": "Secure",
+        "translatedRaw": "Chắc chắn",
+        "sourceText": "Secure",
+        "translatedText": "Chắc chắn",
+        "hasHtmlTag": false
       },
       {
         "index": 113,
-        "source": "Write, test, and fix code quickly with GitHub Copilot, from simple boilerplate to complex features.",
-        "translated": "Với GitHub Copilot, bạn có thể viết, kiểm thử và sửa lỗi mã một cách nhanh chóng, từ những đoạn mã mẫu đơn giản đến các tính năng phức tạp."
+        "sourceRaw": "Write, test, and fix code quickly with GitHub Copilot, from simple boilerplate to complex features.",
+        "translatedRaw": "Với GitHub Copilot, bạn có thể viết, kiểm thử và sửa lỗi mã một cách nhanh chóng, từ những đoạn mã mẫu đơn giản đến các tính năng phức tạp.",
+        "sourceText": "Write, test, and fix code quickly with GitHub Copilot, from simple boilerplate to complex features.",
+        "translatedText": "Với GitHub Copilot, bạn có thể viết, kiểm thử và sửa lỗi mã một cách nhanh chóng, từ những đoạn mã mẫu đơn giản đến các tính năng phức tạp.",
+        "hasHtmlTag": false
       },
       {
         "index": 114,
-        "source": "GitHub customers",
-        "translated": "Khách hàng của GitHub"
+        "sourceRaw": "GitHub customers",
+        "translatedRaw": "Khách hàng của GitHub",
+        "sourceText": "GitHub customers",
+        "translatedText": "Khách hàng của GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 115,
-        "source": "Accelerate your entire workflow",
-        "translated": "Tăng tốc toàn bộ quy trình làm việc của bạn"
+        "sourceRaw": "Accelerate your entire workflow",
+        "translatedRaw": "Tăng tốc toàn bộ quy trình làm việc của bạn",
+        "sourceText": "Accelerate your entire workflow",
+        "translatedText": "Tăng tốc toàn bộ quy trình làm việc của bạn",
+        "hasHtmlTag": false
       },
       {
         "index": 116,
-        "source": "From your first line of code to final deployment, GitHub provides AI and automation tools to help you build and ship better software faster.",
-        "translated": "Từ dòng mã đầu tiên đến khi triển khai cuối cùng, GitHub cung cấp các công cụ trí tuệ nhân tạo và tự động hóa giúp bạn xây dựng và phát hành phần mềm tốt hơn một cách nhanh chóng hơn."
+        "sourceRaw": "From your first line of code to final deployment, GitHub provides AI and automation tools to help you build and ship better software faster.",
+        "translatedRaw": "Từ dòng mã đầu tiên đến khi triển khai cuối cùng, GitHub cung cấp các công cụ trí tuệ nhân tạo và tự động hóa giúp bạn xây dựng và phát hành phần mềm tốt hơn một cách nhanh chóng hơn.",
+        "sourceText": "From your first line of code to final deployment, GitHub provides AI and automation tools to help you build and ship better software faster.",
+        "translatedText": "Từ dòng mã đầu tiên đến khi triển khai cuối cùng, GitHub cung cấp các công cụ trí tuệ nhân tạo và tự động hóa giúp bạn xây dựng và phát hành phần mềm tốt hơn một cách nhanh chóng hơn.",
+        "hasHtmlTag": false
       }
     ]
   },
@@ -1442,248 +2279,395 @@
     "translations": [
       {
         "index": 0,
-        "source": "A Copilot chat window with the &#39;Ask&#39; mode enabled. The user switches from &#39;Ask&#39; mode to &#39;Agent&#39; mode from a dropdown menu, then sends the prompt &#39;Update the website to allow searching for running races by name.&#39; Copilot analyzes the codebase, then explains the required edits for three files before generating them. Copilot then confirms completion and summarizes the implemented changes for the new functionality allowing users to search races by name and view paginated, filtered results.",
-        "translated": "Cửa sổ trò chuyện Copilot với chế độ &#39;Hỏi&#39; ​​được kích hoạt. Người dùng chuyển từ chế độ &#39;Hỏi&#39; ​​sang chế độ &#39;Nhân viên hỗ trợ&#39; từ menu thả xuống, sau đó gửi yêu cầu &#39;Cập nhật trang web để cho phép tìm kiếm các cuộc đua chạy bộ theo tên.&#39; Copilot phân tích mã nguồn, sau đó giải thích các chỉnh sửa cần thiết cho ba tệp trước khi tạo chúng. Sau đó, Copilot xác nhận hoàn thành và tóm tắt các thay đổi đã được thực hiện cho chức năng mới cho phép người dùng tìm kiếm các cuộc đua theo tên và xem kết quả được phân trang và lọc."
+        "sourceRaw": "A Copilot chat window with the &#39;Ask&#39; mode enabled. The user switches from &#39;Ask&#39; mode to &#39;Agent&#39; mode from a dropdown menu, then sends the prompt &#39;Update the website to allow searching for running races by name.&#39; Copilot analyzes the codebase, then explains the required edits for three files before generating them. Copilot then confirms completion and summarizes the implemented changes for the new functionality allowing users to search races by name and view paginated, filtered results.",
+        "translatedRaw": "Cửa sổ trò chuyện Copilot với chế độ &#39;Hỏi&#39; ​​được kích hoạt. Người dùng chuyển từ chế độ &#39;Hỏi&#39; ​​sang chế độ &#39;Nhân viên hỗ trợ&#39; từ menu thả xuống, sau đó gửi yêu cầu &#39;Cập nhật trang web để cho phép tìm kiếm các cuộc đua chạy bộ theo tên.&#39; Copilot phân tích mã nguồn, sau đó giải thích các chỉnh sửa cần thiết cho ba tệp trước khi tạo chúng. Sau đó, Copilot xác nhận hoàn thành và tóm tắt các thay đổi đã được thực hiện cho chức năng mới cho phép người dùng tìm kiếm các cuộc đua theo tên và xem kết quả được phân trang và lọc.",
+        "sourceText": "A Copilot chat window with the 'Ask' mode enabled. The user switches from 'Ask' mode to 'Agent' mode from a dropdown menu, then sends the prompt 'Update the website to allow searching for running races by name.' Copilot analyzes the codebase, then explains the required edits for three files before generating them. Copilot then confirms completion and summarizes the implemented changes for the new functionality allowing users to search races by name and view paginated, filtered results.",
+        "translatedText": "Cửa sổ trò chuyện Copilot với chế độ 'Hỏi' ​​được kích hoạt. Người dùng chuyển từ chế độ 'Hỏi' ​​sang chế độ 'Nhân viên hỗ trợ' từ menu thả xuống, sau đó gửi yêu cầu 'Cập nhật trang web để cho phép tìm kiếm các cuộc đua chạy bộ theo tên.' Copilot phân tích mã nguồn, sau đó giải thích các chỉnh sửa cần thiết cho ba tệp trước khi tạo chúng. Sau đó, Copilot xác nhận hoàn thành và tóm tắt các thay đổi đã được thực hiện cho chức năng mới cho phép người dùng tìm kiếm các cuộc đua theo tên và xem kết quả được phân trang và lọc.",
+        "hasHtmlTag": false
       },
       {
         "index": 1,
-        "source": "<a i=0>Your AI partner everywhere.</a><a i=1> Copilot is ready to work with you at each step of the software development lifecycle.</a>",
-        "translated": "<a i=0>Đối tác AI của bạn mọi lúc mọi nơi.</a> <a i=1>Copilot sẵn sàng hợp tác với bạn ở mọi giai đoạn của vòng đời phát triển phần mềm.</a>"
+        "sourceRaw": "<a i=0>Your AI partner everywhere.</a><a i=1> Copilot is ready to work with you at each step of the software development lifecycle.</a>",
+        "translatedRaw": "<a i=0>Đối tác AI của bạn mọi lúc mọi nơi.</a> <a i=1>Copilot sẵn sàng hợp tác với bạn ở mọi giai đoạn của vòng đời phát triển phần mềm.</a>",
+        "sourceText": "Your AI partner everywhere. Copilot is ready to work with you at each step of the software development lifecycle.",
+        "translatedText": "Đối tác AI của bạn mọi lúc mọi nơi. Copilot sẵn sàng hợp tác với bạn ở mọi giai đoạn của vòng đời phát triển phần mềm.",
+        "hasHtmlTag": true
       },
       {
         "index": 2,
-        "source": "Explore GitHub Copilot",
-        "translated": "Khám phá GitHub Copilot"
+        "sourceRaw": "Explore GitHub Copilot",
+        "translatedRaw": "Khám phá GitHub Copilot",
+        "sourceText": "Explore GitHub Copilot",
+        "translatedText": "Khám phá GitHub Copilot",
+        "hasHtmlTag": false
       },
       {
         "index": 3,
-        "source": "Duolingo boosts developer speed by 25% with GitHub Copilot",
-        "translated": "Duolingo tăng tốc độ phát triển phần mềm lên 25% nhờ GitHub Copilot."
+        "sourceRaw": "Duolingo boosts developer speed by 25% with GitHub Copilot",
+        "translatedRaw": "Duolingo tăng tốc độ phát triển phần mềm lên 25% nhờ GitHub Copilot.",
+        "sourceText": "Duolingo boosts developer speed by 25% with GitHub Copilot",
+        "translatedText": "Duolingo tăng tốc độ phát triển phần mềm lên 25% nhờ GitHub Copilot.",
+        "hasHtmlTag": false
       },
       {
         "index": 4,
-        "source": "Read customer story",
-        "translated": "Đọc câu chuyện của khách hàng"
+        "sourceRaw": "Read customer story",
+        "translatedRaw": "Đọc câu chuyện của khách hàng",
+        "sourceText": "Read customer story",
+        "translatedText": "Đọc câu chuyện của khách hàng",
+        "hasHtmlTag": false
       },
       {
         "index": 5,
-        "source": "2025 Gartner® Magic Quadrant™ for AI Code Assistants",
-        "translated": "Bảng xếp hạng Gartner® Magic Quadrant™ năm 2025 dành cho Trợ lý lập trình AI"
+        "sourceRaw": "2025 Gartner® Magic Quadrant™ for AI Code Assistants",
+        "translatedRaw": "Bảng xếp hạng Gartner® Magic Quadrant™ năm 2025 dành cho Trợ lý lập trình AI",
+        "sourceText": "2025 Gartner® Magic Quadrant™ for AI Code Assistants",
+        "translatedText": "Bảng xếp hạng Gartner® Magic Quadrant™ năm 2025 dành cho Trợ lý lập trình AI",
+        "hasHtmlTag": false
       },
       {
         "index": 6,
-        "source": "Read industry report",
-        "translated": "Đọc báo cáo ngành"
+        "sourceRaw": "Read industry report",
+        "translatedRaw": "Đọc báo cáo ngành",
+        "sourceText": "Read industry report",
+        "translatedText": "Đọc báo cáo ngành",
+        "hasHtmlTag": false
       },
       {
         "index": 7,
-        "source": "Automate your path to production",
-        "translated": "Tự động hóa quy trình đưa sản phẩm vào sản xuất."
+        "sourceRaw": "Automate your path to production",
+        "translatedRaw": "Tự động hóa quy trình đưa sản phẩm vào sản xuất.",
+        "sourceText": "Automate your path to production",
+        "translatedText": "Tự động hóa quy trình đưa sản phẩm vào sản xuất.",
+        "hasHtmlTag": false
       },
       {
         "index": 8,
-        "source": "Ship faster with secure, reliable CI/CD.",
-        "translated": "Vận chuyển nhanh hơn với CI/CD an toàn và đáng tin cậy."
+        "sourceRaw": "Ship faster with secure, reliable CI/CD.",
+        "translatedRaw": "Vận chuyển nhanh hơn với CI/CD an toàn và đáng tin cậy.",
+        "sourceText": "Ship faster with secure, reliable CI/CD.",
+        "translatedText": "Vận chuyển nhanh hơn với CI/CD an toàn và đáng tin cậy.",
+        "hasHtmlTag": false
       },
       {
         "index": 9,
-        "source": "Explore GitHub Actions",
-        "translated": "Khám phá GitHub Actions"
+        "sourceRaw": "Explore GitHub Actions",
+        "translatedRaw": "Khám phá GitHub Actions",
+        "sourceText": "Explore GitHub Actions",
+        "translatedText": "Khám phá GitHub Actions",
+        "hasHtmlTag": false
       },
       {
         "index": 10,
-        "source": "Code instantly from anywhere",
-        "translated": "Viết mã tức thì từ bất cứ đâu"
+        "sourceRaw": "Code instantly from anywhere",
+        "translatedRaw": "Viết mã tức thì từ bất cứ đâu",
+        "sourceText": "Code instantly from anywhere",
+        "translatedText": "Viết mã tức thì từ bất cứ đâu",
+        "hasHtmlTag": false
       },
       {
         "index": 11,
-        "source": "Launch a full, cloud-based development environment in seconds.",
-        "translated": "Khởi tạo môi trường phát triển hoàn chỉnh dựa trên điện toán đám mây chỉ trong vài giây."
+        "sourceRaw": "Launch a full, cloud-based development environment in seconds.",
+        "translatedRaw": "Khởi tạo môi trường phát triển hoàn chỉnh dựa trên điện toán đám mây chỉ trong vài giây.",
+        "sourceText": "Launch a full, cloud-based development environment in seconds.",
+        "translatedText": "Khởi tạo môi trường phát triển hoàn chỉnh dựa trên điện toán đám mây chỉ trong vài giây.",
+        "hasHtmlTag": false
       },
       {
         "index": 12,
-        "source": "Explore GitHub Codespaces",
-        "translated": "Khám phá GitHub Codespaces"
+        "sourceRaw": "Explore GitHub Codespaces",
+        "translatedRaw": "Khám phá GitHub Codespaces",
+        "sourceText": "Explore GitHub Codespaces",
+        "translatedText": "Khám phá GitHub Codespaces",
+        "hasHtmlTag": false
       },
       {
         "index": 13,
-        "source": "Keep momentum on the go",
-        "translated": "Tiếp tục duy trì đà tiến lên"
+        "sourceRaw": "Keep momentum on the go",
+        "translatedRaw": "Tiếp tục duy trì đà tiến lên",
+        "sourceText": "Keep momentum on the go",
+        "translatedText": "Tiếp tục duy trì đà tiến lên",
+        "hasHtmlTag": false
       },
       {
         "index": 14,
-        "source": "Manage projects and assign tasks to Copilot, all from your mobile device.",
-        "translated": "Quản lý dự án và giao nhiệm vụ cho Copilot, tất cả đều từ thiết bị di động của bạn."
+        "sourceRaw": "Manage projects and assign tasks to Copilot, all from your mobile device.",
+        "translatedRaw": "Quản lý dự án và giao nhiệm vụ cho Copilot, tất cả đều từ thiết bị di động của bạn.",
+        "sourceText": "Manage projects and assign tasks to Copilot, all from your mobile device.",
+        "translatedText": "Quản lý dự án và giao nhiệm vụ cho Copilot, tất cả đều từ thiết bị di động của bạn.",
+        "hasHtmlTag": false
       },
       {
         "index": 15,
-        "source": "Explore GitHub Mobile",
-        "translated": "Khám phá GitHub Mobile"
+        "sourceRaw": "Explore GitHub Mobile",
+        "translatedRaw": "Khám phá GitHub Mobile",
+        "sourceText": "Explore GitHub Mobile",
+        "translatedText": "Khám phá GitHub Mobile",
+        "hasHtmlTag": false
       },
       {
         "index": 16,
-        "source": "Shape your toolchain",
-        "translated": "Định hình chuỗi công cụ của bạn"
+        "sourceRaw": "Shape your toolchain",
+        "translatedRaw": "Định hình chuỗi công cụ của bạn",
+        "sourceText": "Shape your toolchain",
+        "translatedText": "Định hình chuỗi công cụ của bạn",
+        "hasHtmlTag": false
       },
       {
         "index": 17,
-        "source": "Extend your stack with apps, actions, and AI models.",
-        "translated": "Mở rộng hệ sinh thái của bạn với các ứng dụng, hành động và mô hình AI."
+        "sourceRaw": "Extend your stack with apps, actions, and AI models.",
+        "translatedRaw": "Mở rộng hệ sinh thái của bạn với các ứng dụng, hành động và mô hình AI.",
+        "sourceText": "Extend your stack with apps, actions, and AI models.",
+        "translatedText": "Mở rộng hệ sinh thái của bạn với các ứng dụng, hành động và mô hình AI.",
+        "hasHtmlTag": false
       },
       {
         "index": 18,
-        "source": "Explore GitHub Marketplace",
-        "translated": "Khám phá GitHub Marketplace"
+        "sourceRaw": "Explore GitHub Marketplace",
+        "translatedRaw": "Khám phá GitHub Marketplace",
+        "sourceText": "Explore GitHub Marketplace",
+        "translatedText": "Khám phá GitHub Marketplace",
+        "hasHtmlTag": false
       },
       {
         "index": 19,
-        "source": "Built-in application security where found means fixed",
-        "translated": "Bảo mật ứng dụng tích hợp sẵn (nếu có) nghĩa là đã được khắc phục."
+        "sourceRaw": "Built-in application security where found means fixed",
+        "translatedRaw": "Bảo mật ứng dụng tích hợp sẵn (nếu có) nghĩa là đã được khắc phục.",
+        "sourceText": "Built-in application security where found means fixed",
+        "translatedText": "Bảo mật ứng dụng tích hợp sẵn (nếu có) nghĩa là đã được khắc phục.",
+        "hasHtmlTag": false
       },
       {
         "index": 20,
-        "source": "Use AI to find and fix vulnerabilities so your team can ship more secure software faster.",
-        "translated": "Sử dụng trí tuệ nhân tạo để tìm và khắc phục các lỗ hổng bảo mật, giúp nhóm của bạn nhanh chóng phát hành phần mềm an toàn hơn."
+        "sourceRaw": "Use AI to find and fix vulnerabilities so your team can ship more secure software faster.",
+        "translatedRaw": "Sử dụng trí tuệ nhân tạo để tìm và khắc phục các lỗ hổng bảo mật, giúp nhóm của bạn nhanh chóng phát hành phần mềm an toàn hơn.",
+        "sourceText": "Use AI to find and fix vulnerabilities so your team can ship more secure software faster.",
+        "translatedText": "Sử dụng trí tuệ nhân tạo để tìm và khắc phục các lỗ hổng bảo mật, giúp nhóm của bạn nhanh chóng phát hành phần mềm an toàn hơn.",
+        "hasHtmlTag": false
       },
       {
         "index": 21,
-        "source": "<a i=0>Apply fixes in seconds. </a><a i=1>Spend less time debugging and more time building features with Copilot Autofix.</a>",
-        "translated": "<a i=0>Khắc phục sự cố chỉ trong vài giây.</a> <a i=1>Dành ít thời gian hơn cho việc gỡ lỗi và nhiều thời gian hơn cho việc phát triển tính năng với Copilot Autofix.</a>"
+        "sourceRaw": "<a i=0>Apply fixes in seconds. </a><a i=1>Spend less time debugging and more time building features with Copilot Autofix.</a>",
+        "translatedRaw": "<a i=0>Khắc phục sự cố chỉ trong vài giây.</a> <a i=1>Dành ít thời gian hơn cho việc gỡ lỗi và nhiều thời gian hơn cho việc phát triển tính năng với Copilot Autofix.</a>",
+        "sourceText": "Apply fixes in seconds. Spend less time debugging and more time building features with Copilot Autofix.",
+        "translatedText": "Khắc phục sự cố chỉ trong vài giây. Dành ít thời gian hơn cho việc gỡ lỗi và nhiều thời gian hơn cho việc phát triển tính năng với Copilot Autofix.",
+        "hasHtmlTag": true
       },
       {
         "index": 22,
-        "source": "Explore GitHub Advanced Security",
-        "translated": "Khám phá Bảo mật Nâng cao của GitHub"
+        "sourceRaw": "Explore GitHub Advanced Security",
+        "translatedRaw": "Khám phá Bảo mật Nâng cao của GitHub",
+        "sourceText": "Explore GitHub Advanced Security",
+        "translatedText": "Khám phá Bảo mật Nâng cao của GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 23,
-        "source": "<a i=0>Security debt, solved.</a><a i=1> Leverage security campaigns and Copilot Autofix to reduce application vulnerabilities.</a>",
-        "translated": "<a i=0>Vấn đề bảo mật đã được giải quyết.</a> <a i=1>Tận dụng các chiến dịch bảo mật và Copilot Autofix để giảm thiểu các lỗ hổng bảo mật ứng dụng.</a>"
+        "sourceRaw": "<a i=0>Security debt, solved.</a><a i=1> Leverage security campaigns and Copilot Autofix to reduce application vulnerabilities.</a>",
+        "translatedRaw": "<a i=0>Vấn đề bảo mật đã được giải quyết.</a> <a i=1>Tận dụng các chiến dịch bảo mật và Copilot Autofix để giảm thiểu các lỗ hổng bảo mật ứng dụng.</a>",
+        "sourceText": "Security debt, solved. Leverage security campaigns and Copilot Autofix to reduce application vulnerabilities.",
+        "translatedText": "Vấn đề bảo mật đã được giải quyết. Tận dụng các chiến dịch bảo mật và Copilot Autofix để giảm thiểu các lỗ hổng bảo mật ứng dụng.",
+        "hasHtmlTag": true
       },
       {
         "index": 24,
-        "source": "Learn about GitHub Code Security",
-        "translated": "Tìm hiểu về bảo mật mã nguồn GitHub"
+        "sourceRaw": "Learn about GitHub Code Security",
+        "translatedRaw": "Tìm hiểu về bảo mật mã nguồn GitHub",
+        "sourceText": "Learn about GitHub Code Security",
+        "translatedText": "Tìm hiểu về bảo mật mã nguồn GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 25,
-        "source": "<a i=0>Dependencies you can depend on.</a><a i=1> Update vulnerable dependencies with supported fixes for breaking changes.</a>",
-        "translated": "<a i=0>Các thư viện phụ thuộc mà bạn có thể tin cậy.</a> <a i=1>Cập nhật các thư viện phụ thuộc dễ bị tổn thương bằng các bản vá được hỗ trợ để khắc phục các thay đổi gây lỗi.</a>"
+        "sourceRaw": "<a i=0>Dependencies you can depend on.</a><a i=1> Update vulnerable dependencies with supported fixes for breaking changes.</a>",
+        "translatedRaw": "<a i=0>Các thư viện phụ thuộc mà bạn có thể tin cậy.</a> <a i=1>Cập nhật các thư viện phụ thuộc dễ bị tổn thương bằng các bản vá được hỗ trợ để khắc phục các thay đổi gây lỗi.</a>",
+        "sourceText": "Dependencies you can depend on. Update vulnerable dependencies with supported fixes for breaking changes.",
+        "translatedText": "Các thư viện phụ thuộc mà bạn có thể tin cậy. Cập nhật các thư viện phụ thuộc dễ bị tổn thương bằng các bản vá được hỗ trợ để khắc phục các thay đổi gây lỗi.",
+        "hasHtmlTag": true
       },
       {
         "index": 26,
-        "source": "Learn about Dependabot",
-        "translated": "Tìm hiểu về Dependabot"
+        "sourceRaw": "Learn about Dependabot",
+        "translatedRaw": "Tìm hiểu về Dependabot",
+        "sourceText": "Learn about Dependabot",
+        "translatedText": "Tìm hiểu về Dependabot",
+        "hasHtmlTag": false
       },
       {
         "index": 27,
-        "source": "<a i=0>Your secrets, your business.</a><a i=1> Detect, prevent, and remediate leaked secrets across your organization.</a>",
-        "translated": "<a i=0>Bí mật của bạn, việc kinh doanh của bạn.</a> <a i=1>Phát hiện, ngăn chặn và khắc phục tình trạng rò rỉ bí mật trong toàn bộ tổ chức của bạn.</a>"
+        "sourceRaw": "<a i=0>Your secrets, your business.</a><a i=1> Detect, prevent, and remediate leaked secrets across your organization.</a>",
+        "translatedRaw": "<a i=0>Bí mật của bạn, việc kinh doanh của bạn.</a> <a i=1>Phát hiện, ngăn chặn và khắc phục tình trạng rò rỉ bí mật trong toàn bộ tổ chức của bạn.</a>",
+        "sourceText": "Your secrets, your business. Detect, prevent, and remediate leaked secrets across your organization.",
+        "translatedText": "Bí mật của bạn, việc kinh doanh của bạn. Phát hiện, ngăn chặn và khắc phục tình trạng rò rỉ bí mật trong toàn bộ tổ chức của bạn.",
+        "hasHtmlTag": true
       },
       {
         "index": 28,
-        "source": "Learn about GitHub Secret Protection",
-        "translated": "Tìm hiểu về tính năng Bảo vệ Bí mật của GitHub."
+        "sourceRaw": "Learn about GitHub Secret Protection",
+        "translatedRaw": "Tìm hiểu về tính năng Bảo vệ Bí mật của GitHub.",
+        "sourceText": "Learn about GitHub Secret Protection",
+        "translatedText": "Tìm hiểu về tính năng Bảo vệ Bí mật của GitHub.",
+        "hasHtmlTag": false
       },
       {
         "index": 29,
-        "source": "70% MTTR reduction",
-        "translated": "Giảm 70% MTTR"
+        "sourceRaw": "70% MTTR reduction",
+        "translatedRaw": "Giảm 70% MTTR",
+        "sourceText": "70% MTTR reduction",
+        "translatedText": "Giảm 70% MTTR",
+        "hasHtmlTag": false
       },
       {
         "index": 30,
-        "source": "with Copilot Autofix",
-        "translated": "với Copilot Autofix"
+        "sourceRaw": "with Copilot Autofix",
+        "translatedRaw": "với Copilot Autofix",
+        "sourceText": "with Copilot Autofix",
+        "translatedText": "với Copilot Autofix",
+        "hasHtmlTag": false
       },
       {
         "index": 31,
-        "source": "1",
-        "translated": "1"
+        "sourceRaw": "1",
+        "translatedRaw": "1",
+        "sourceText": "1",
+        "translatedText": "1",
+        "hasHtmlTag": false
       },
       {
         "index": 32,
-        "source": "8.3M secret leaks stopped",
-        "translated": "8,3 triệu vụ rò rỉ thông tin bí mật đã được ngăn chặn."
+        "sourceRaw": "8.3M secret leaks stopped",
+        "translatedRaw": "8,3 triệu vụ rò rỉ thông tin bí mật đã được ngăn chặn.",
+        "sourceText": "8.3M secret leaks stopped",
+        "translatedText": "8,3 triệu vụ rò rỉ thông tin bí mật đã được ngăn chặn.",
+        "hasHtmlTag": false
       },
       {
         "index": 33,
-        "source": "in the past 12 months with push protection",
-        "translated": "trong 12 tháng qua với tính năng bảo vệ đẩy"
+        "sourceRaw": "in the past 12 months with push protection",
+        "translatedRaw": "trong 12 tháng qua với tính năng bảo vệ đẩy",
+        "sourceText": "in the past 12 months with push protection",
+        "translatedText": "trong 12 tháng qua với tính năng bảo vệ đẩy",
+        "hasHtmlTag": false
       },
       {
         "index": 34,
-        "source": "Work together, achieve more",
-        "translated": "Cùng nhau hợp tác, đạt được nhiều thành quả hơn."
+        "sourceRaw": "Work together, achieve more",
+        "translatedRaw": "Cùng nhau hợp tác, đạt được nhiều thành quả hơn.",
+        "sourceText": "Work together, achieve more",
+        "translatedText": "Cùng nhau hợp tác, đạt được nhiều thành quả hơn.",
+        "hasHtmlTag": false
       },
       {
         "index": 35,
-        "source": "From planning and discussion to code review, GitHub keeps your team’s conversation and context next to your code.",
-        "translated": "Từ khâu lập kế hoạch và thảo luận đến đánh giá mã, GitHub giúp bạn luôn theo dõi cuộc trò chuyện và bối cảnh của nhóm ngay bên cạnh mã nguồn."
+        "sourceRaw": "From planning and discussion to code review, GitHub keeps your team’s conversation and context next to your code.",
+        "translatedRaw": "Từ khâu lập kế hoạch và thảo luận đến đánh giá mã, GitHub giúp bạn luôn theo dõi cuộc trò chuyện và bối cảnh của nhóm ngay bên cạnh mã nguồn.",
+        "sourceText": "From planning and discussion to code review, GitHub keeps your team’s conversation and context next to your code.",
+        "translatedText": "Từ khâu lập kế hoạch và thảo luận đến đánh giá mã, GitHub giúp bạn luôn theo dõi cuộc trò chuyện và bối cảnh của nhóm ngay bên cạnh mã nguồn.",
+        "hasHtmlTag": false
       },
       {
         "index": 36,
-        "source": "<a i=0>Plan with clarity.</a><a i=1> Organize everything from high-level roadmaps to everyday tasks.</a>",
-        "translated": "<a i=0>Lập kế hoạch rõ ràng.</a> <a i=1>Tổ chức mọi thứ, từ lộ trình tổng thể đến các nhiệm vụ hàng ngày.</a>"
+        "sourceRaw": "<a i=0>Plan with clarity.</a><a i=1> Organize everything from high-level roadmaps to everyday tasks.</a>",
+        "translatedRaw": "<a i=0>Lập kế hoạch rõ ràng.</a> <a i=1>Tổ chức mọi thứ, từ lộ trình tổng thể đến các nhiệm vụ hàng ngày.</a>",
+        "sourceText": "Plan with clarity. Organize everything from high-level roadmaps to everyday tasks.",
+        "translatedText": "Lập kế hoạch rõ ràng. Tổ chức mọi thứ, từ lộ trình tổng thể đến các nhiệm vụ hàng ngày.",
+        "hasHtmlTag": true
       },
       {
         "index": 37,
-        "source": "Explore GitHub Projects",
-        "translated": "Khám phá các dự án GitHub"
+        "sourceRaw": "Explore GitHub Projects",
+        "translatedRaw": "Khám phá các dự án GitHub",
+        "sourceText": "Explore GitHub Projects",
+        "translatedText": "Khám phá các dự án GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 38,
-        "source": "“",
-        "translated": "“"
+        "sourceRaw": "“",
+        "translatedRaw": "“",
+        "sourceText": "“",
+        "translatedText": "“",
+        "hasHtmlTag": false
       },
       {
         "index": 39,
-        "source": "It helps us onboard new software engineers and get them productive right away. We have all our source code, issues, and pull requests in one place... GitHub is a complete platform that frees us from menial tasks and enables us to do our best work.",
-        "translated": "Nó giúp chúng tôi đào tạo các kỹ sư phần mềm mới và giúp họ làm việc hiệu quả ngay lập tức. Chúng tôi có tất cả mã nguồn, vấn đề và yêu cầu kéo (pull request) ở cùng một nơi... GitHub là một nền tảng hoàn chỉnh giúp chúng tôi thoát khỏi những công việc nhàm chán và cho phép chúng tôi làm việc hiệu quả nhất."
+        "sourceRaw": "It helps us onboard new software engineers and get them productive right away. We have all our source code, issues, and pull requests in one place... GitHub is a complete platform that frees us from menial tasks and enables us to do our best work.",
+        "translatedRaw": "Nó giúp chúng tôi đào tạo các kỹ sư phần mềm mới và giúp họ làm việc hiệu quả ngay lập tức. Chúng tôi có tất cả mã nguồn, vấn đề và yêu cầu kéo (pull request) ở cùng một nơi... GitHub là một nền tảng hoàn chỉnh giúp chúng tôi thoát khỏi những công việc nhàm chán và cho phép chúng tôi làm việc hiệu quả nhất.",
+        "sourceText": "It helps us onboard new software engineers and get them productive right away. We have all our source code, issues, and pull requests in one place... GitHub is a complete platform that frees us from menial tasks and enables us to do our best work.",
+        "translatedText": "Nó giúp chúng tôi đào tạo các kỹ sư phần mềm mới và giúp họ làm việc hiệu quả ngay lập tức. Chúng tôi có tất cả mã nguồn, vấn đề và yêu cầu kéo (pull request) ở cùng một nơi... GitHub là một nền tảng hoàn chỉnh giúp chúng tôi thoát khỏi những công việc nhàm chán và cho phép chúng tôi làm việc hiệu quả nhất.",
+        "hasHtmlTag": false
       },
       {
         "index": 40,
-        "source": "Fabian Faulhaber",
-        "translated": "Fabian Faulhaber"
+        "sourceRaw": "Fabian Faulhaber",
+        "translatedRaw": "Fabian Faulhaber",
+        "sourceText": "Fabian Faulhaber",
+        "translatedText": "Fabian Faulhaber",
+        "hasHtmlTag": false
       },
       {
         "index": 41,
-        "source": "Application manager at Mercedes-Benz",
-        "translated": "Quản lý ứng dụng tại Mercedes-Benz"
+        "sourceRaw": "Application manager at Mercedes-Benz",
+        "translatedRaw": "Quản lý ứng dụng tại Mercedes-Benz",
+        "sourceText": "Application manager at Mercedes-Benz",
+        "translatedText": "Quản lý ứng dụng tại Mercedes-Benz",
+        "hasHtmlTag": false
       },
       {
         "index": 42,
-        "source": "Keep track of your tasks",
-        "translated": "Theo dõi các nhiệm vụ của bạn"
+        "sourceRaw": "Keep track of your tasks",
+        "translatedRaw": "Theo dõi các nhiệm vụ của bạn",
+        "sourceText": "Keep track of your tasks",
+        "translatedText": "Theo dõi các nhiệm vụ của bạn",
+        "hasHtmlTag": false
       },
       {
         "index": 43,
-        "source": "Create issues and manage projects with tools that adapt to your code.",
-        "translated": "Tạo vấn đề và quản lý dự án bằng các công cụ thích ứng với mã nguồn của bạn."
+        "sourceRaw": "Create issues and manage projects with tools that adapt to your code.",
+        "translatedRaw": "Tạo vấn đề và quản lý dự án bằng các công cụ thích ứng với mã nguồn của bạn.",
+        "sourceText": "Create issues and manage projects with tools that adapt to your code.",
+        "translatedText": "Tạo vấn đề và quản lý dự án bằng các công cụ thích ứng với mã nguồn của bạn.",
+        "hasHtmlTag": false
       },
       {
         "index": 44,
-        "source": "Explore GitHub Issues",
-        "translated": "Khám phá các vấn đề trên GitHub"
+        "sourceRaw": "Explore GitHub Issues",
+        "translatedRaw": "Khám phá các vấn đề trên GitHub",
+        "sourceText": "Explore GitHub Issues",
+        "translatedText": "Khám phá các vấn đề trên GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 45,
-        "source": "Share ideas and ask questions",
-        "translated": "Chia sẻ ý tưởng và đặt câu hỏi"
+        "sourceRaw": "Share ideas and ask questions",
+        "translatedRaw": "Chia sẻ ý tưởng và đặt câu hỏi",
+        "sourceText": "Share ideas and ask questions",
+        "translatedText": "Chia sẻ ý tưởng và đặt câu hỏi",
+        "hasHtmlTag": false
       },
       {
         "index": 46,
-        "source": "Create space for open-ended conversations alongside your project.",
-        "translated": "Hãy tạo không gian cho những cuộc trò chuyện cởi mở bên cạnh dự án của bạn."
+        "sourceRaw": "Create space for open-ended conversations alongside your project.",
+        "translatedRaw": "Hãy tạo không gian cho những cuộc trò chuyện cởi mở bên cạnh dự án của bạn.",
+        "sourceText": "Create space for open-ended conversations alongside your project.",
+        "translatedText": "Hãy tạo không gian cho những cuộc trò chuyện cởi mở bên cạnh dự án của bạn.",
+        "hasHtmlTag": false
       },
       {
         "index": 47,
-        "source": "Explore GitHub Discussions",
-        "translated": "Khám phá các cuộc thảo luận trên GitHub"
+        "sourceRaw": "Explore GitHub Discussions",
+        "translatedRaw": "Khám phá các cuộc thảo luận trên GitHub",
+        "sourceText": "Explore GitHub Discussions",
+        "translatedText": "Khám phá các cuộc thảo luận trên GitHub",
+        "hasHtmlTag": false
       },
       {
         "index": 48,
-        "source": "Review code changes together",
-        "translated": "Cùng nhau xem xét các thay đổi mã."
+        "sourceRaw": "Review code changes together",
+        "translatedRaw": "Cùng nhau xem xét các thay đổi mã.",
+        "sourceText": "Review code changes together",
+        "translatedText": "Cùng nhau xem xét các thay đổi mã.",
+        "hasHtmlTag": false
       }
     ]
   }
